@@ -3,7 +3,11 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const categories = ['when', 'where', 'who', 'what', 'how', 'action'];
+const categories = [
+  'who', 'whom', 'what', 'which', 'when', 'where', 'why', 'how',
+  'how_many', 'how_much', 'how_long', 'what_if', 'so_what', 'now_what',
+  'action',
+];
 const expectedCount = 3000;
 
 const normalize = (value) => value
@@ -100,7 +104,12 @@ for (const category of categories) {
   if (normalizedDuplicates) errors.push(`${normalizedDuplicates} normalized duplicates`);
   if (category === 'where' && values.some((value) => /で$/.test(value))) errors.push('where value with trailing で');
   if (category === 'who' && values.some((value) => /が$/.test(value))) errors.push('who value with trailing が');
+  if (category === 'whom' && values.some((value) => /に$/.test(value))) errors.push('whom value with trailing に');
   if (category === 'what' && values.some((value) => /を$/.test(value))) errors.push('what value with trailing を');
+  if (category === 'why' && values.some((value) => !/から$/.test(value))) errors.push('why value not ending in から');
+  if (category === 'what_if' && values.some((value) => !/^もし/.test(value))) errors.push('what-if value not starting with もし');
+  if (category === 'so_what' && values.some((value) => !/と言える$/.test(value))) errors.push('so-what value not ending in と言える');
+  if (category === 'now_what' && values.some((value) => !/(?:する|す)$/.test(value))) errors.push('now-what value not ending in a dictionary-form action');
   if (category === 'action' && values.some((value) => !/[ただ]$/.test(value))) errors.push('action value not ending in Japanese past tense');
 
   const similarity = similarityReport(values);

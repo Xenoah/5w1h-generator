@@ -1,6 +1,7 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { writeExtendedWordData } from './generate-extended-word-data.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dataDir = path.join(root, 'data');
@@ -2701,3 +2702,5 @@ for (const [category, families] of Object.entries(categories)) {
   await writeFile(path.join(dataDir, `${category}.json`), `${JSON.stringify(values, null, 2)}\n`, 'utf8');
   console.log(`${category}: ${values.length} (${families.map(({ name }) => name).join(' / ')})`);
 }
+
+await writeExtendedWordData(dataDir);

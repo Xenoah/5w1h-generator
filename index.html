@@ -6,9 +6,9 @@
     <meta name="theme-color" content="#f4eee2">
     <meta
       name="description"
-      content="いつ・どこで・だれが・なにを・どのように・どうしたかを、ことばの組み合わせからランダムに作る5W1Hメーカーです。"
+      content="5W1H、5W2H、5W3H、6W1H、So What、Now What、What ifを切り替えて、問いの要素をランダムに組み合わせる発想メーカーです。"
     >
-    <title>5W1Hメーカー | 偶然から生まれる一文</title>
+    <title>5W1H+メーカー | 問いの型から発想する</title>
     <link rel="stylesheet" href="./styles.css">
     <script src="./app.js" defer></script>
   </head>
@@ -17,39 +17,48 @@
 
     <div class="page-shell">
       <header class="site-header">
-        <a class="brand" href="./" aria-label="5W1Hメーカー トップ">
+        <a class="brand" href="./" aria-label="5W1H+メーカー トップ">
           <span class="brand-mark" aria-hidden="true">?</span>
-          <span>5W1Hメーカー</span>
+          <span>5W1H+メーカー</span>
         </a>
-        <p class="header-note">6つの偶然を、ひとつの物語に。</p>
+        <p class="header-note">14の問いを、考えるための型に。</p>
       </header>
 
       <main>
         <section class="hero" aria-labelledby="page-title">
-          <p class="eyebrow">RANDOM STORY SEEDS</p>
-          <h1 id="page-title">思いがけない一文を<br><span>組み立てよう。</span></h1>
+          <p class="eyebrow">RANDOM THINKING PROMPTS</p>
+          <h1 id="page-title">問いの型から<br><span>発想を広げよう。</span></h1>
           <p class="lead">
-            「いつ・どこで・だれが・なにを・どのように・どうしたか」を<br class="lead-break">
-            ランダムに選び、ちょっと不思議な物語の種をつくります。
+            5W1HからWhat if・So What・Now Whatまで。<br class="lead-break">
+            目的に合う形式を選び、考えるきっかけをランダムに組み立てます。
           </p>
         </section>
 
         <section id="generator" class="generator" aria-labelledby="generator-title" aria-busy="true">
           <div class="section-heading">
             <div>
-              <p class="section-kicker">YOUR RANDOM SENTENCE</p>
+              <p class="section-kicker">YOUR THINKING FRAME</p>
               <h2 id="generator-title">今回の組み合わせ</h2>
             </div>
             <p class="data-summary" id="data-summary">ことばを準備しています…</p>
+          </div>
+
+          <div class="format-picker">
+            <div class="format-control">
+              <label for="format-select">使用する形式</label>
+              <select id="format-select" disabled aria-describedby="format-description"></select>
+            </div>
+            <div class="format-copy">
+              <strong id="format-title">5W1H</strong>
+              <p id="format-description">情報整理・報道・説明に使う基本形です。</p>
+            </div>
           </div>
 
           <div class="error-panel" id="error-panel" role="alert" hidden>
             <div class="error-icon" aria-hidden="true">!</div>
             <div>
               <h3>ことばを読み込めませんでした</h3>
-              <p id="error-message">
-                通信状態を確認して、もう一度お試しください。
-              </p>
+              <p id="error-message">通信状態を確認して、もう一度お試しください。</p>
               <p class="local-note">
                 ファイルを直接開いている場合は、ローカルサーバーまたはGitHub Pagesから表示してください。
               </p>
@@ -57,115 +66,68 @@
             </div>
           </div>
 
-          <div class="word-grid" id="word-grid">
-            <article class="word-card card-when" data-card="when">
-              <div class="card-topline">
-                <h3><span aria-hidden="true">01</span> いつ</h3>
-                <span class="word-count" data-count="when">— 語</span>
-              </div>
-              <p class="word-output is-loading" data-output="when">読み込み中…</p>
-              <button class="redraw-button" data-redraw="when" type="button" disabled>
-                <span class="redraw-icon" aria-hidden="true">↻</span>
-                <span>「いつ」を引き直す</span>
-              </button>
-            </article>
-
-            <article class="word-card card-where" data-card="where">
-              <div class="card-topline">
-                <h3><span aria-hidden="true">02</span> どこで</h3>
-                <span class="word-count" data-count="where">— 語</span>
-              </div>
-              <p class="word-output is-loading" data-output="where">読み込み中…</p>
-              <button class="redraw-button" data-redraw="where" type="button" disabled>
-                <span class="redraw-icon" aria-hidden="true">↻</span>
-                <span>「どこで」を引き直す</span>
-              </button>
-            </article>
-
-            <article class="word-card card-who" data-card="who">
-              <div class="card-topline">
-                <h3><span aria-hidden="true">03</span> だれが</h3>
-                <span class="word-count" data-count="who">— 語</span>
-              </div>
-              <p class="word-output is-loading" data-output="who">読み込み中…</p>
-              <button class="redraw-button" data-redraw="who" type="button" disabled>
-                <span class="redraw-icon" aria-hidden="true">↻</span>
-                <span>「だれが」を引き直す</span>
-              </button>
-            </article>
-
-            <article class="word-card card-what" data-card="what">
-              <div class="card-topline">
-                <h3><span aria-hidden="true">04</span> なにを</h3>
-                <span class="word-count" data-count="what">— 語</span>
-              </div>
-              <p class="word-output is-loading" data-output="what">読み込み中…</p>
-              <button class="redraw-button" data-redraw="what" type="button" disabled>
-                <span class="redraw-icon" aria-hidden="true">↻</span>
-                <span>「なにを」を引き直す</span>
-              </button>
-            </article>
-
-            <article class="word-card card-how" data-card="how">
-              <div class="card-topline">
-                <h3><span aria-hidden="true">05</span> どのように</h3>
-                <span class="word-count" data-count="how">— 語</span>
-              </div>
-              <p class="word-output is-loading" data-output="how">読み込み中…</p>
-              <button class="redraw-button" data-redraw="how" type="button" disabled>
-                <span class="redraw-icon" aria-hidden="true">↻</span>
-                <span>「どのように」を引き直す</span>
-              </button>
-            </article>
-
-            <article class="word-card card-action" data-card="action">
-              <div class="card-topline">
-                <h3><span aria-hidden="true">06</span> どうしたか</h3>
-                <span class="word-count" data-count="action">— 語</span>
-              </div>
-              <p class="word-output is-loading" data-output="action">読み込み中…</p>
-              <button class="redraw-button" data-redraw="action" type="button" disabled>
-                <span class="redraw-icon" aria-hidden="true">↻</span>
-                <span>「どうしたか」を引き直す</span>
-              </button>
-            </article>
-          </div>
+          <div class="word-grid" id="word-grid" aria-live="polite"></div>
 
           <div class="main-actions">
             <button class="button button-primary" id="reroll-all-button" type="button" disabled>
               <span class="dice" aria-hidden="true">✦</span>
-              ぜんぶ引き直す
+              すべて引き直す
             </button>
           </div>
 
-          <section class="sentence-panel" aria-labelledby="sentence-title">
+          <section class="sentence-panel" aria-labelledby="result-title">
             <div class="sentence-heading">
-              <h3 id="sentence-title">できあがった一文</h3>
+              <h3 id="result-title">できあがった整理メモ</h3>
               <span aria-hidden="true">RESULT</span>
             </div>
-            <p class="sentence" id="sentence-output">ことばを読み込んでいます。</p>
+            <p class="sentence" id="result-output">ことばを読み込んでいます。</p>
             <button class="copy-button" id="copy-button" type="button" disabled>
               <span aria-hidden="true">▣</span>
-              <span id="copy-label">一文をコピー</span>
+              <span id="copy-label">整理メモをコピー</span>
             </button>
           </section>
 
           <p class="status" id="status" role="status" aria-live="polite"></p>
         </section>
 
+        <section class="format-guide" aria-labelledby="format-guide-title">
+          <div class="guide-heading">
+            <p class="section-kicker">FORMAT GUIDE</p>
+            <h2 id="format-guide-title">形式の使い分け</h2>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr><th scope="col">形式</th><th scope="col">追加・省略要素</th><th scope="col">主な用途</th></tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">5W1H</th><td>Who / What / When / Where / Why / How</td><td>情報整理、報道、説明</td></tr>
+                <tr><th scope="row">5W2H</th><td>＋ How much</td><td>業務計画、改善、品質管理</td></tr>
+                <tr><th scope="row">5W3H</th><td>＋ How many / How long</td><td>数量・期間まで含む計画</td></tr>
+                <tr><th scope="row">6W1H</th><td>＋ Whom または Which</td><td>顧客・対象・選択肢の明確化</td></tr>
+                <tr><th scope="row">6W2H</th><td>6W1H ＋ How much</td><td>詳細な企画・要件定義</td></tr>
+                <tr><th scope="row">4W1H</th><td>Whyを省略</td><td>速報、事実確認</td></tr>
+                <tr><th scope="row">5W1H ＋ So What</th><td>それで何が言える？</td><td>分析、考察</td></tr>
+                <tr><th scope="row">5W1H ＋ Now What</th><td>次に何をする？</td><td>意思決定、行動計画</td></tr>
+                <tr><th scope="row">5W1H ＋ What if</th><td>もし〜なら？</td><td>リスク分析、未来予測</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
         <aside class="about" aria-labelledby="about-title">
-          <div class="about-mark" aria-hidden="true">6</div>
+          <div class="about-mark" aria-hidden="true">14</div>
           <div>
-            <h2 id="about-title">ことばの偶然を楽しむ</h2>
+            <h2 id="about-title">問いを増やすと、見えるものが変わる</h2>
             <p>
-              収録したことばは、日常的な表現から少し珍しい一般語まで。特定の作品・人物・ブランドに頼らず、自由な発想のきっかけとして楽しめるよう構成しています。
+              WhoからNow Whatまで、14要素を各3,000件収録しています。日常的な表現から専門的な一般語までを使い、特定の作品・人物・ブランドに頼らない発想材料として構成しました。
             </p>
           </div>
         </aside>
       </main>
 
       <footer>
-        <p>5W1H MAKER <span aria-hidden="true">·</span> WORDS MEET BY CHANCE</p>
+        <p>5W1H+ MAKER <span aria-hidden="true">·</span> QUESTIONS CREATE PERSPECTIVE</p>
       </footer>
     </div>
 

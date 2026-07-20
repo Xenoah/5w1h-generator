@@ -231,6 +231,62 @@ button:disabled {
   font-variant-numeric: tabular-nums;
 }
 
+.format-picker {
+  display: grid;
+  grid-template-columns: minmax(13rem, 0.7fr) minmax(0, 1.3fr);
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  gap: 1rem;
+  align-items: center;
+  background: rgba(244, 238, 226, 0.66);
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+}
+
+.format-control label {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.format-control select {
+  width: 100%;
+  min-height: 3rem;
+  padding: 0.62rem 2.5rem 0.62rem 0.85rem;
+  color: var(--ink);
+  background: #fffdf8;
+  border: 1px solid rgba(49, 45, 38, 0.28);
+  border-radius: 0.55rem;
+  font: inherit;
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+.format-control select:disabled {
+  opacity: 0.52;
+  cursor: not-allowed;
+}
+
+.format-copy {
+  padding-left: 1rem;
+  border-left: 1px solid var(--line);
+}
+
+.format-copy strong {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 1.12rem;
+}
+
+.format-copy p {
+  margin: 0.2rem 0 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
 .word-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -287,6 +343,15 @@ button:disabled {
   color: color-mix(in srgb, var(--card-color) 88%, #23211d);
   font-size: 0.78rem;
   letter-spacing: 0.12em;
+}
+
+.card-topline h3 small {
+  display: inline-block;
+  margin-left: 0.28rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  opacity: 0.7;
 }
 
 .card-topline h3 span {
@@ -470,6 +535,7 @@ button:disabled {
   font-family: var(--font-serif);
   font-size: clamp(1.25rem, 3.2vw, 1.85rem);
   line-height: 1.75;
+  white-space: pre-line;
 }
 
 .copy-button {
@@ -547,6 +613,65 @@ button:disabled {
   font-size: 0.74rem;
 }
 
+.format-guide {
+  width: min(980px, calc(100% - 2.5rem));
+  margin: clamp(4rem, 9vw, 7rem) auto 0;
+}
+
+.guide-heading {
+  margin-bottom: 1.25rem;
+}
+
+.guide-heading .section-kicker {
+  margin-bottom: 0.35rem;
+}
+
+.guide-heading h2 {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: clamp(1.55rem, 3vw, 2rem);
+  font-weight: 600;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  background: rgba(255, 253, 248, 0.72);
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+}
+
+.format-guide table {
+  width: 100%;
+  min-width: 680px;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+
+.format-guide th,
+.format-guide td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.format-guide thead th {
+  color: var(--muted);
+  background: rgba(242, 234, 220, 0.58);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+}
+
+.format-guide tbody th {
+  color: var(--accent-dark);
+  white-space: nowrap;
+}
+
+.format-guide tbody tr:last-child th,
+.format-guide tbody tr:last-child td {
+  border-bottom: 0;
+}
+
 .about {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
@@ -616,6 +741,16 @@ footer {
     align-items: start;
     flex-direction: column;
     gap: 0.5rem;
+  }
+
+  .format-picker {
+    grid-template-columns: 1fr;
+  }
+
+  .format-copy {
+    padding: 0.75rem 0 0;
+    border-top: 1px solid var(--line);
+    border-left: 0;
   }
 }
 
