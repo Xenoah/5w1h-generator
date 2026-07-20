@@ -90,12 +90,28 @@
 
   const CATEGORY_BY_ID = new Map(CATEGORIES.map((category) => [category.id, category]));
   const FORMAT_BY_ID = new Map(FORMATS.map((format) => [format.id, format]));
+  const FACET_GROUPS = [
+    { id: "genres", label: "ジャンル" },
+    { id: "moods", label: "雰囲気" },
+    { id: "purposes", label: "目的" },
+  ];
+  const FACET_TIERS = [
+    { id: "general", label: "身近" },
+    { id: "varied", label: "多彩" },
+    { id: "niche", label: "少数派" },
+  ];
+  const FACET_DATA_FILE = "./data/facets.json";
+  const FACET_MIX_LIMIT = 2;
   const RECENT_LIMIT = 24;
 
   const state = {
     words: new Map(),
+    currentBase: new Map(),
     current: new Map(),
     recent: new Map(CATEGORIES.map(({ id }) => [id, []])),
+    facets: new Map(),
+    selectedFacets: new Map(FACET_GROUPS.map(({ id }) => [id, new Set()])),
+    currentFacets: new Map(FACET_GROUPS.map(({ id }) => [id, []])),
     formatId: "5w1h",
     ready: false,
   };
@@ -106,12 +122,17 @@
     formatSelect: document.querySelector("#format-select"),
     formatTitle: document.querySelector("#format-title"),
     formatDescription: document.querySelector("#format-description"),
+    facetGroups: document.querySelector(".facet-groups"),
+    facetSelectionSummary: document.querySelector("#facet-selection-summary"),
+    facetCurrentMix: document.querySelector("#facet-current-mix"),
+    facetClearButton: document.querySelector("#facet-clear-button"),
     wordGrid: document.querySelector("#word-grid"),
     errorPanel: document.querySelector("#error-panel"),
     errorMessage: document.querySelector("#error-message"),
     retryButton: document.querySelector("#retry-button"),
     rerollAllButton: document.querySelector("#reroll-all-button"),
     resultOutput: document.querySelector("#result-output"),
+    resultFormatLabel: document.querySelector("#result-format-label"),
     copyButton: document.querySelector("#copy-button"),
     copyLabel: document.querySelector("#copy-label"),
     status: document.querySelector("#status"),
@@ -161,6 +182,50 @@
     }
   }
 
+  function cleanFacetData(data) {
+    if (!data || typeof data !== "object" || Array.isArray(data)) {
+      throw new TypeError("テーマデータがオブジェクトではありません。");
+    }
+
+    const cleaned = new Map();
+    FACET_GROUPS.forEach(({ id, label }) => {
+      const source = data[id];
+      if (!Array.isArray(source) || source.length === 0) {
+        throw new TypeError(`${label}の選択肢がありません。`);
+      }
+
+      const ids = new Set();
+      const labels = new Set();
+      const options = source.map((item) => {
+        if (!item || typeof item !== "object") throw new TypeError(`${label}の項目形式が不正です。`);
+        const facetId = String(item.id || "").trim();
+        const facetLabel = String(item.label || "").replace(/\s+/gu, " ").trim();
+        const phrase = String(item.phrase || facetLabel).replace(/\s+/gu, " ").trim();
+        const tier = FACET_TIERS.some(({ id: tierId }) => tierId === item.tier) ? item.tier : "varied";
+        const labelKey = normalizeKey(facetLabel);
+        if (!facetId || !facetLabel || !phrase || ids.has(facetId) || labels.has(labelKey)) {
+          throw new Error(`${label}に空欄または重複があります。`);
+        }
+        ids.add(facetId);
+        labels.add(labelKey);
+        return { id: facetId, label: facetLabel, phrase, tier, default: item.default === true };
+      });
+      cleaned.set(id, options);
+    });
+    return cleaned;
+  }
+
+  async function fetchFacets() {
+    const response = await fetch(FACET_DATA_FILE);
+    if (!response.ok) throw new Error(`${FACET_DATA_FILE}（HTTP ${response.status}）`);
+    try {
+      return cleanFacetData(await response.json());
+    } catch (error) {
+      if (error instanceof SyntaxError) throw new Error(`${FACET_DATA_FILE} のJSON形式を確認してください。`);
+      throw error;
+    }
+  }
+
   function randomInteger(max) {
     if (!Number.isSafeInteger(max) || max <= 0) return 0;
 
@@ -175,6 +240,15 @@
     }
 
     return Math.floor(Math.random() * max);
+  }
+
+  function sampleWithoutReplacement(values, limit) {
+    const candidates = [...values];
+    const selected = [];
+    while (candidates.length > 0 && selected.length < limit) {
+      selected.push(candidates.splice(randomInteger(candidates.length), 1)[0]);
+    }
+    return selected;
   }
 
   function pickWord(categoryId) {
@@ -210,10 +284,68 @@
   }
 
   function selectValue(categoryId) {
-    const nextWord = pickWord(categoryId);
+    const baseWord = pickWord(categoryId);
+    const nextWord = applyFacetConditions(categoryId, baseWord);
+    state.currentBase.set(categoryId, baseWord);
     state.current.set(categoryId, nextWord);
-    remember(categoryId, nextWord);
+    remember(categoryId, baseWord);
     return nextWord;
+  }
+
+  function selectedFacetLabels(groupId) {
+    return (state.currentFacets.get(groupId) || []).map((facet) => `「${facet.label}」`);
+  }
+
+  function applyFacetConditions(categoryId, baseWord) {
+    const value = cleanFragment(baseWord);
+    const genres = selectedFacetLabels("genres");
+    const moods = selectedFacetLabels("moods");
+    const purposes = selectedFacetLabels("purposes");
+    const formatUsesWhy = activeCategories().some(({ id }) => id === "why");
+
+    if (categoryId === "what") {
+      const conditions = [];
+      if (!formatUsesWhy && purposes.length > 0) conditions.push(`${purposes.join("と")}につながる`);
+      if (genres.length > 0) conditions.push(`${genres.join("と")}を題材にした`);
+      return `${conditions.join("")}${value}`;
+    }
+
+    if (categoryId === "why" && purposes.length > 0) {
+      return `${purposes.join("と")}を目的とし、${value}`;
+    }
+
+    if (categoryId === "how") {
+      const conditions = [];
+      if (genres.length > 0) conditions.push(`${genres.join("と")}の要素を取り入れ`);
+      if (moods.length > 0) conditions.push(`${moods.join("と")}という雰囲気を意識し`);
+      return conditions.length > 0 ? `${conditions.join("、")}、${value}` : value;
+    }
+
+    return value;
+  }
+
+  function applyCurrentFacetConditions() {
+    activeCategories().forEach(({ id }) => {
+      const baseWord = state.currentBase.get(id);
+      if (baseWord) state.current.set(id, applyFacetConditions(id, baseWord));
+    });
+  }
+
+  function selectFacetMix() {
+    FACET_GROUPS.forEach(({ id }) => {
+      const selectedIds = state.selectedFacets.get(id) || new Set();
+      const selectedOptions = (state.facets.get(id) || []).filter((option) => selectedIds.has(option.id));
+      state.currentFacets.set(id, sampleWithoutReplacement(selectedOptions, FACET_MIX_LIMIT));
+    });
+    renderFacetSelectionSummary();
+  }
+
+  function resetFacetSelections() {
+    state.selectedFacets = new Map(FACET_GROUPS.map(({ id }) => [
+      id,
+      new Set((state.facets.get(id) || []).filter((option) => option.default).map((option) => option.id)),
+    ]));
+    selectFacetMix();
   }
 
   function cleanFragment(value) {
@@ -331,6 +463,67 @@
     return card;
   }
 
+  function createFacetChip(groupId, option) {
+    const label = document.createElement("label");
+    label.className = `facet-chip facet-chip-${option.tier}`;
+
+    const input = document.createElement("input");
+    input.type = "checkbox";
+    input.name = `facet-${groupId}`;
+    input.value = option.id;
+    input.checked = state.selectedFacets.get(groupId)?.has(option.id) || false;
+    input.disabled = !state.ready;
+
+    const text = document.createElement("span");
+    text.textContent = option.label;
+    label.append(input, text);
+    return label;
+  }
+
+  function renderFacetOptions() {
+    FACET_GROUPS.forEach(({ id }) => {
+      const container = document.querySelector(`[data-facet-options="${id}"]`);
+      if (!container) return;
+      const options = state.facets.get(id) || [];
+      const tiers = FACET_TIERS.map((tier) => {
+        const fieldset = document.createElement("fieldset");
+        fieldset.className = `facet-tier facet-tier-${tier.id}`;
+        const legend = document.createElement("legend");
+        legend.textContent = `${tier.label} ${options.filter((option) => option.tier === tier.id).length}`;
+        const chips = document.createElement("div");
+        chips.className = "facet-chip-list";
+        options.filter((option) => option.tier === tier.id).forEach((option) => {
+          chips.append(createFacetChip(id, option));
+        });
+        fieldset.append(legend, chips);
+        return fieldset;
+      });
+      container.replaceChildren(...tiers);
+    });
+    renderFacetSelectionSummary();
+  }
+
+  function renderFacetSelectionSummary() {
+    const counts = FACET_GROUPS.map(({ id, label }) => {
+      const count = state.selectedFacets.get(id)?.size || 0;
+      const counter = document.querySelector(`[data-facet-count="${id}"]`);
+      if (counter) counter.textContent = `${count}選択`;
+      return { label, count };
+    });
+    const total = counts.reduce((sum, { count }) => sum + count, 0);
+    elements.facetSelectionSummary.textContent = total > 0
+      ? `選択中：${counts.map(({ label, count }) => `${label}${count}`).join("・")}（各項目から最大${FACET_MIX_LIMIT}つを採用）`
+      : "テーマ指定なし：5W1Hのことばだけで生成します。";
+
+    const currentMix = FACET_GROUPS.map(({ id, label }) => {
+      const names = (state.currentFacets.get(id) || []).map((facet) => facet.label);
+      return names.length > 0 ? `${label} ${names.join("＋")}` : "";
+    }).filter(Boolean);
+    elements.facetCurrentMix.textContent = currentMix.length > 0
+      ? `今回の生成条件：${currentMix.join("、")}`
+      : "今回の生成条件：指定なし";
+  }
+
   function renderCards() {
     elements.wordGrid.replaceChildren(...activeCategories().map(createCard));
   }
@@ -361,6 +554,7 @@
     const format = activeFormat();
     elements.formatTitle.textContent = format.name;
     elements.formatDescription.textContent = format.description;
+    elements.resultFormatLabel.textContent = `${format.name}・${format.categories.length}要素`;
   }
 
   function selectCategory(categoryId, announce = true) {
@@ -375,16 +569,21 @@
   }
 
   function selectAll(announce = true) {
+    selectFacetMix();
     activeCategories().forEach(({ id }) => selectValue(id));
     activeCategories().forEach(({ id }) => renderCategory(id));
     renderResult();
-    if (announce) setStatus(`${activeFormat().name}の${activeCategories().length}要素をすべて引き直しました。`);
+    if (announce) setStatus(`テーマのミックスと${activeFormat().name}の${activeCategories().length}要素を引き直しました。`);
   }
 
   function setControlsEnabled(enabled) {
     elements.wordGrid.querySelectorAll("[data-redraw]").forEach((button) => {
       button.disabled = !enabled;
     });
+    elements.facetGroups.querySelectorAll('input[type="checkbox"]').forEach((input) => {
+      input.disabled = !enabled;
+    });
+    elements.facetClearButton.disabled = !enabled;
     elements.formatSelect.disabled = !enabled;
     elements.rerollAllButton.disabled = !enabled;
     elements.copyButton.disabled = !enabled;
@@ -399,12 +598,13 @@
 
   function renderLoadedState() {
     const total = CATEGORIES.reduce((sum, { id }) => sum + (state.words.get(id)?.length || 0), 0);
+    const facetTotal = FACET_GROUPS.reduce((sum, { id }) => sum + (state.facets.get(id)?.length || 0), 0);
     const counts = CATEGORIES.map(({ id }) => state.words.get(id)?.length || 0);
     const allSameCount = counts.every((count) => count === counts[0]);
 
     elements.dataSummary.textContent = allSameCount
-      ? `${CATEGORIES.length}要素×各${counts[0].toLocaleString("ja-JP")}件・全${total.toLocaleString("ja-JP")}件`
-      : `全${total.toLocaleString("ja-JP")}件から選出`;
+      ? `収録${CATEGORIES.length}分類×各${counts[0].toLocaleString("ja-JP")}件＋テーマ${facetTotal.toLocaleString("ja-JP")}件`
+      : `全${total.toLocaleString("ja-JP")}件＋テーマ${facetTotal.toLocaleString("ja-JP")}件から選出`;
     elements.generator.setAttribute("aria-busy", "false");
     elements.errorPanel.hidden = true;
     setControlsEnabled(true);
@@ -413,7 +613,11 @@
   function renderError(error) {
     state.ready = false;
     state.words.clear();
+    state.currentBase.clear();
     state.current.clear();
+    state.facets.clear();
+    state.selectedFacets = new Map(FACET_GROUPS.map(({ id }) => [id, new Set()]));
+    state.currentFacets = new Map(FACET_GROUPS.map(({ id }) => [id, []]));
     elements.generator.setAttribute("aria-busy", "false");
     elements.dataSummary.textContent = "データを読み込めませんでした";
     elements.errorMessage.textContent = error instanceof Error
@@ -421,6 +625,7 @@
       : "通信状態を確認して、もう一度お試しください。";
     elements.errorPanel.hidden = false;
     elements.resultOutput.textContent = "ことばの読み込み後に組み合わせが表示されます。";
+    renderFacetOptions();
     renderCards();
     setControlsEnabled(false);
     setStatus("ことばの読み込みに失敗しました。");
@@ -432,6 +637,7 @@
     activeCategories().forEach(({ id }) => {
       if (!state.current.has(id)) selectValue(id);
     });
+    applyCurrentFacetConditions();
     renderFormatDetails();
     renderCards();
     renderResult(false);
@@ -447,12 +653,19 @@
     setControlsEnabled(false);
 
     try {
-      const entries = await Promise.all(CATEGORIES.map(fetchCategory));
+      const [entries, facets] = await Promise.all([
+        Promise.all(CATEGORIES.map(fetchCategory)),
+        fetchFacets(),
+      ]);
       state.words = new Map(entries);
+      state.facets = facets;
+      state.currentBase.clear();
       state.current.clear();
       state.recent = new Map(CATEGORIES.map(({ id }) => [id, []]));
       state.ready = true;
+      resetFacetSelections();
       activeCategories().forEach(({ id }) => selectValue(id));
+      renderFacetOptions();
       renderCards();
       renderResult(false);
       renderLoadedState();
@@ -500,9 +713,35 @@
     elements.formatSelect.append(option);
   });
   renderFormatDetails();
+  renderFacetOptions();
   renderCards();
 
   elements.formatSelect.addEventListener("change", (event) => changeFormat(event.target.value));
+  elements.facetGroups.addEventListener("change", (event) => {
+    const input = event.target.closest('input[type="checkbox"]');
+    if (!input || !state.ready) return;
+    const groupId = input.name.replace(/^facet-/, "");
+    if (!state.selectedFacets.has(groupId)) return;
+    const selected = state.selectedFacets.get(groupId);
+    if (input.checked) selected.add(input.value);
+    else selected.delete(input.value);
+    selectFacetMix();
+    applyCurrentFacetConditions();
+    activeCategories().forEach(({ id }) => renderCategory(id, false));
+    renderResult();
+    const group = FACET_GROUPS.find(({ id }) => id === groupId);
+    setStatus(`${group?.label || "テーマ"}の選択を組み合わせへ反映しました。`);
+  });
+  elements.facetClearButton.addEventListener("click", () => {
+    if (!state.ready) return;
+    FACET_GROUPS.forEach(({ id }) => state.selectedFacets.set(id, new Set()));
+    selectFacetMix();
+    applyCurrentFacetConditions();
+    renderFacetOptions();
+    activeCategories().forEach(({ id }) => renderCategory(id, false));
+    renderResult();
+    setStatus("ジャンル・雰囲気・目的の選択をクリアしました。");
+  });
   elements.wordGrid.addEventListener("click", (event) => {
     const button = event.target.closest("[data-redraw]");
     if (!button || !state.ready) return;

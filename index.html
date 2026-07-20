@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#f4eee2">
     <meta
       name="description"
-      content="5W1H、5W2H、5W3H、6W1H、So What、Now What、What ifを切り替えて、問いの要素をランダムに組み合わせる発想メーカーです。"
+      content="5W1H、5W2H、5W3H、6W1Hなどの問いに、ジャンル・雰囲気・目的を複数選択してミックスできる発想メーカーです。"
     >
     <title>5W1H+メーカー | 問いの型から発想する</title>
     <link rel="stylesheet" href="./styles.css">
@@ -30,7 +30,7 @@
           <h1 id="page-title">問いの型から<br><span>発想を広げよう。</span></h1>
           <p class="lead">
             5W1HからWhat if・So What・Now Whatまで。<br class="lead-break">
-            目的に合う形式を選び、考えるきっかけをランダムに組み立てます。
+            形式とテーマを選び、考えるきっかけをランダムに組み立てます。
           </p>
         </section>
 
@@ -53,6 +53,57 @@
               <p id="format-description">情報整理・報道・説明に使う基本形です。</p>
             </div>
           </div>
+
+          <section class="facet-picker" aria-labelledby="facet-picker-title">
+            <details class="facet-master">
+              <summary class="facet-master-summary">
+                <span>
+                  <small>OPTIONAL CONDITIONS</small>
+                  <strong id="facet-picker-title">ジャンル・雰囲気・目的</strong>
+                </span>
+                <span>形式外の生成条件</span>
+              </summary>
+              <div class="facet-body">
+                <div class="facet-heading">
+                  <div>
+                    <p class="facet-kicker">MIX SETTINGS</p>
+                    <h3>テーマをミックス</h3>
+                  </div>
+                  <p>複数選ぶと各項目から最大2つを生成条件にします。テーマは形式の要素数に加えません。</p>
+                </div>
+                <div class="facet-groups">
+                  <details class="facet-group" data-facet-details="genres">
+                    <summary>
+                      <span><strong>ジャンル</strong><small>暮らしから少数派まで</small></span>
+                      <span class="facet-selected-count" data-facet-count="genres">0選択</span>
+                    </summary>
+                    <div class="facet-options" data-facet-options="genres"></div>
+                  </details>
+                  <details class="facet-group" data-facet-details="moods">
+                    <summary>
+                      <span><strong>雰囲気</strong><small>明るさ・温度・緊張感</small></span>
+                      <span class="facet-selected-count" data-facet-count="moods">0選択</span>
+                    </summary>
+                    <div class="facet-options" data-facet-options="moods"></div>
+                  </details>
+                  <details class="facet-group" data-facet-details="purposes">
+                    <summary>
+                      <span><strong>目的</strong><small>会話・創作・思考の用途</small></span>
+                      <span class="facet-selected-count" data-facet-count="purposes">0選択</span>
+                    </summary>
+                    <div class="facet-options" data-facet-options="purposes"></div>
+                  </details>
+                </div>
+                <div class="facet-footer">
+                  <div class="facet-status-copy">
+                    <p id="facet-selection-summary">テーマを準備しています…</p>
+                    <p class="facet-current-mix" id="facet-current-mix" aria-live="polite"></p>
+                  </div>
+                  <button class="facet-clear-button" id="facet-clear-button" type="button" disabled>選択をクリア</button>
+                </div>
+              </div>
+            </details>
+          </section>
 
           <div class="error-panel" id="error-panel" role="alert" hidden>
             <div class="error-icon" aria-hidden="true">!</div>
@@ -78,7 +129,7 @@
           <section class="sentence-panel" aria-labelledby="result-title">
             <div class="sentence-heading">
               <h3 id="result-title">できあがった組み合わせ</h3>
-              <span aria-hidden="true">RESULT</span>
+              <span id="result-format-label">5W1H・6要素</span>
             </div>
             <p class="sentence" id="result-output">ことばを読み込んでいます。</p>
             <button class="copy-button" id="copy-button" type="button" disabled>
@@ -95,32 +146,35 @@
             <p class="section-kicker">FORMAT GUIDE</p>
             <h2 id="format-guide-title">形式の使い分け</h2>
           </div>
-          <div class="table-wrap">
-            <table>
-              <thead>
-                <tr><th scope="col">形式</th><th scope="col">追加・省略要素</th><th scope="col">主な用途</th></tr>
-              </thead>
-              <tbody>
-                <tr><th scope="row">5W1H</th><td>Who / What / When / Where / Why / How</td><td>情報整理、報道、説明</td></tr>
-                <tr><th scope="row">5W2H</th><td>＋ How much</td><td>業務計画、改善、品質管理</td></tr>
-                <tr><th scope="row">5W3H</th><td>＋ How many / How long</td><td>数量・期間まで含む計画</td></tr>
-                <tr><th scope="row">6W1H</th><td>＋ Whom または Which</td><td>顧客・対象・選択肢の明確化</td></tr>
-                <tr><th scope="row">6W2H</th><td>6W1H ＋ How much</td><td>詳細な企画・要件定義</td></tr>
-                <tr><th scope="row">4W1H</th><td>Whyを省略</td><td>速報、事実確認</td></tr>
-                <tr><th scope="row">5W1H ＋ So What</th><td>それで何が言える？</td><td>分析、考察</td></tr>
-                <tr><th scope="row">5W1H ＋ Now What</th><td>次に何をする？</td><td>意思決定、行動計画</td></tr>
-                <tr><th scope="row">5W1H ＋ What if</th><td>もし〜なら？</td><td>リスク分析、未来予測</td></tr>
-              </tbody>
-            </table>
-          </div>
+          <details class="guide-details">
+            <summary>各形式の追加要素と用途を見る</summary>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr><th scope="col">形式</th><th scope="col">追加・省略要素</th><th scope="col">主な用途</th></tr>
+                </thead>
+                <tbody>
+                  <tr><th scope="row">5W1H</th><td>Who / What / When / Where / Why / How</td><td>情報整理、報道、説明</td></tr>
+                  <tr><th scope="row">5W2H</th><td>＋ How much</td><td>業務計画、改善、品質管理</td></tr>
+                  <tr><th scope="row">5W3H</th><td>＋ How many / How long</td><td>数量・期間まで含む計画</td></tr>
+                  <tr><th scope="row">6W1H</th><td>＋ Whom または Which</td><td>顧客・対象・選択肢の明確化</td></tr>
+                  <tr><th scope="row">6W2H</th><td>6W1H ＋ How much</td><td>詳細な企画・要件定義</td></tr>
+                  <tr><th scope="row">4W1H</th><td>Whyを省略</td><td>速報、事実確認</td></tr>
+                  <tr><th scope="row">5W1H ＋ So What</th><td>それで何が言える？</td><td>分析、考察</td></tr>
+                  <tr><th scope="row">5W1H ＋ Now What</th><td>次に何をする？</td><td>意思決定、行動計画</td></tr>
+                  <tr><th scope="row">5W1H ＋ What if</th><td>もし〜なら？</td><td>リスク分析、未来予測</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </details>
         </section>
 
         <aside class="about" aria-labelledby="about-title">
-          <div class="about-mark" aria-hidden="true">14</div>
+          <div class="about-mark" aria-hidden="true">14+</div>
           <div>
             <h2 id="about-title">問いを増やすと、見えるものが変わる</h2>
             <p>
-              WhoからNow Whatまで、14要素を各3,000件収録しています。日常的な表現から専門的な一般語までを使い、特定の作品・人物・ブランドに頼らない発想材料として構成しました。
+              WhoからNow Whatまでの14要素を各3,000件収録。さらに、身近な暮らしから深海・古地図・製本などの少数派まで、ジャンル・雰囲気・目的を自由に重ねられます。特定の作品・人物・ブランドに頼らない発想材料です。
             </p>
           </div>
         </aside>

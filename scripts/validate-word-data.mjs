@@ -109,7 +109,7 @@ for (const category of categories) {
   if (category === 'why' && values.some((value) => !/から$/.test(value))) errors.push('why value not ending in から');
   if (category === 'what_if' && values.some((value) => !/^もし/.test(value))) errors.push('what-if value not starting with もし');
   if (category === 'so_what' && values.some((value) => !/と言える$/.test(value))) errors.push('so-what value not ending in と言える');
-  if (category === 'now_what' && values.some((value) => !/(?:する|す)$/.test(value))) errors.push('now-what value not ending in a dictionary-form action');
+  if (category === 'now_what' && values.some((value) => !/[うくぐすつぬぶむる]$/.test(value))) errors.push('now-what value not ending in a dictionary-form action');
   if (category === 'action' && values.some((value) => !/[ただ]$/.test(value))) errors.push('action value not ending in Japanese past tense');
 
   const similarity = similarityReport(values);
@@ -127,5 +127,34 @@ for (const category of categories) {
   }
 }
 
+const facetExpectedCounts = { genres: 68, moods: 40, purposes: 40 };
+const facetTiers = new Set(['general', 'varied', 'niche']);
+const facetData = JSON.parse(await readFile(path.join(root, 'data', 'facets.json'), 'utf8'));
+
+for (const [group, expected] of Object.entries(facetExpectedCounts)) {
+  const values = facetData[group];
+  const errors = [];
+  if (!Array.isArray(values)) {
+    errors.push('group is not an array');
+  } else {
+    if (values.length !== expected) errors.push(`count ${values.length} != ${expected}`);
+    const ids = values.map((value) => String(value?.id ?? '').trim());
+    const labels = values.map((value) => String(value?.label ?? '').trim());
+    if (ids.some((value) => !value)) errors.push('empty id');
+    if (labels.some((value) => !normalize(value))) errors.push('empty label');
+    if (new Set(ids).size !== ids.length) errors.push('duplicate id');
+    if (new Set(labels.map(normalize)).size !== labels.length) errors.push('normalized duplicate label');
+    if (values.some((value) => !facetTiers.has(value?.tier))) errors.push('unknown tier');
+    if (values.filter((value) => value?.default === true).length !== 1) errors.push('default count must be 1');
+    if (group === 'moods' && values.some((value) => !normalize(String(value?.phrase ?? '')))) errors.push('empty mood phrase');
+  }
+
+  console.log(`\n[facets:${group}] count=${Array.isArray(values) ? values.length : 0}`);
+  if (errors.length) {
+    failed = true;
+    console.error(`ERROR: ${errors.join('; ')}`);
+  }
+}
+
 if (failed) process.exitCode = 1;
-else console.log('\nAll word-data validation checks passed.');
+else console.log('\nAll word and facet-data validation checks passed.');
