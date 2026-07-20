@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f4eee2">
+    <meta
+      name="description"
+      content="いつ・どこで・だれが・なにを・どのように・どうしたかを、ことばの組み合わせからランダムに作る5W1Hメーカーです。"
+    >
+    <title>5W1Hメーカー | 偶然から生まれる一文</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#generator">メーカーへ移動</a>
+
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./" aria-label="5W1Hメーカー トップ">
+          <span class="brand-mark" aria-hidden="true">?</span>
+          <span>5W1Hメーカー</span>
+        </a>
+        <p class="header-note">6つの偶然を、ひとつの物語に。</p>
+      </header>
+
+      <main>
+        <section class="hero" aria-labelledby="page-title">
+          <p class="eyebrow">RANDOM STORY SEEDS</p>
+          <h1 id="page-title">思いがけない一文を<br><span>組み立てよう。</span></h1>
+          <p class="lead">
+            「いつ・どこで・だれが・なにを・どのように・どうしたか」を<br class="lead-break">
+            ランダムに選び、ちょっと不思議な物語の種をつくります。
+          </p>
+        </section>
+
+        <section id="generator" class="generator" aria-labelledby="generator-title" aria-busy="true">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">YOUR RANDOM SENTENCE</p>
+              <h2 id="generator-title">今回の組み合わせ</h2>
+            </div>
+            <p class="data-summary" id="data-summary">ことばを準備しています…</p>
+          </div>
+
+          <div class="error-panel" id="error-panel" role="alert" hidden>
+            <div class="error-icon" aria-hidden="true">!</div>
+            <div>
+              <h3>ことばを読み込めませんでした</h3>
+              <p id="error-message">
+                通信状態を確認して、もう一度お試しください。
+              </p>
+              <p class="local-note">
+                ファイルを直接開いている場合は、ローカルサーバーまたはGitHub Pagesから表示してください。
+              </p>
+              <button class="button button-secondary" id="retry-button" type="button">もう一度読み込む</button>
+            </div>
+          </div>
+
+          <div class="word-grid" id="word-grid">
+            <article class="word-card card-when" data-card="when">
+              <div class="card-topline">
+                <h3><span aria-hidden="true">01</span> いつ</h3>
+                <span class="word-count" data-count="when">— 語</span>
+              </div>
+              <p class="word-output is-loading" data-output="when">読み込み中…</p>
+              <button class="redraw-button" data-redraw="when" type="button" disabled>
+                <span class="redraw-icon" aria-hidden="true">↻</span>
+                <span>「いつ」を引き直す</span>
+              </button>
+            </article>
+
+            <article class="word-card card-where" data-card="where">
+              <div class="card-topline">
+                <h3><span aria-hidden="true">02</span> どこで</h3>
+                <span class="word-count" data-count="where">— 語</span>
+              </div>
+              <p class="word-output is-loading" data-output="where">読み込み中…</p>
+              <button class="redraw-button" data-redraw="where" type="button" disabled>
+                <span class="redraw-icon" aria-hidden="true">↻</span>
+                <span>「どこで」を引き直す</span>
+              </button>
+            </article>
+
+            <article class="word-card card-who" data-card="who">
+              <div class="card-topline">
+                <h3><span aria-hidden="true">03</span> だれが</h3>
+                <span class="word-count" data-count="who">— 語</span>
+              </div>
+              <p class="word-output is-loading" data-output="who">読み込み中…</p>
+              <button class="redraw-button" data-redraw="who" type="button" disabled>
+                <span class="redraw-icon" aria-hidden="true">↻</span>
+                <span>「だれが」を引き直す</span>
+              </button>
+            </article>
+
+            <article class="word-card card-what" data-card="what">
+              <div class="card-topline">
+                <h3><span aria-hidden="true">04</span> なにを</h3>
+                <span class="word-count" data-count="what">— 語</span>
+              </div>
+              <p class="word-output is-loading" data-output="what">読み込み中…</p>
+              <button class="redraw-button" data-redraw="what" type="button" disabled>
+                <span class="redraw-icon" aria-hidden="true">↻</span>
+                <span>「なにを」を引き直す</span>
+              </button>
+            </article>
+
+            <article class="word-card card-how" data-card="how">
+              <div class="card-topline">
+                <h3><span aria-hidden="true">05</span> どのように</h3>
+                <span class="word-count" data-count="how">— 語</span>
+              </div>
+              <p class="word-output is-loading" data-output="how">読み込み中…</p>
+              <button class="redraw-button" data-redraw="how" type="button" disabled>
+                <span class="redraw-icon" aria-hidden="true">↻</span>
+                <span>「どのように」を引き直す</span>
+              </button>
+            </article>
+
+            <article class="word-card card-action" data-card="action">
+              <div class="card-topline">
+                <h3><span aria-hidden="true">06</span> どうしたか</h3>
+                <span class="word-count" data-count="action">— 語</span>
+              </div>
+              <p class="word-output is-loading" data-output="action">読み込み中…</p>
+              <button class="redraw-button" data-redraw="action" type="button" disabled>
+                <span class="redraw-icon" aria-hidden="true">↻</span>
+                <span>「どうしたか」を引き直す</span>
+              </button>
+            </article>
+          </div>
+
+          <div class="main-actions">
+            <button class="button button-primary" id="reroll-all-button" type="button" disabled>
+              <span class="dice" aria-hidden="true">✦</span>
+              ぜんぶ引き直す
+            </button>
+          </div>
+
+          <section class="sentence-panel" aria-labelledby="sentence-title">
+            <div class="sentence-heading">
+              <h3 id="sentence-title">できあがった一文</h3>
+              <span aria-hidden="true">RESULT</span>
+            </div>
+            <p class="sentence" id="sentence-output">ことばを読み込んでいます。</p>
+            <button class="copy-button" id="copy-button" type="button" disabled>
+              <span aria-hidden="true">▣</span>
+              <span id="copy-label">一文をコピー</span>
+            </button>
+          </section>
+
+          <p class="status" id="status" role="status" aria-live="polite"></p>
+        </section>
+
+        <aside class="about" aria-labelledby="about-title">
+          <div class="about-mark" aria-hidden="true">6</div>
+          <div>
+            <h2 id="about-title">ことばの偶然を楽しむ</h2>
+            <p>
+              収録したことばは、日常的な表現から少し珍しい一般語まで。特定の作品・人物・ブランドに頼らず、自由な発想のきっかけとして楽しめるよう構成しています。
+            </p>
+          </div>
+        </aside>
+      </main>
+
+      <footer>
+        <p>5W1H MAKER <span aria-hidden="true">·</span> WORDS MEET BY CHANCE</p>
+      </footer>
+    </div>
+
+    <noscript>
+      <p class="noscript-message">このメーカーを使うにはJavaScriptを有効にしてください。</p>
+    </noscript>
+  </body>
+</html>
