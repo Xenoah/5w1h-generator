@@ -534,8 +534,18 @@ button:disabled {
   margin: 1.05rem 0 1.4rem;
   font-family: var(--font-serif);
   font-size: clamp(1.25rem, 3.2vw, 1.85rem);
-  line-height: 1.75;
+  line-height: 2.15;
   white-space: pre-line;
+}
+
+.result-word {
+  padding: 0.08em 0.2em;
+  color: #fffaf0;
+  background: linear-gradient(transparent 8%, rgba(220, 93, 63, 0.72) 8%, rgba(183, 67, 43, 0.82) 92%, transparent 92%);
+  border-radius: 0.16em;
+  box-decoration-break: clone;
+  font-weight: 800;
+  -webkit-box-decoration-break: clone;
 }
 
 .copy-button {

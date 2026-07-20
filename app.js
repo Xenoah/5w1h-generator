@@ -223,13 +223,78 @@
       .replace(/[、，,。．.\s]+$/u, "");
   }
 
+  function makeResultParts() {
+    if (!state.ready) return [{ type: "connector", text: "ことばを読み込んでいます。" }];
+
+    const activeIds = new Set(activeCategories().map(({ id }) => id));
+    const parts = [];
+    const connector = (text) => parts.push({ type: "connector", text });
+    const word = (id) => {
+      if (activeIds.has(id)) parts.push({ type: "word", text: cleanFragment(state.current.get(id)) });
+    };
+
+    if (activeIds.has("what_if")) {
+      word("what_if");
+      connector("、");
+    }
+    if (activeIds.has("when")) {
+      word("when");
+      connector("に、");
+    }
+    if (activeIds.has("where")) {
+      word("where");
+      connector("で、");
+    }
+    if (activeIds.has("who")) {
+      word("who");
+      connector("が、");
+    }
+    if (activeIds.has("whom")) {
+      word("whom");
+      connector("に、");
+    }
+    if (activeIds.has("which")) {
+      word("which");
+      connector("を選び、");
+    }
+    if (activeIds.has("how_many")) {
+      word("how_many");
+      connector("の規模で、");
+    }
+    if (activeIds.has("how_much")) {
+      word("how_much");
+      connector("とし、");
+    }
+    if (activeIds.has("how_long")) {
+      word("how_long");
+      connector("かけて、");
+    }
+    if (activeIds.has("what")) {
+      word("what");
+      connector("を、");
+    }
+    if (activeIds.has("why")) {
+      word("why");
+      connector("という理由で、");
+    }
+    if (activeIds.has("how")) {
+      word("how");
+      connector("実行する");
+    }
+    if (activeIds.has("so_what")) {
+      connector("。");
+      word("so_what");
+    }
+    if (activeIds.has("now_what")) {
+      connector("。そして、");
+      word("now_what");
+    }
+    connector("。");
+    return parts;
+  }
+
   function makeResult() {
-    if (!state.ready) return "ことばを読み込んでいます。";
-    const format = activeFormat();
-    const lines = activeCategories().map((category) => (
-      `${category.en}（${category.label}）｜${cleanFragment(state.current.get(category.id))}`
-    ));
-    return `${format.name}\n${lines.join("\n")}`;
+    return makeResultParts().map(({ text }) => text).join("");
   }
 
   function animateElement(element) {
@@ -279,7 +344,16 @@
   }
 
   function renderResult(animate = true) {
-    elements.resultOutput.textContent = makeResult();
+    const nodes = makeResultParts().map(({ type, text }) => {
+      if (type === "word") {
+        const strong = document.createElement("strong");
+        strong.className = "result-word";
+        strong.textContent = text;
+        return strong;
+      }
+      return document.createTextNode(text);
+    });
+    elements.resultOutput.replaceChildren(...nodes);
     if (animate) animateElement(elements.resultOutput);
   }
 
@@ -346,7 +420,7 @@
       ? `読み込みエラー: ${error.message}`
       : "通信状態を確認して、もう一度お試しください。";
     elements.errorPanel.hidden = false;
-    elements.resultOutput.textContent = "ことばの読み込み後に整理メモが表示されます。";
+    elements.resultOutput.textContent = "ことばの読み込み後に組み合わせが表示されます。";
     renderCards();
     setControlsEnabled(false);
     setStatus("ことばの読み込みに失敗しました。");
@@ -408,13 +482,13 @@
       }
 
       elements.copyLabel.textContent = "コピーしました";
-      setStatus("整理メモをクリップボードにコピーしました。");
+      setStatus("単語の組み合わせをクリップボードにコピーしました。");
       window.setTimeout(() => {
-        elements.copyLabel.textContent = "整理メモをコピー";
+        elements.copyLabel.textContent = "組み合わせをコピー";
       }, 1800);
     } catch (error) {
       console.error("Copy failed:", error);
-      setStatus("コピーできませんでした。整理メモを選択してコピーしてください。");
+      setStatus("コピーできませんでした。組み合わせを選択してコピーしてください。");
     }
   }
 
