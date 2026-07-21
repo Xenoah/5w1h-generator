@@ -1,6 +1,6 @@
 {
   "genres": [
-    { "id": "daily_life", "label": "暮らし", "tier": "general", "default": true },
+    { "id": "daily_life", "label": "暮らし", "tier": "general" },
     { "id": "family", "label": "家族", "tier": "general" },
     { "id": "friends", "label": "友人", "tier": "general" },
     { "id": "food", "label": "食事", "tier": "general" },
@@ -72,7 +72,7 @@
     { "id": "clouds", "label": "雲", "tier": "niche" }
   ],
   "moods": [
-    { "id": "bright", "label": "明るい", "phrase": "明るい", "tier": "general", "default": true },
+    { "id": "bright", "label": "明るい", "phrase": "明るい", "tier": "general" },
     { "id": "calm", "label": "穏やか", "phrase": "穏やかな", "tier": "general" },
     { "id": "fun", "label": "楽しい", "phrase": "楽しい", "tier": "general" },
     { "id": "warm", "label": "温かい", "phrase": "温かい", "tier": "general" },
@@ -116,7 +116,7 @@
     { "id": "experimental", "label": "実験的", "phrase": "実験的な", "tier": "niche" }
   ],
   "purposes": [
-    { "id": "ideation", "label": "アイデア発想", "tier": "general", "default": true },
+    { "id": "ideation", "label": "アイデア発想", "tier": "general" },
     { "id": "conversation", "label": "会話のきっかけ", "tier": "general" },
     { "id": "story", "label": "物語づくり", "tier": "general" },
     { "id": "journal", "label": "日記", "tier": "general" },

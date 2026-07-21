@@ -102,6 +102,7 @@
   ];
   const FACET_DATA_FILE = "./data/facets.json";
   const FACET_MIX_LIMIT = 2;
+  const MAX_ELEMENT_LENGTH = 20;
   const RECENT_LIMIT = 24;
 
   const state = {
@@ -165,6 +166,9 @@
 
     const words = Array.from(unique.values());
     if (words.length === 0) throw new Error(`${label}のことばが空です。`);
+    if (words.some((word) => [...word].length > MAX_ELEMENT_LENGTH)) {
+      throw new Error(`${label}に${MAX_ELEMENT_LENGTH}文字を超えることばがあります。`);
+    }
     return words;
   }
 
@@ -292,33 +296,69 @@
     return nextWord;
   }
 
-  function selectedFacetLabels(groupId) {
-    return (state.currentFacets.get(groupId) || []).map((facet) => `「${facet.label}」`);
+  function currentFacetOptions(groupId) {
+    return state.currentFacets.get(groupId) || [];
+  }
+
+  function keepWithinElementLimit(candidate, fallback) {
+    return [...candidate].length <= MAX_ELEMENT_LENGTH ? candidate : fallback;
+  }
+
+  function stableVariant(seed, options) {
+    let hash = 2166136261;
+    for (const character of seed) {
+      hash ^= character.codePointAt(0);
+      hash = Math.imul(hash, 16777619);
+    }
+    return options[(hash >>> 0) % options.length];
   }
 
   function applyFacetConditions(categoryId, baseWord) {
     const value = cleanFragment(baseWord);
-    const genres = selectedFacetLabels("genres");
-    const moods = selectedFacetLabels("moods");
-    const purposes = selectedFacetLabels("purposes");
+    const genres = currentFacetOptions("genres");
+    const moods = currentFacetOptions("moods");
+    const purposes = currentFacetOptions("purposes");
     const formatUsesWhy = activeCategories().some(({ id }) => id === "why");
+    const primaryGenre = genres[0]?.label || "";
+    const secondaryGenre = genres[1]?.label || primaryGenre;
+    const primaryMood = moods[0]?.phrase || "";
+    const primaryPurpose = purposes[0]?.label || "";
 
     if (categoryId === "what") {
-      const conditions = [];
-      if (!formatUsesWhy && purposes.length > 0) conditions.push(`${purposes.join("と")}につながる`);
-      if (genres.length > 0) conditions.push(`${genres.join("と")}を題材にした`);
-      return `${conditions.join("")}${value}`;
+      if (!formatUsesWhy && primaryPurpose) {
+        const action = stableVariant(value, [
+          "を試すこと", "を考えること", "を楽しむこと", "を探ること", "を記すこと",
+          "を比べること", "を選ぶこと", "を学ぶこと", "を話すこと", "を描くこと",
+        ]);
+        const conditioned = `${primaryGenre ? `${primaryGenre}で` : ""}${primaryPurpose}${action}`;
+        return keepWithinElementLimit(conditioned, value);
+      }
+      if (primaryGenre) {
+        const topic = stableVariant(value, [
+          "の話題", "の出来事", "の発見", "の工夫", "の場面",
+          "の疑問", "の楽しみ", "の課題", "の選択", "の記録",
+        ]);
+        return keepWithinElementLimit(`${primaryGenre}${topic}`, value);
+      }
+      return value;
     }
 
-    if (categoryId === "why" && purposes.length > 0) {
-      return `${purposes.join("と")}を目的とし、${value}`;
+    if (categoryId === "why" && primaryPurpose) {
+      const reason = stableVariant(value, [
+        "に役立つから", "につながるから", "に合うから", "を深めたいから", "に必要だから",
+        "を試したいから", "を楽しめるから", "を広げられるから", "の一歩だから", "向きだから",
+      ]);
+      return keepWithinElementLimit(`${primaryPurpose}${reason}`, value);
     }
 
     if (categoryId === "how") {
-      const conditions = [];
-      if (genres.length > 0) conditions.push(`${genres.join("と")}の要素を取り入れ`);
-      if (moods.length > 0) conditions.push(`${moods.join("と")}という雰囲気を意識し`);
-      return conditions.length > 0 ? `${conditions.join("、")}、${value}` : value;
+      if (!secondaryGenre && !primaryMood) return value;
+      const manner = stableVariant(value, [
+        "調子で", "雰囲気で", "視点で", "気分で", "流れで",
+        "姿勢で", "感覚で", "手順で", "考え方で", "工夫で",
+      ]);
+      const conditioned = `${secondaryGenre ? `${secondaryGenre}らしく` : ""}${primaryMood}${manner}`;
+      return keepWithinElementLimit(conditioned, value);
     }
 
     return value;
@@ -603,8 +643,8 @@
     const allSameCount = counts.every((count) => count === counts[0]);
 
     elements.dataSummary.textContent = allSameCount
-      ? `収録${CATEGORIES.length}分類×各${counts[0].toLocaleString("ja-JP")}件＋テーマ${facetTotal.toLocaleString("ja-JP")}件`
-      : `全${total.toLocaleString("ja-JP")}件＋テーマ${facetTotal.toLocaleString("ja-JP")}件から選出`;
+      ? `収録${CATEGORIES.length}分類×各${counts[0].toLocaleString("ja-JP")}件・各20字以内＋テーマ${facetTotal.toLocaleString("ja-JP")}件`
+      : `各20字以内・全${total.toLocaleString("ja-JP")}件＋テーマ${facetTotal.toLocaleString("ja-JP")}件から選出`;
     elements.generator.setAttribute("aria-busy", "false");
     elements.errorPanel.hidden = true;
     setControlsEnabled(true);

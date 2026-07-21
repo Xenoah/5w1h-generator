@@ -9,6 +9,7 @@ const categories = [
   'action',
 ];
 const expectedCount = 3000;
+const maxElementLength = 20;
 
 const normalize = (value) => value
   .normalize('NFKC')
@@ -98,10 +99,13 @@ for (const category of categories) {
   const empty = values.filter((value) => typeof value === 'string' && normalize(value).length === 0).length;
   const exactDuplicates = values.length - new Set(values).size;
   const normalizedDuplicates = values.length - new Set(values.map(normalize)).size;
+  const overLength = values.filter((value) => typeof value === 'string' && [...value].length > maxElementLength).length;
+  const longest = values.reduce((max, value) => typeof value === 'string' ? Math.max(max, [...value].length) : max, 0);
   if (nonStrings) errors.push(`${nonStrings} non-string values`);
   if (empty) errors.push(`${empty} empty values`);
   if (exactDuplicates) errors.push(`${exactDuplicates} exact duplicates`);
   if (normalizedDuplicates) errors.push(`${normalizedDuplicates} normalized duplicates`);
+  if (overLength) errors.push(`${overLength} values exceed ${maxElementLength} characters`);
   if (category === 'where' && values.some((value) => /で$/.test(value))) errors.push('where value with trailing で');
   if (category === 'who' && values.some((value) => /が$/.test(value))) errors.push('who value with trailing が');
   if (category === 'whom' && values.some((value) => /に$/.test(value))) errors.push('whom value with trailing に');
@@ -114,7 +118,7 @@ for (const category of categories) {
 
   const similarity = similarityReport(values);
   const concentrations = concentrationReport(values);
-  console.log(`\n[${category}] count=${values.length}, exactDup=${exactDuplicates}, normalizedDup=${normalizedDuplicates}`);
+  console.log(`\n[${category}] count=${values.length}, maxLength=${longest}, exactDup=${exactDuplicates}, normalizedDup=${normalizedDuplicates}`);
   console.log(`similarity: candidates=${similarity.candidatePairs}, jaccard>=0.80=${similarity.highCount}`);
   if (similarity.closest.length) {
     for (const pair of similarity.closest) console.log(`  ${(pair.score).toFixed(3)}  ${pair.a}  <>  ${pair.b}`);
@@ -145,7 +149,7 @@ for (const [group, expected] of Object.entries(facetExpectedCounts)) {
     if (new Set(ids).size !== ids.length) errors.push('duplicate id');
     if (new Set(labels.map(normalize)).size !== labels.length) errors.push('normalized duplicate label');
     if (values.some((value) => !facetTiers.has(value?.tier))) errors.push('unknown tier');
-    if (values.filter((value) => value?.default === true).length !== 1) errors.push('default count must be 1');
+    if (values.filter((value) => value?.default === true).length > 1) errors.push('default count must be 0 or 1');
     if (group === 'moods' && values.some((value) => !normalize(String(value?.phrase ?? '')))) errors.push('empty mood phrase');
   }
 
