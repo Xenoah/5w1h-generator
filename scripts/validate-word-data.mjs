@@ -160,5 +160,86 @@ for (const [group, expected] of Object.entries(facetExpectedCounts)) {
   }
 }
 
+const storyCategoryIds = [
+  'protagonist', 'setting', 'era', 'desire', 'lack', 'inciting', 'goal',
+  'antagonist', 'obstacle', 'relationship', 'secret', 'motif', 'theme', 'ending',
+];
+const storyGenreTiers = new Set(['general', 'varied', 'niche']);
+const storyGenres = JSON.parse(await readFile(path.join(root, 'data', 'story-genres.json'), 'utf8'));
+const storyGenreErrors = [];
+
+if (!Array.isArray(storyGenres)) {
+  storyGenreErrors.push('root is not an array');
+} else {
+  if (storyGenres.length !== 30) storyGenreErrors.push(`count ${storyGenres.length} != 30`);
+  const ids = storyGenres.map((value) => String(value?.id ?? '').trim());
+  const labels = storyGenres.map((value) => String(value?.label ?? '').trim());
+  if (ids.some((value) => !value)) storyGenreErrors.push('empty id');
+  if (labels.some((value) => !normalize(value))) storyGenreErrors.push('empty label');
+  if (new Set(ids).size !== ids.length) storyGenreErrors.push('duplicate id');
+  if (new Set(labels.map(normalize)).size !== labels.length) storyGenreErrors.push('normalized duplicate label');
+  if (storyGenres.some((value) => !storyGenreTiers.has(value?.tier))) storyGenreErrors.push('unknown tier');
+}
+
+console.log(`\n[story:genres] count=${Array.isArray(storyGenres) ? storyGenres.length : 0}`);
+if (storyGenreErrors.length) {
+  failed = true;
+  console.error(`ERROR: ${storyGenreErrors.join('; ')}`);
+}
+
+const storyGenreIds = new Set(Array.isArray(storyGenres) ? storyGenres.map(({ id }) => id) : []);
+for (const category of storyCategoryIds) {
+  const values = JSON.parse(await readFile(path.join(root, 'data', 'story', `${category}.json`), 'utf8'));
+  const errors = [];
+  if (!Array.isArray(values)) {
+    errors.push('root is not an array');
+  } else {
+    if (values.length !== expectedCount) errors.push(`count ${values.length} != ${expectedCount}`);
+    const texts = values.map((value) => typeof value?.text === 'string' ? value.text.trim() : '');
+    const genres = values.map((value) => String(value?.genre ?? '').trim());
+    const exactDuplicates = texts.length - new Set(texts).size;
+    const normalizedDuplicates = texts.length - new Set(texts.map(normalize)).size;
+    const longest = texts.reduce((max, value) => Math.max(max, [...value].length), 0);
+    if (texts.some((value) => !normalize(value))) errors.push('empty text');
+    if (genres.some((value) => !storyGenreIds.has(value))) errors.push('unknown genre');
+    if (exactDuplicates) errors.push(`${exactDuplicates} exact duplicates`);
+    if (normalizedDuplicates) errors.push(`${normalizedDuplicates} normalized duplicates`);
+    if (texts.some((value) => [...value].length > maxElementLength)) errors.push(`value exceeds ${maxElementLength} characters`);
+    for (const genreId of storyGenreIds) {
+      const count = genres.filter((value) => value === genreId).length;
+      if (count !== 100) errors.push(`${genreId} count ${count} != 100`);
+    }
+    const similarity = similarityReport(texts);
+    if (similarity.highCount > 0) errors.push(`${similarity.highCount} highly similar candidate pairs`);
+    console.log(`[story:${category}] count=${values.length}, maxLength=${longest}, exactDup=${exactDuplicates}, normalizedDup=${normalizedDuplicates}, jaccard>=0.80=${similarity.highCount}`);
+    if (similarity.highCount > 0) {
+      for (const pair of similarity.closest) console.log(`  ${(pair.score).toFixed(3)}  ${pair.a}  <>  ${pair.b}`);
+    }
+  }
+  if (errors.length) {
+    failed = true;
+    console.error(`ERROR: ${errors.join('; ')}`);
+  }
+}
+
+const storyHtml = await readFile(path.join(root, 'story.html'), 'utf8');
+const storyJs = await readFile(path.join(root, 'story.js'), 'utf8');
+const indexHtml = await readFile(path.join(root, 'index.html'), 'utf8');
+const storyUiErrors = [];
+const storyHtmlIds = [...storyHtml.matchAll(/\bid="([^"]+)"/g)].map((match) => match[1]);
+const storyJsIds = [...storyJs.matchAll(/document\.querySelector\("#([^"]+)"\)/g)].map((match) => match[1]);
+if (new Set(storyHtmlIds).size !== storyHtmlIds.length) storyUiErrors.push('duplicate HTML id');
+for (const id of storyJsIds) {
+  if (!storyHtmlIds.includes(id)) storyUiErrors.push(`missing HTML id #${id}`);
+}
+if (!storyHtml.includes('src="./story.js"')) storyUiErrors.push('story.js is not linked');
+if (!storyHtml.includes('href="./styles.css"')) storyUiErrors.push('styles.css is not linked');
+if (!indexHtml.includes('href="./story.html"')) storyUiErrors.push('story link is missing from index.html');
+console.log(`\n[story:ui] htmlIds=${storyHtmlIds.length}, scriptIds=${storyJsIds.length}`);
+if (storyUiErrors.length) {
+  failed = true;
+  console.error(`ERROR: ${storyUiErrors.join('; ')}`);
+}
+
 if (failed) process.exitCode = 1;
-else console.log('\nAll word and facet-data validation checks passed.');
+else console.log('\nAll word, facet, and story-data validation checks passed.');

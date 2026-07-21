@@ -1,0 +1,152 @@
+[
+  {
+    "id": "everyday",
+    "label": "日常",
+    "tier": "general"
+  },
+  {
+    "id": "romance",
+    "label": "恋愛",
+    "tier": "general"
+  },
+  {
+    "id": "youth",
+    "label": "青春",
+    "tier": "general"
+  },
+  {
+    "id": "family",
+    "label": "家族",
+    "tier": "general"
+  },
+  {
+    "id": "friendship",
+    "label": "友情",
+    "tier": "general"
+  },
+  {
+    "id": "adventure",
+    "label": "冒険",
+    "tier": "general"
+  },
+  {
+    "id": "mystery",
+    "label": "謎解き",
+    "tier": "general"
+  },
+  {
+    "id": "fantasy",
+    "label": "幻想",
+    "tier": "general"
+  },
+  {
+    "id": "future",
+    "label": "科学未来",
+    "tier": "general"
+  },
+  {
+    "id": "comedy",
+    "label": "喜劇",
+    "tier": "general"
+  },
+  {
+    "id": "suspense",
+    "label": "緊迫劇",
+    "tier": "general"
+  },
+  {
+    "id": "historical",
+    "label": "時代劇",
+    "tier": "general"
+  },
+  {
+    "id": "travel",
+    "label": "旅",
+    "tier": "varied"
+  },
+  {
+    "id": "growth",
+    "label": "成長",
+    "tier": "varied"
+  },
+  {
+    "id": "school",
+    "label": "学園",
+    "tier": "varied"
+  },
+  {
+    "id": "music",
+    "label": "音楽",
+    "tier": "varied"
+  },
+  {
+    "id": "cooking",
+    "label": "料理",
+    "tier": "varied"
+  },
+  {
+    "id": "animals",
+    "label": "動物",
+    "tier": "varied"
+  },
+  {
+    "id": "sports",
+    "label": "競技",
+    "tier": "varied"
+  },
+  {
+    "id": "ocean",
+    "label": "海洋",
+    "tier": "varied"
+  },
+  {
+    "id": "disaster",
+    "label": "災害",
+    "tier": "varied"
+  },
+  {
+    "id": "japanese",
+    "label": "和風奇譚",
+    "tier": "varied"
+  },
+  {
+    "id": "folklore",
+    "label": "民俗",
+    "tier": "niche"
+  },
+  {
+    "id": "psychology",
+    "label": "心理",
+    "tier": "niche"
+  },
+  {
+    "id": "courtroom",
+    "label": "法廷",
+    "tier": "niche"
+  },
+  {
+    "id": "medical",
+    "label": "医療",
+    "tier": "niche"
+  },
+  {
+    "id": "archaeology",
+    "label": "考古",
+    "tier": "niche"
+  },
+  {
+    "id": "local-history",
+    "label": "郷土",
+    "tier": "niche"
+  },
+  {
+    "id": "deep-sea",
+    "label": "深海",
+    "tier": "niche"
+  },
+  {
+    "id": "polar",
+    "label": "極地",
+    "tier": "niche"
+  }
+]

@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f4eee2">
+    <meta
+      name="description"
+      content="主人公・舞台・願い・障害・主題・結末などをランダムに組み合わせる物語テーマメーカー。30ジャンルを複数選択してミックスできます。"
+    >
+    <title>物語テーマメーカー | 物語の芯をランダムに見つける</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./story.js" defer></script>
+  </head>
+  <body class="story-page">
+    <a class="skip-link" href="#story-generator">テーマメーカーへ移動</a>
+
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./" aria-label="5W1H+メーカー トップ">
+          <span class="brand-mark story-brand-mark" aria-hidden="true">✦</span>
+          <span>IDEA MAKERS</span>
+        </a>
+        <nav class="mode-nav" aria-label="メーカーを切り替える">
+          <a class="mode-link" href="./">5W1H</a>
+          <a class="mode-link is-active" href="./story.html" aria-current="page">物語テーマ</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero story-hero" aria-labelledby="page-title">
+          <p class="eyebrow">STORY THEME GENERATOR</p>
+          <h1 id="page-title">物語の芯を<br><span>偶然から見つけよう。</span></h1>
+          <p class="lead">
+            主人公、舞台、願い、障害、主題、結末。<br class="lead-break">
+            ジャンルを自由に重ね、まだ名前のない物語のテーマを組み立てます。
+          </p>
+        </section>
+
+        <section id="story-generator" class="generator story-generator" aria-labelledby="story-generator-title" aria-busy="true">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">YOUR STORY SEED</p>
+              <h2 id="story-generator-title">今回の物語テーマ</h2>
+            </div>
+            <p class="data-summary" id="story-data-summary">テーマ候補を準備しています…</p>
+          </div>
+
+          <div class="format-picker">
+            <div class="format-control">
+              <label for="story-format-select">構想の深さ</label>
+              <select id="story-format-select" disabled aria-describedby="story-format-description"></select>
+            </div>
+            <div class="format-copy">
+              <strong id="story-format-title">基本テーマ</strong>
+              <p id="story-format-description">物語の芯となる6要素を組み合わせます。</p>
+            </div>
+          </div>
+
+          <section class="facet-picker story-genre-picker" aria-labelledby="story-genre-title">
+            <details class="facet-master">
+              <summary class="facet-master-summary">
+                <span>
+                  <small>MIXABLE GENRES</small>
+                  <strong id="story-genre-title">物語ジャンルを選ぶ</strong>
+                </span>
+                <span id="story-genre-count">0選択</span>
+              </summary>
+              <div class="facet-body">
+                <div class="facet-heading">
+                  <div>
+                    <p class="facet-kicker">GENRE MIX</p>
+                    <h3>複数ジャンルをミックス</h3>
+                  </div>
+                  <p>未選択なら全ジャンル、複数選択なら選んだジャンル内から要素ごとにランダム選出します。</p>
+                </div>
+                <div class="facet-options story-genre-options" id="story-genre-options"></div>
+                <div class="facet-footer">
+                  <p id="story-genre-summary">ジャンルを準備しています…</p>
+                  <button class="facet-clear-button" id="story-genre-clear" type="button" disabled>選択をクリア</button>
+                </div>
+              </div>
+            </details>
+          </section>
+
+          <div class="error-panel" id="story-error-panel" role="alert" hidden>
+            <div class="error-icon" aria-hidden="true">!</div>
+            <div>
+              <h3>テーマ候補を読み込めませんでした</h3>
+              <p id="story-error-message">通信状態を確認して、もう一度お試しください。</p>
+              <p class="local-note">ファイルを直接開かず、ローカルサーバーまたはGitHub Pagesから表示してください。</p>
+              <button class="button button-secondary" id="story-retry-button" type="button">もう一度読み込む</button>
+            </div>
+          </div>
+
+          <div class="word-grid story-grid" id="story-grid" aria-live="polite"></div>
+
+          <div class="main-actions">
+            <button class="button button-primary story-primary-button" id="story-reroll-all" type="button" disabled>
+              <span class="dice" aria-hidden="true">✦</span>
+              テーマをすべて引き直す
+            </button>
+          </div>
+
+          <section class="sentence-panel story-result-panel" aria-labelledby="story-result-title">
+            <div class="sentence-heading">
+              <h3 id="story-result-title">できあがった物語テーマ</h3>
+              <span id="story-result-format">基本テーマ・6要素</span>
+            </div>
+            <p class="sentence story-sentence" id="story-result-output">テーマ候補を読み込んでいます。</p>
+            <button class="copy-button" id="story-copy-button" type="button" disabled>
+              <span aria-hidden="true">▣</span>
+              <span id="story-copy-label">テーマメモをコピー</span>
+            </button>
+          </section>
+
+          <p class="status" id="story-status" role="status" aria-live="polite"></p>
+        </section>
+
+        <section class="format-guide" aria-labelledby="story-guide-title">
+          <div class="guide-heading">
+            <p class="section-kicker">STORY DEPTH GUIDE</p>
+            <h2 id="story-guide-title">考えたい深さで選ぶ</h2>
+          </div>
+          <details class="guide-details">
+            <summary>4つの構成を見る</summary>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th scope="col">構成</th><th scope="col">要素</th><th scope="col">向いている場面</th></tr></thead>
+                <tbody>
+                  <tr><th scope="row">基本テーマ</th><td>6要素</td><td>短い発想、テーマ決め</td></tr>
+                  <tr><th scope="row">人物中心</th><td>8要素</td><td>感情、関係、人物の変化</td></tr>
+                  <tr><th scope="row">展開中心</th><td>10要素</td><td>事件、目的、物語の流れ</td></tr>
+                  <tr><th scope="row">フル構想</th><td>14要素</td><td>長編の初期設計、案出し</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </details>
+        </section>
+
+        <aside class="about story-about" aria-labelledby="story-about-title">
+          <div class="about-mark" aria-hidden="true">42K</div>
+          <div>
+            <h2 id="story-about-title">王道から少数派まで、物語の入口を広く</h2>
+            <p>
+              14要素を各3,000件、合計42,000件収録。全候補を20文字以内にそろえ、日常・恋愛・冒険から民俗・考古・深海・極地まで30の一般ジャンルで分類しました。特定の作品・人物・ブランドに依存しない創作素材です。
+            </p>
+          </div>
+        </aside>
+      </main>
+
+      <footer>
+        <p>STORY THEME MAKER <span aria-hidden="true">·</span> RANDOMNESS OPENS A DOOR</p>
+      </footer>
+    </div>
+
+    <noscript><p class="noscript-message">このメーカーを使うにはJavaScriptを有効にしてください。</p></noscript>
+  </body>
+</html>

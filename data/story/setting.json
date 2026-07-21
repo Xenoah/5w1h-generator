@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの古い港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの霧深い市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのにぎやかな市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの閉ざされた市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの光る市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの荒れた市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの眠らない市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない港町",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない商店街",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない山村",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない学校",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない図書館",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない列車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない島",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない研究所",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない劇場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの名もない市場",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の古い港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の霧深い市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のにぎやかな市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の閉ざされた市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の光る市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の荒れた市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の眠らない市場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない港町",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない商店街",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない山村",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない学校",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない図書館",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない列車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない島",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない研究所",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない劇場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の名もない市場",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の古い港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の霧深い市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のにぎやかな市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の閉ざされた市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の光る市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の荒れた市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の眠らない市場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない港町",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない商店街",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない山村",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない学校",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない図書館",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない列車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない島",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない研究所",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない劇場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の名もない市場",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の古い港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の霧深い市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のにぎやかな市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の閉ざされた市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の光る市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の荒れた市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の眠らない市場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない港町",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない商店街",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない山村",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない学校",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない図書館",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない列車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない島",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない研究所",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない劇場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の名もない市場",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の古い港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の霧深い市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のにぎやかな市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の閉ざされた市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の光る市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の荒れた市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の眠らない市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない港町",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない商店街",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない山村",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない学校",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない図書館",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない列車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない島",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない研究所",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない劇場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の名もない市場",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の古い港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の霧深い市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のにぎやかな市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の閉ざされた市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の光る市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の荒れた市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の眠らない市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない港町",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない商店街",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない山村",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない学校",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない図書館",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない列車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない島",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない研究所",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない劇場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の名もない市場",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの古い港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの霧深い市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのにぎやかな市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの閉ざされた市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの光る市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの荒れた市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの眠らない市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない港町",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない商店街",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない山村",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない学校",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない図書館",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない列車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない島",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない研究所",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない劇場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの名もない市場",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の古い港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の霧深い市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のにぎやかな市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の閉ざされた市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の光る市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の荒れた市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の眠らない市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない港町",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない商店街",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない山村",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない学校",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない図書館",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない列車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない島",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない研究所",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない劇場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の名もない市場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の古い港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の霧深い市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな島",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来のにぎやかな市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の閉ざされた市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の光る市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の荒れた市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の眠らない市場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない港町",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない商店街",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない山村",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない学校",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない図書館",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない列車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない島",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない研究所",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない劇場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の名もない市場",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の古い港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の霧深い市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のにぎやかな市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の閉ざされた市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の光る市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の荒れた市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の眠らない市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない港町",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない商店街",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない山村",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない学校",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない図書館",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない列車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない島",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない研究所",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない劇場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の名もない市場",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の古い港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の霧深い市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のにぎやかな市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の閉ざされた市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の光る市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の荒れた市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の眠らない市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない港町",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない商店街",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない山村",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない学校",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない図書館",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない列車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない島",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない研究所",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない劇場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の名もない市場",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の古い港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の霧深い市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のにぎやかな市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の閉ざされた市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の光る市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の荒れた市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の眠らない市場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない港町",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない商店街",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない山村",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない学校",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない図書館",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない列車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない島",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない研究所",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない劇場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の名もない市場",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の古い港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の霧深い市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のにぎやかな市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の閉ざされた市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の光る市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の荒れた市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の眠らない市場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない港町",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない商店街",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない山村",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない学校",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない図書館",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない列車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない島",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない研究所",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない劇場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の名もない市場",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の古い港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の霧深い市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のにぎやかな市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の閉ざされた市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の光る市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の荒れた市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の眠らない市場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない港町",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない商店街",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない山村",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない学校",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない図書館",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない列車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない島",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない研究所",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない劇場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の名もない市場",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の古い港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の霧深い市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな島",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園のにぎやかな市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の閉ざされた市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の光る市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の荒れた市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の眠らない市場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない港町",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない商店街",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない山村",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない学校",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない図書館",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない列車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない島",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない研究所",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない劇場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の名もない市場",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の古い港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の霧深い市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のにぎやかな市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の閉ざされた市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の光る市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の荒れた市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の眠らない市場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない港町",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない商店街",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない山村",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない学校",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない図書館",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない列車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない島",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない研究所",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない劇場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の名もない市場",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の古い港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の霧深い市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のにぎやかな市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の閉ざされた市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の光る市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の荒れた市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の眠らない市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない港町",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない商店街",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない山村",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない学校",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない図書館",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない列車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない島",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない研究所",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない劇場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の名もない市場",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の古い港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の霧深い市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のにぎやかな市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の閉ざされた市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の光る市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の荒れた市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の眠らない市場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない港町",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない商店街",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない山村",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない学校",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない図書館",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない列車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない島",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない研究所",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない劇場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の名もない市場",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の古い港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の霧深い市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のにぎやかな市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の閉ざされた市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の光る市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の荒れた市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の眠らない市場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない港町",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない商店街",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない山村",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない学校",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない図書館",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない列車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない島",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない研究所",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない劇場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の名もない市場",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の古い港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の霧深い市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のにぎやかな市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の閉ざされた市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の光る市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の荒れた市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の眠らない市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない港町",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない商店街",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない山村",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない学校",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない図書館",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない列車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない島",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない研究所",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない劇場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の名もない市場",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の古い港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の霧深い市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のにぎやかな市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の閉ざされた市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の光る市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の荒れた市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の眠らない市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない港町",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない商店街",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない山村",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない学校",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない図書館",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない列車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない島",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない研究所",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない劇場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の名もない市場",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の古い港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の霧深い市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のにぎやかな市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の閉ざされた市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の光る市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の荒れた市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の眠らない市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない港町",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない商店街",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない山村",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない学校",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない図書館",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない列車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない島",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない研究所",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない劇場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の名もない市場",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の古い港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の霧深い市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のにぎやかな市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の閉ざされた市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の光る市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の荒れた市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の眠らない市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない港町",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない商店街",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない山村",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない学校",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない図書館",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない列車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない島",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない研究所",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない劇場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の名もない市場",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の古い港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の霧深い市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のにぎやかな市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の閉ざされた市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の光る市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の荒れた市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の眠らない市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない港町",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない商店街",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない山村",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない学校",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない図書館",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない列車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない島",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない研究所",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない劇場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の名もない市場",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の古い港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の霧深い市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のにぎやかな市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の閉ざされた市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の光る市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の荒れた市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の眠らない市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない港町",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない商店街",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない山村",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない学校",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない図書館",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない列車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない島",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない研究所",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない劇場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の名もない市場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の古い港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の霧深い市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のにぎやかな市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の閉ざされた市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の光る市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の荒れた市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の眠らない市場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない港町",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない商店街",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない山村",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない学校",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない図書館",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない列車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない島",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない研究所",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない劇場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の名もない市場",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の古い港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の霧深い市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のにぎやかな市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の閉ざされた市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の光る市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の荒れた市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の眠らない市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない港町",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない商店街",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない山村",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない学校",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない図書館",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない列車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない島",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない研究所",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない劇場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の名もない市場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の古い港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の霧深い市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のにぎやかな市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の閉ざされた市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の光る市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の荒れた市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の眠らない市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない港町",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない商店街",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない山村",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない学校",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない図書館",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない列車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない島",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない研究所",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない劇場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の名もない市場",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の古い港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の霧深い市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のにぎやかな市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の閉ざされた市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の光る市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の荒れた市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の眠らない市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない港町",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない商店街",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない山村",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない学校",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない図書館",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない列車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない島",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない研究所",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない劇場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の名もない市場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の古い港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の霧深い市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のにぎやかな市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の閉ざされた市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の光る市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の荒れた市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の眠らない市場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない港町",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない商店街",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない山村",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない学校",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない図書館",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない列車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない島",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない研究所",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない劇場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の名もない市場",
+    "genre": "polar"
+  }
+]

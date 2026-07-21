@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの突然の手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然のうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの突然の訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けのうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜明けの訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでのうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの祭りでの訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日のうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの雨の日の訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然のうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然の訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりのうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの久しぶりの訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名のうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの匿名の訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前でのうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの駅前での訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏のうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密裏の訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の手紙の到着",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の失踪事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の再会",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の発見",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の依頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中のうわさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の事故",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の告白",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの真夜中の訪問者",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の突然の手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然のうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の突然の訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けのうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜明けの訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでのうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の祭りでの訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日のうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の雨の日の訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然のうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然の訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりのうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の久しぶりの訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名のうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の匿名の訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前でのうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の駅前での訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏のうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密裏の訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の手紙の到着",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の失踪事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の再会",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の発見",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の依頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中のうわさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の事故",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の告白",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の真夜中の訪問者",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の突然の手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然のうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の突然の訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けのうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜明けの訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでのうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の祭りでの訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日のうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の雨の日の訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然のうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然の訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりのうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の久しぶりの訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名のうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の匿名の訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前でのうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の駅前での訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏のうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密裏の訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の手紙の到着",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の失踪事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の再会",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の発見",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の依頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中のうわさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の事故",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の告白",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の真夜中の訪問者",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の突然の手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然のうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の突然の訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けのうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜明けの訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでのうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の祭りでの訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日のうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の雨の日の訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然のうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然の訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりのうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の久しぶりの訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名のうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の匿名の訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前でのうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の駅前での訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏のうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密裏の訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の手紙の到着",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の失踪事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の再会",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の発見",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の依頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中のうわさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の事故",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の告白",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の真夜中の訪問者",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の突然の手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然のうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の突然の訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けのうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜明けの訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでのうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の祭りでの訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日のうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の雨の日の訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然のうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然の訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりのうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の久しぶりの訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名のうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の匿名の訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前でのうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の駅前での訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏のうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密裏の訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の手紙の到着",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の失踪事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の再会",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の発見",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の依頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中のうわさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の事故",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の告白",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の真夜中の訪問者",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の突然の手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然のうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の突然の訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けのうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜明けの訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでのうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の祭りでの訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日のうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の雨の日の訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然のうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然の訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりのうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の久しぶりの訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名のうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の匿名の訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前でのうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の駅前での訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏のうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密裏の訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の手紙の到着",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の失踪事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の再会",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の発見",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の依頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中のうわさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の事故",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の告白",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の真夜中の訪問者",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの突然の手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然のうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの突然の訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けのうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜明けの訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでのうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの祭りでの訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日のうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの雨の日の訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然のうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然の訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりのうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの久しぶりの訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名のうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの匿名の訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前でのうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの駅前での訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏のうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密裏の訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の手紙の到着",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の失踪事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の再会",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の発見",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の依頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中のうわさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の事故",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の告白",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの真夜中の訪問者",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の突然の手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然のうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の突然の訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けのうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜明けの訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでのうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の祭りでの訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日のうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の雨の日の訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然のうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然の訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりのうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の久しぶりの訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名のうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の匿名の訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前でのうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の駅前での訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏のうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密裏の訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の手紙の到着",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の失踪事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の再会",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の発見",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の依頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中のうわさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の事故",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の告白",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の真夜中の訪問者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の突然の手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然のうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の突然の訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けのうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜明けの訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでのうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の祭りでの訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日のうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の雨の日の訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然のうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然の訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりのうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の久しぶりの訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名のうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の匿名の訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前でのうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の駅前での訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏のうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密裏の訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の手紙の到着",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の失踪事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の再会",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の発見",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の依頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中のうわさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の事故",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の告白",
+    "genre": "future"
+  },
+  {
+    "text": "未来の真夜中の訪問者",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の突然の手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然のうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の突然の訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けのうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜明けの訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでのうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の祭りでの訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日のうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の雨の日の訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然のうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然の訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりのうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の久しぶりの訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名のうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の匿名の訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前でのうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の駅前での訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏のうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密裏の訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の手紙の到着",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の失踪事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の再会",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の発見",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の依頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中のうわさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の事故",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の告白",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の真夜中の訪問者",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の突然の手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然のうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の突然の訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けのうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜明けの訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでのうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の祭りでの訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日のうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の雨の日の訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然のうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然の訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりのうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の久しぶりの訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名のうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の匿名の訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前でのうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の駅前での訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏のうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密裏の訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の手紙の到着",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の失踪事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の再会",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の発見",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の依頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中のうわさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の事故",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の告白",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の真夜中の訪問者",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の突然の手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然のうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の突然の訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けのうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜明けの訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでのうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の祭りでの訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日のうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の雨の日の訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然のうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然の訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりのうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の久しぶりの訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名のうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の匿名の訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前でのうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の駅前での訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏のうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密裏の訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の手紙の到着",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の失踪事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の再会",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の発見",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の依頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中のうわさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の事故",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の告白",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の真夜中の訪問者",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の突然の手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然のうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の突然の訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けのうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜明けの訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでのうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の祭りでの訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日のうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の雨の日の訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然のうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然の訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりのうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の久しぶりの訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名のうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の匿名の訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前でのうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の駅前での訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏のうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密裏の訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の手紙の到着",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の失踪事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の再会",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の発見",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の依頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中のうわさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の事故",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の告白",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の真夜中の訪問者",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の突然の手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然のうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の突然の訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けのうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜明けの訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでのうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の祭りでの訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日のうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の雨の日の訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然のうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然の訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりのうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の久しぶりの訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名のうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の匿名の訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前でのうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の駅前での訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏のうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密裏の訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の手紙の到着",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の失踪事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の再会",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の発見",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の依頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中のうわさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の事故",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の告白",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の真夜中の訪問者",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の突然の手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然のうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の突然の訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けのうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜明けの訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでのうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の祭りでの訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日のうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の雨の日の訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然のうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然の訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりのうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の久しぶりの訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名のうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の匿名の訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前でのうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の駅前での訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏のうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密裏の訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の手紙の到着",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の失踪事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の再会",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の発見",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の依頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中のうわさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の事故",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の告白",
+    "genre": "school"
+  },
+  {
+    "text": "学園の真夜中の訪問者",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の突然の手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然のうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の突然の訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けのうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜明けの訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでのうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の祭りでの訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日のうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の雨の日の訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然のうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然の訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりのうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の久しぶりの訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名のうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の匿名の訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前でのうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の駅前での訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏のうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密裏の訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の手紙の到着",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の失踪事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の再会",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の発見",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の依頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中のうわさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の事故",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の告白",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の真夜中の訪問者",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の突然の手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然のうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の突然の訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けのうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜明けの訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでのうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の祭りでの訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日のうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の雨の日の訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然のうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然の訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりのうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の久しぶりの訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名のうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の匿名の訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前でのうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の駅前での訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏のうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密裏の訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の手紙の到着",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の失踪事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の再会",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の発見",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の依頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中のうわさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の事故",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の告白",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の真夜中の訪問者",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の突然の手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然のうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の突然の訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けのうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜明けの訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでのうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の祭りでの訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日のうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の雨の日の訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然のうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然の訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりのうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の久しぶりの訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名のうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の匿名の訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前でのうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の駅前での訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏のうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密裏の訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の手紙の到着",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の失踪事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の再会",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の発見",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の依頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中のうわさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の事故",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の告白",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の真夜中の訪問者",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の突然の手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然のうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の突然の訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けのうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜明けの訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでのうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の祭りでの訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日のうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の雨の日の訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然のうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然の訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりのうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の久しぶりの訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名のうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の匿名の訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前でのうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の駅前での訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏のうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密裏の訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の手紙の到着",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の失踪事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の再会",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の発見",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の依頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中のうわさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の事故",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の告白",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の真夜中の訪問者",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の突然の手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然のうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の突然の訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けのうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜明けの訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでのうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の祭りでの訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日のうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の雨の日の訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然のうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然の訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりのうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の久しぶりの訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名のうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の匿名の訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前でのうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の駅前での訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏のうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密裏の訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の手紙の到着",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の失踪事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の再会",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の発見",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の依頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中のうわさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の事故",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の告白",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の真夜中の訪問者",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の突然の手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然のうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の突然の訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けのうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜明けの訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでのうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の祭りでの訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日のうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の雨の日の訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然のうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然の訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりのうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の久しぶりの訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名のうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の匿名の訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前でのうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の駅前での訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏のうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密裏の訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の手紙の到着",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の失踪事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の再会",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の発見",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の依頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中のうわさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の事故",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の告白",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の真夜中の訪問者",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の突然の手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然のうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の突然の訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けのうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜明けの訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでのうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の祭りでの訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日のうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の雨の日の訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然のうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然の訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりのうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の久しぶりの訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名のうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の匿名の訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前でのうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の駅前での訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏のうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密裏の訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の手紙の到着",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の失踪事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の再会",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の発見",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の依頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中のうわさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の事故",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の告白",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の真夜中の訪問者",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の突然の手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然のうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の突然の訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けのうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜明けの訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでのうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の祭りでの訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日のうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の雨の日の訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然のうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然の訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりのうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の久しぶりの訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名のうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の匿名の訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前でのうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の駅前での訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏のうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密裏の訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の手紙の到着",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の失踪事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の再会",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の発見",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の依頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中のうわさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の事故",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の告白",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の真夜中の訪問者",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の突然の手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然のうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の突然の訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けのうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜明けの訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでのうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の祭りでの訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日のうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の雨の日の訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然のうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然の訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりのうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の久しぶりの訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名のうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の匿名の訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前でのうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の駅前での訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏のうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密裏の訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の手紙の到着",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の失踪事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の再会",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の発見",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の依頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中のうわさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の事故",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の告白",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の真夜中の訪問者",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の突然の手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然のうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の突然の訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けのうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜明けの訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでのうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の祭りでの訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日のうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の雨の日の訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然のうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然の訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりのうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の久しぶりの訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名のうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の匿名の訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前でのうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の駅前での訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏のうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密裏の訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の手紙の到着",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の失踪事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の再会",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の発見",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の依頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中のうわさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の事故",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の告白",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の真夜中の訪問者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の突然の手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然のうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の突然の訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けのうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜明けの訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでのうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の祭りでの訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日のうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の雨の日の訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然のうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然の訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりのうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の久しぶりの訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名のうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の匿名の訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前でのうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の駅前での訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏のうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密裏の訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の手紙の到着",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の失踪事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の再会",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の発見",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の依頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中のうわさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の事故",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の告白",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の真夜中の訪問者",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の突然の手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然のうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の突然の訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けのうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜明けの訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでのうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の祭りでの訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日のうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の雨の日の訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然のうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然の訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりのうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の久しぶりの訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名のうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の匿名の訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前でのうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の駅前での訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏のうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密裏の訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の手紙の到着",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の失踪事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の再会",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の発見",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の依頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中のうわさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の事故",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の告白",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の真夜中の訪問者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の突然の手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然のうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の突然の訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けのうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜明けの訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでのうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の祭りでの訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日のうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の雨の日の訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然のうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然の訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりのうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の久しぶりの訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名のうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の匿名の訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前でのうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の駅前での訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏のうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密裏の訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の手紙の到着",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の失踪事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の再会",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の発見",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の依頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中のうわさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の事故",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の告白",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の真夜中の訪問者",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の突然の手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然のうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の突然の訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けのうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜明けの訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでのうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の祭りでの訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日のうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の雨の日の訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然のうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然の訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりのうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の久しぶりの訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名のうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の匿名の訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前でのうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の駅前での訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏のうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密裏の訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の手紙の到着",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の失踪事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の再会",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の発見",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の依頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中のうわさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の事故",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の告白",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の真夜中の訪問者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の突然の手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然のうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の突然の訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けのうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜明けの訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでのうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の祭りでの訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日のうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の雨の日の訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然のうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然の訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりのうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の久しぶりの訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名のうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の匿名の訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前でのうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の駅前での訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏のうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密裏の訪問者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の手紙の到着",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の失踪事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の再会",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の発見",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の依頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中のうわさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の事故",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の告白",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の真夜中の訪問者",
+    "genre": "polar"
+  }
+]
