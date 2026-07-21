@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { writeExtendedWordData } from './generate-extended-word-data.mjs';
 import { writeStoryData } from './generate-story-data.mjs';
+import { writeCreativeData } from './generate-creative-data.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dataDir = path.join(root, 'data');
@@ -2706,3 +2707,4 @@ for (const [category, families] of Object.entries(categories)) {
 
 await writeExtendedWordData(dataDir);
 await writeStoryData(dataDir);
+await writeCreativeData(dataDir);

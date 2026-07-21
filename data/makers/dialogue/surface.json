@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしのひそかに予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかにうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いでうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧にうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切ってうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人でうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆とうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然にうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返しうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後にうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて予定を確認する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて道を尋ねる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて近況を話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて品物を返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて食事に誘う",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて礼を伝える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて助言を求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めてうわさを確かめる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて謝罪する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて別れを告げる",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様のひそかに予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかにうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いでうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧にうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切ってうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人でうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆とうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然にうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返しうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後にうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて予定を確認する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて道を尋ねる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて近況を話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて品物を返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて食事に誘う",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて礼を伝える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて助言を求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めてうわさを確かめる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて謝罪する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて別れを告げる",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期のひそかに予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかにうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いでうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧にうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切ってうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人でうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆とうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然にうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返しうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後にうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて予定を確認する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて道を尋ねる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて近況を話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて品物を返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて食事に誘う",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて礼を伝える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて助言を求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めてうわさを確かめる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて謝罪する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて別れを告げる",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇のひそかに予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかにうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いでうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧にうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切ってうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人でうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆とうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然にうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返しうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後にうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて予定を確認する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて道を尋ねる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて近況を話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて品物を返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて食事に誘う",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて礼を伝える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて助言を求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めてうわさを確かめる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて謝罪する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて別れを告げる",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚のひそかに予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかにうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いでうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧にうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切ってうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人でうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆とうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然にうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返しうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後にうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて予定を確認する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて道を尋ねる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて近況を話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて品物を返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて食事に誘う",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて礼を伝える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて助言を求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めてうわさを確かめる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて謝罪する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて別れを告げる",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚のひそかに予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかにうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いでうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧にうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切ってうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人でうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆とうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然にうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返しうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後にうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて予定を確認する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて道を尋ねる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて近況を話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて品物を返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて食事に誘う",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて礼を伝える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて助言を求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めてうわさを確かめる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて謝罪する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて別れを告げる",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きのひそかに予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかにうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いでうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧にうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切ってうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人でうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆とうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然にうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返しうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後にうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて予定を確認する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて道を尋ねる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて近況を話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて品物を返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて食事に誘う",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて礼を伝える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて助言を求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めてうわさを確かめる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて謝罪する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて別れを告げる",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界のひそかに予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかにうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いでうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧にうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切ってうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人でうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆とうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然にうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返しうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後にうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて予定を確認する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて道を尋ねる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて近況を話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて品物を返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて食事に誘う",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて礼を伝える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて助言を求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めてうわさを確かめる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて謝罪する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて別れを告げる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来のひそかに予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかにうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いでうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧にうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切ってうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人でうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆とうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然にうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返しうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後にうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて予定を確認する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて道を尋ねる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて近況を話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて品物を返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて食事に誘う",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて礼を伝える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて助言を求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めてうわさを確かめる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて謝罪する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて別れを告げる",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調のひそかに予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかにうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いでうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧にうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切ってうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人でうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆とうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然にうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返しうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後にうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて予定を確認する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて道を尋ねる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて近況を話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて品物を返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて食事に誘う",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて礼を伝える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて助言を求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めてうわさを確かめる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて謝罪する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて別れを告げる",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇のひそかに予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかにうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いでうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧にうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切ってうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人でうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆とうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然にうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返しうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後にうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて予定を確認する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて道を尋ねる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて近況を話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて品物を返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて食事に誘う",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて礼を伝える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて助言を求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めてうわさを確かめる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて謝罪する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて別れを告げる",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇のひそかに予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかにうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いでうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧にうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切ってうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人でうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆とうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然にうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返しうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後にうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて予定を確認する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて道を尋ねる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて近況を話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて品物を返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて食事に誘う",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて礼を伝える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて助言を求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めてうわさを確かめる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて謝罪する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて別れを告げる",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路のひそかに予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかにうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いでうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧にうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切ってうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人でうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆とうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然にうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返しうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後にうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて予定を確認する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて道を尋ねる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて近況を話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて品物を返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて食事に誘う",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて礼を伝える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて助言を求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めてうわさを確かめる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて謝罪する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて別れを告げる",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚のひそかに予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかにうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いでうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧にうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切ってうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人でうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆とうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然にうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返しうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後にうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて予定を確認する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて道を尋ねる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて近況を話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて品物を返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて食事に誘う",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて礼を伝える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて助言を求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めてうわさを確かめる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて謝罪する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて別れを告げる",
+    "genre": "growth"
+  },
+  {
+    "text": "学園のひそかに予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかにうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いでうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧にうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切ってうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人でうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆とうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然にうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返しうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後にうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて予定を確認する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて道を尋ねる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて近況を話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて品物を返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて食事に誘う",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて礼を伝える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて助言を求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めてうわさを確かめる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて謝罪する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて別れを告げる",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚のひそかに予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかにうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いでうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧にうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切ってうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人でうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆とうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然にうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返しうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後にうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて予定を確認する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて道を尋ねる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて近況を話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて品物を返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて食事に誘う",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて礼を伝える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて助言を求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めてうわさを確かめる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて謝罪する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて別れを告げる",
+    "genre": "music"
+  },
+  {
+    "text": "食卓のひそかに予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかにうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いでうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧にうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切ってうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人でうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆とうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然にうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返しうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後にうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて予定を確認する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて道を尋ねる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて近況を話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて品物を返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて食事に誘う",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて礼を伝える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて助言を求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めてうわさを確かめる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて謝罪する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて別れを告げる",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚のひそかに予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかにうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いでうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧にうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切ってうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人でうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆とうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然にうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返しうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後にうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて予定を確認する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて道を尋ねる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて近況を話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて品物を返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて食事に誘う",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて礼を伝える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて助言を求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めてうわさを確かめる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて謝罪する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて別れを告げる",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場のひそかに予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかにうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いでうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧にうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切ってうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人でうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆とうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然にうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返しうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後にうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて予定を確認する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて道を尋ねる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて近況を話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて品物を返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて食事に誘う",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて礼を伝える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて助言を求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めてうわさを確かめる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて謝罪する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて別れを告げる",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚のひそかに予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかにうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いでうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧にうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切ってうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人でうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆とうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然にうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返しうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後にうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて予定を確認する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて道を尋ねる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて近況を話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて品物を返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて食事に誘う",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて礼を伝える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて助言を求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めてうわさを確かめる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて謝罪する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて別れを告げる",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下のひそかに予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかにうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いでうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧にうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切ってうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人でうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆とうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然にうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返しうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後にうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて予定を確認する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて道を尋ねる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて近況を話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて品物を返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて食事に誘う",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて礼を伝える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて助言を求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めてうわさを確かめる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて謝罪する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて別れを告げる",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚のひそかに予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかにうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いでうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧にうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切ってうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人でうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆とうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然にうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返しうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後にうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて予定を確認する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて道を尋ねる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて近況を話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて品物を返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて食事に誘う",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて礼を伝える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて助言を求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めてうわさを確かめる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて謝罪する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて別れを告げる",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚のひそかに予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかにうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いでうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧にうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切ってうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人でうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆とうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然にうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返しうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後にうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて予定を確認する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて道を尋ねる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて近況を話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて品物を返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて食事に誘う",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて礼を伝える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて助言を求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めてうわさを確かめる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて謝罪する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて別れを告げる",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇のひそかに予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかにうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いでうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧にうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切ってうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人でうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆とうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然にうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返しうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後にうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて予定を確認する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて道を尋ねる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて近況を話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて品物を返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて食事に誘う",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて礼を伝える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて助言を求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めてうわさを確かめる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて謝罪する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて別れを告げる",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇のひそかに予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかにうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いでうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧にうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切ってうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人でうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆とうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然にうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返しうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後にうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて予定を確認する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて道を尋ねる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて近況を話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて品物を返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて食事に誘う",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて礼を伝える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて助言を求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めてうわさを確かめる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて謝罪する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて別れを告げる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇のひそかに予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかにうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いでうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧にうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切ってうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人でうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆とうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然にうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返しうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後にうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて予定を確認する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて道を尋ねる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて近況を話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて品物を返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて食事に誘う",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて礼を伝える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて助言を求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めてうわさを確かめる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて謝罪する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて別れを告げる",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚のひそかに予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかにうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いでうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧にうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切ってうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人でうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆とうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然にうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返しうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後にうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて予定を確認する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて道を尋ねる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて近況を話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて品物を返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて食事に誘う",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて礼を伝える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて助言を求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めてうわさを確かめる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて謝罪する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて別れを告げる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚のひそかに予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかにうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いでうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧にうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切ってうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人でうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆とうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然にうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返しうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後にうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて予定を確認する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて道を尋ねる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて近況を話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて品物を返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて食事に誘う",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて礼を伝える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて助言を求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めてうわさを確かめる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて謝罪する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて別れを告げる",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚のひそかに予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかにうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いでうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧にうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切ってうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人でうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆とうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然にうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返しうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後にうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて予定を確認する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて道を尋ねる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて近況を話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて品物を返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて食事に誘う",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて礼を伝える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて助言を求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めてうわさを確かめる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて謝罪する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて別れを告げる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚のひそかに予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかにうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いでうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧にうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切ってうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人でうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆とうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然にうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返しうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後にうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に別れを告げる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて予定を確認する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて道を尋ねる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて近況を話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて品物を返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて食事に誘う",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて礼を伝える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて助言を求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めてうわさを確かめる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて謝罪する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて別れを告げる",
+    "genre": "polar"
+  }
+]

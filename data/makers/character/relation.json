@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしのかつての家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ家族との距離",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ旧友との絆",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ隣人との縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ宿敵との因縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ同僚との信頼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ旅人との約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ親子の確執",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ仲間との連帯",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ恩人への借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様のかつての家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ家族との距離",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ旧友との絆",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ隣人との縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ宿敵との因縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ同僚との信頼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ旅人との約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ親子の確執",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ仲間との連帯",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ恩人への借り",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期のかつての家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ家族との距離",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ旧友との絆",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ隣人との縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ宿敵との因縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ同僚との信頼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ旅人との約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ親子の確執",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ仲間との連帯",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ恩人への借り",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇のかつての家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ家族との距離",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ旧友との絆",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ隣人との縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ宿敵との因縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ同僚との信頼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ旅人との約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ親子の確執",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ仲間との連帯",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ恩人への借り",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚のかつての家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ家族との距離",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ旧友との絆",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ隣人との縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ宿敵との因縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ同僚との信頼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ旅人との約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ親子の確執",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ仲間との連帯",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ恩人への借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚のかつての家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ家族との距離",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ旧友との絆",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ隣人との縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ宿敵との因縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ同僚との信頼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ旅人との約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ親子の確執",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ仲間との連帯",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ恩人への借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きのかつての家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ家族との距離",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ旧友との絆",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ隣人との縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ宿敵との因縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ同僚との信頼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ旅人との約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ親子の確執",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ仲間との連帯",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ恩人への借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界のかつての家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ家族との距離",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ旧友との絆",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ隣人との縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ宿敵との因縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ同僚との信頼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ旅人との約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ親子の確執",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ仲間との連帯",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ恩人への借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来のかつての家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ家族との距離",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ旧友との絆",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ隣人との縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ宿敵との因縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ同僚との信頼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ旅人との約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ親子の確執",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ仲間との連帯",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ恩人への借り",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調のかつての家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ家族との距離",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ旧友との絆",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ隣人との縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ宿敵との因縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ同僚との信頼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ旅人との約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ親子の確執",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ仲間との連帯",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ恩人への借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇のかつての家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ家族との距離",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ旧友との絆",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ隣人との縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ宿敵との因縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ同僚との信頼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ旅人との約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ親子の確執",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ仲間との連帯",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ恩人への借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇のかつての家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ家族との距離",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ旧友との絆",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ隣人との縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ宿敵との因縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ同僚との信頼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ旅人との約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ親子の確執",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ仲間との連帯",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ恩人への借り",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路のかつての家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ家族との距離",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ旧友との絆",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ隣人との縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ宿敵との因縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ同僚との信頼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ旅人との約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ親子の確執",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ仲間との連帯",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ恩人への借り",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚のかつての家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ家族との距離",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ旧友との絆",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ隣人との縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ宿敵との因縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ同僚との信頼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ旅人との約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ親子の確執",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ仲間との連帯",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ恩人への借り",
+    "genre": "growth"
+  },
+  {
+    "text": "学園のかつての家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ家族との距離",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ旧友との絆",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ隣人との縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ宿敵との因縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ同僚との信頼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ旅人との約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ親子の確執",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ仲間との連帯",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ恩人への借り",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚のかつての家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ家族との距離",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ旧友との絆",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ隣人との縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ宿敵との因縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ同僚との信頼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ旅人との約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ親子の確執",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ仲間との連帯",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ恩人への借り",
+    "genre": "music"
+  },
+  {
+    "text": "食卓のかつての家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ家族との距離",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ旧友との絆",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ隣人との縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ宿敵との因縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ同僚との信頼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ旅人との約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ親子の確執",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ仲間との連帯",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ恩人への借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚のかつての家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ家族との距離",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ旧友との絆",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ隣人との縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ宿敵との因縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ同僚との信頼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ旅人との約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ親子の確執",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ仲間との連帯",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ恩人への借り",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場のかつての家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ家族との距離",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ旧友との絆",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ隣人との縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ宿敵との因縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ同僚との信頼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ旅人との約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ親子の確執",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ仲間との連帯",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ恩人への借り",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚のかつての家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ家族との距離",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ旧友との絆",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ隣人との縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ宿敵との因縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ同僚との信頼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ旅人との約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ親子の確執",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ仲間との連帯",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ恩人への借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下のかつての家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ家族との距離",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ旧友との絆",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ隣人との縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ宿敵との因縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ同僚との信頼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ旅人との約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ親子の確執",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ仲間との連帯",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ恩人への借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚のかつての家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ家族との距離",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ旧友との絆",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ隣人との縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ宿敵との因縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ同僚との信頼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ旅人との約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ親子の確執",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ仲間との連帯",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ恩人への借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚のかつての家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ家族との距離",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ旧友との絆",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ隣人との縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ宿敵との因縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ同僚との信頼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ旅人との約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ親子の確執",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ仲間との連帯",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ恩人への借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇のかつての家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ家族との距離",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ旧友との絆",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ隣人との縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ宿敵との因縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ同僚との信頼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ旅人との約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ親子の確執",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ仲間との連帯",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ恩人への借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇のかつての家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ家族との距離",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ旧友との絆",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ隣人との縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ宿敵との因縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ同僚との信頼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ旅人との約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ親子の確執",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ仲間との連帯",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ恩人への借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇のかつての家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ家族との距離",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ旧友との絆",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ隣人との縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ宿敵との因縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ同僚との信頼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ旅人との約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ親子の確執",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ仲間との連帯",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ恩人への借り",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚のかつての家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ家族との距離",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ旧友との絆",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ隣人との縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ宿敵との因縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ同僚との信頼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ旅人との約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ親子の確執",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ仲間との連帯",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ恩人への借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚のかつての家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ家族との距離",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ旧友との絆",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ隣人との縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ宿敵との因縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ同僚との信頼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ旅人との約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ親子の確執",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ仲間との連帯",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ恩人への借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚のかつての家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ家族との距離",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ旧友との絆",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ隣人との縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ宿敵との因縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ同僚との信頼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ旅人との約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ親子の確執",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ仲間との連帯",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ恩人への借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚のかつての家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく恩人への借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ家族との距離",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ旧友との絆",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ隣人との縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ宿敵との因縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ同僚との信頼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ旅人との約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ親子の確執",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ仲間との連帯",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ恩人への借り",
+    "genre": "polar"
+  }
+]

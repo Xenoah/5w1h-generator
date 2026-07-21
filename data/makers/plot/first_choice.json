@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしのひそかに依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて依頼を受ける",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて町を出る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて秘密を守る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて友に相談する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて証拠を隠す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて危険地へ向かう",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて家族に話す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて一人で調べる",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて約束を破る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて助けを求める",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様のひそかに依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて依頼を受ける",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて町を出る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて秘密を守る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて友に相談する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて証拠を隠す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて危険地へ向かう",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて家族に話す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて一人で調べる",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて約束を破る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて助けを求める",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期のひそかに依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて依頼を受ける",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて町を出る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて秘密を守る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて友に相談する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて証拠を隠す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて危険地へ向かう",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて家族に話す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて一人で調べる",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて約束を破る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて助けを求める",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇のひそかに依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて依頼を受ける",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて町を出る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて秘密を守る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて友に相談する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて証拠を隠す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて危険地へ向かう",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて家族に話す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて一人で調べる",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて約束を破る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて助けを求める",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚のひそかに依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて依頼を受ける",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて町を出る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて秘密を守る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて友に相談する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて証拠を隠す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて危険地へ向かう",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて家族に話す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて一人で調べる",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて約束を破る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて助けを求める",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚のひそかに依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて依頼を受ける",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて町を出る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて秘密を守る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて友に相談する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて証拠を隠す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて危険地へ向かう",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて家族に話す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて一人で調べる",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて約束を破る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて助けを求める",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きのひそかに依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて依頼を受ける",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて町を出る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて秘密を守る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて友に相談する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて証拠を隠す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて危険地へ向かう",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて家族に話す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて一人で調べる",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて約束を破る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて助けを求める",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界のひそかに依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて依頼を受ける",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて町を出る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて秘密を守る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて友に相談する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて証拠を隠す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて危険地へ向かう",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて家族に話す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて一人で調べる",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて約束を破る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて助けを求める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来のひそかに依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて依頼を受ける",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて町を出る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて秘密を守る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて友に相談する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて証拠を隠す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて危険地へ向かう",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて家族に話す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて一人で調べる",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて約束を破る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて助けを求める",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調のひそかに依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて依頼を受ける",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて町を出る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて秘密を守る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて友に相談する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて証拠を隠す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて危険地へ向かう",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて家族に話す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて一人で調べる",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて約束を破る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて助けを求める",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇のひそかに依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて依頼を受ける",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて町を出る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて秘密を守る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて友に相談する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて証拠を隠す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて危険地へ向かう",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて家族に話す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて一人で調べる",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて約束を破る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて助けを求める",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇のひそかに依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて依頼を受ける",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて町を出る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて秘密を守る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて友に相談する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて証拠を隠す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて危険地へ向かう",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて家族に話す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて一人で調べる",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて約束を破る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて助けを求める",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路のひそかに依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて依頼を受ける",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて町を出る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて秘密を守る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて友に相談する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて証拠を隠す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて危険地へ向かう",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて家族に話す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて一人で調べる",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて約束を破る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて助けを求める",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚のひそかに依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて依頼を受ける",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて町を出る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて秘密を守る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて友に相談する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて証拠を隠す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて危険地へ向かう",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて家族に話す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて一人で調べる",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて約束を破る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて助けを求める",
+    "genre": "growth"
+  },
+  {
+    "text": "学園のひそかに依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて依頼を受ける",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて町を出る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて秘密を守る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて友に相談する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて証拠を隠す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて危険地へ向かう",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて家族に話す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて一人で調べる",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて約束を破る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて助けを求める",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚のひそかに依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて依頼を受ける",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて町を出る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて秘密を守る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて友に相談する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて証拠を隠す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて危険地へ向かう",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて家族に話す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて一人で調べる",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて約束を破る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて助けを求める",
+    "genre": "music"
+  },
+  {
+    "text": "食卓のひそかに依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて依頼を受ける",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて町を出る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて秘密を守る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて友に相談する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて証拠を隠す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて危険地へ向かう",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて家族に話す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて一人で調べる",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて約束を破る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて助けを求める",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚のひそかに依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて依頼を受ける",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて町を出る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて秘密を守る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて友に相談する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて証拠を隠す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて危険地へ向かう",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて家族に話す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて一人で調べる",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて約束を破る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて助けを求める",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場のひそかに依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて依頼を受ける",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて町を出る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて秘密を守る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて友に相談する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて証拠を隠す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて危険地へ向かう",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて家族に話す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて一人で調べる",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて約束を破る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて助けを求める",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚のひそかに依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて依頼を受ける",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて町を出る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて秘密を守る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて友に相談する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて証拠を隠す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて危険地へ向かう",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて家族に話す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて一人で調べる",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて約束を破る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて助けを求める",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下のひそかに依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて依頼を受ける",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて町を出る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて秘密を守る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて友に相談する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて証拠を隠す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて危険地へ向かう",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて家族に話す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて一人で調べる",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて約束を破る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて助けを求める",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚のひそかに依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて依頼を受ける",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて町を出る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて秘密を守る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて友に相談する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて証拠を隠す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて危険地へ向かう",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて家族に話す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて一人で調べる",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて約束を破る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて助けを求める",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚のひそかに依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて依頼を受ける",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて町を出る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて秘密を守る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて友に相談する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて証拠を隠す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて危険地へ向かう",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて家族に話す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて一人で調べる",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて約束を破る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて助けを求める",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇のひそかに依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて依頼を受ける",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて町を出る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて秘密を守る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて友に相談する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて証拠を隠す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて危険地へ向かう",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて家族に話す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて一人で調べる",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて約束を破る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて助けを求める",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇のひそかに依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて依頼を受ける",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて町を出る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて秘密を守る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて友に相談する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて証拠を隠す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて危険地へ向かう",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて家族に話す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて一人で調べる",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて約束を破る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて助けを求める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇のひそかに依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて依頼を受ける",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて町を出る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて秘密を守る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて友に相談する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて証拠を隠す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて危険地へ向かう",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて家族に話す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて一人で調べる",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて約束を破る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて助けを求める",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚のひそかに依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて依頼を受ける",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて町を出る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて秘密を守る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて友に相談する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて証拠を隠す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて危険地へ向かう",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて家族に話す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて一人で調べる",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて約束を破る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて助けを求める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚のひそかに依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて依頼を受ける",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて町を出る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて秘密を守る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて友に相談する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて証拠を隠す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて危険地へ向かう",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて家族に話す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて一人で調べる",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて約束を破る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて助けを求める",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚のひそかに依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて依頼を受ける",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて町を出る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて秘密を守る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて友に相談する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて証拠を隠す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて危険地へ向かう",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて家族に話す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて一人で調べる",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて約束を破る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて助けを求める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚のひそかに依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に助けを求める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて依頼を受ける",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて町を出る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて秘密を守る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて友に相談する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて証拠を隠す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて危険地へ向かう",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて家族に話す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて一人で調べる",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて約束を破る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて助けを求める",
+    "genre": "polar"
+  }
+]

@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしのかつての親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ親子関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ旧友の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ過去の同僚",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ師弟関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ金銭の貸し借り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ秘密の婚約",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ同郷の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ共同研究",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ家族ぐるみの交流",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ昔の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様のかつての親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ親子関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ旧友の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ過去の同僚",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ師弟関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ金銭の貸し借り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ秘密の婚約",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ同郷の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ共同研究",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ家族ぐるみの交流",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ昔の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期のかつての親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ親子関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ旧友の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ過去の同僚",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ師弟関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ金銭の貸し借り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ秘密の婚約",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ同郷の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ共同研究",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ家族ぐるみの交流",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ昔の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇のかつての親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ親子関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ旧友の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ過去の同僚",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ師弟関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ金銭の貸し借り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ秘密の婚約",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ同郷の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ共同研究",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ家族ぐるみの交流",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ昔の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚のかつての親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ親子関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ旧友の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ過去の同僚",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ師弟関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ金銭の貸し借り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ秘密の婚約",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ同郷の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ共同研究",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ家族ぐるみの交流",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ昔の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚のかつての親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ親子関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ旧友の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ過去の同僚",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ師弟関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ金銭の貸し借り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ秘密の婚約",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ同郷の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ共同研究",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ家族ぐるみの交流",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ昔の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きのかつての親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ親子関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ旧友の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ過去の同僚",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ師弟関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ金銭の貸し借り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ秘密の婚約",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ同郷の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ共同研究",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ家族ぐるみの交流",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ昔の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界のかつての親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ親子関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ旧友の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ過去の同僚",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ師弟関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ金銭の貸し借り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ秘密の婚約",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ同郷の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ共同研究",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ家族ぐるみの交流",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ昔の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来のかつての親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ親子関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ旧友の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ過去の同僚",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ師弟関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ金銭の貸し借り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ秘密の婚約",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ同郷の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ共同研究",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ家族ぐるみの交流",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ昔の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調のかつての親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ親子関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ旧友の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ過去の同僚",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ師弟関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ金銭の貸し借り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ秘密の婚約",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ同郷の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ共同研究",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ家族ぐるみの交流",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ昔の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇のかつての親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ親子関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ旧友の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ過去の同僚",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ師弟関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ金銭の貸し借り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ秘密の婚約",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ同郷の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ共同研究",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ家族ぐるみの交流",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ昔の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇のかつての親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ親子関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ旧友の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ過去の同僚",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ師弟関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ金銭の貸し借り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ秘密の婚約",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ同郷の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ共同研究",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ家族ぐるみの交流",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ昔の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路のかつての親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ親子関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ旧友の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ過去の同僚",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ師弟関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ金銭の貸し借り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ秘密の婚約",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ同郷の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ共同研究",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ家族ぐるみの交流",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ昔の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚のかつての親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ親子関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ旧友の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ過去の同僚",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ師弟関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ金銭の貸し借り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ秘密の婚約",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ同郷の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ共同研究",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ家族ぐるみの交流",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ昔の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "学園のかつての親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ親子関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ旧友の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ過去の同僚",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ師弟関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ金銭の貸し借り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ秘密の婚約",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ同郷の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ共同研究",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ家族ぐるみの交流",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ昔の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚のかつての親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ親子関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ旧友の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ過去の同僚",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ師弟関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ金銭の貸し借り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ秘密の婚約",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ同郷の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ共同研究",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ家族ぐるみの交流",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ昔の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "食卓のかつての親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ親子関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ旧友の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ過去の同僚",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ師弟関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ金銭の貸し借り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ秘密の婚約",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ同郷の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ共同研究",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ家族ぐるみの交流",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ昔の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚のかつての親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ親子関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ旧友の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ過去の同僚",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ師弟関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ金銭の貸し借り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ秘密の婚約",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ同郷の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ共同研究",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ家族ぐるみの交流",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ昔の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場のかつての親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ親子関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ旧友の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ過去の同僚",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ師弟関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ金銭の貸し借り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ秘密の婚約",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ同郷の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ共同研究",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ家族ぐるみの交流",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ昔の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚のかつての親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ親子関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ旧友の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ過去の同僚",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ師弟関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ金銭の貸し借り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ秘密の婚約",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ同郷の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ共同研究",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ家族ぐるみの交流",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ昔の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下のかつての親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ親子関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ旧友の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ過去の同僚",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ師弟関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ金銭の貸し借り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ秘密の婚約",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ同郷の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ共同研究",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ家族ぐるみの交流",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ昔の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚のかつての親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ親子関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ旧友の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ過去の同僚",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ師弟関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ金銭の貸し借り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ秘密の婚約",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ同郷の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ共同研究",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ家族ぐるみの交流",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ昔の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚のかつての親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ親子関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ旧友の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ過去の同僚",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ師弟関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ金銭の貸し借り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ秘密の婚約",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ同郷の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ共同研究",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ家族ぐるみの交流",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ昔の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇のかつての親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ親子関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ旧友の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ過去の同僚",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ師弟関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ金銭の貸し借り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ秘密の婚約",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ同郷の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ共同研究",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ家族ぐるみの交流",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ昔の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇のかつての親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ親子関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ旧友の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ過去の同僚",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ師弟関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ金銭の貸し借り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ秘密の婚約",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ同郷の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ共同研究",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ家族ぐるみの交流",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ昔の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇のかつての親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ親子関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ旧友の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ過去の同僚",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ師弟関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ金銭の貸し借り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ秘密の婚約",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ同郷の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ共同研究",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ家族ぐるみの交流",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ昔の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚のかつての親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ親子関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ旧友の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ過去の同僚",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ師弟関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ金銭の貸し借り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ秘密の婚約",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ同郷の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ共同研究",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ家族ぐるみの交流",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ昔の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚のかつての親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ親子関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ旧友の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ過去の同僚",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ師弟関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ金銭の貸し借り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ秘密の婚約",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ同郷の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ共同研究",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ家族ぐるみの交流",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ昔の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚のかつての親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ親子関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ旧友の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ過去の同僚",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ師弟関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ金銭の貸し借り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ秘密の婚約",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ同郷の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ共同研究",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ家族ぐるみの交流",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ昔の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚のかつての親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく昔の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ親子関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ旧友の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ過去の同僚",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ師弟関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ金銭の貸し借り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ秘密の婚約",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ同郷の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ共同研究",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ家族ぐるみの交流",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ昔の競争相手",
+    "genre": "polar"
+  }
+]

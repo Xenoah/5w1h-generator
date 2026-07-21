@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの古い進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な進路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な家族",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な失物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な旅行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な仕事",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な引っ越し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な事件",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な別れ",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の古い進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な進路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な家族",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な失物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な旅行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な仕事",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な引っ越し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な事件",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な別れ",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の古い進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な進路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な家族",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な失物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な旅行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な仕事",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な引っ越し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な事件",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な別れ",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の古い進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な別れ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な進路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な家族",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な失物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な旅行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な仕事",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な引っ越し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な事件",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な別れ",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の古い進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な進路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な家族",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な失物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な旅行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な仕事",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な引っ越し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な事件",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な別れ",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の古い進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な進路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な家族",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な失物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な旅行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な仕事",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な引っ越し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な事件",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な別れ",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの古い進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な進路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な家族",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な失物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な旅行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な仕事",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な引っ越し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な事件",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な別れ",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の古い進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な進路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な家族",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な失物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な旅行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な仕事",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な引っ越し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な事件",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な別れ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の古い進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な別れ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な進路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な家族",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な失物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な旅行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な仕事",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な引っ越し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な事件",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な別れ",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の古い進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な進路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な家族",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な失物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な旅行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な仕事",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な引っ越し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な事件",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な別れ",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の古い進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な進路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な家族",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な失物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な旅行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な仕事",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な引っ越し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な事件",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な別れ",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の古い進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な進路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な家族",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な失物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な旅行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な仕事",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な引っ越し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な事件",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な別れ",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の古い進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な進路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な家族",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な失物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な旅行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な仕事",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な引っ越し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な事件",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な別れ",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の古い進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な進路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な家族",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な失物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な旅行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な仕事",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な引っ越し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な事件",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な別れ",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の古い進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な別れ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な進路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な家族",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な失物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な旅行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な仕事",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な引っ越し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な事件",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な別れ",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の古い進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な別れ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な進路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な家族",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な失物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な旅行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な仕事",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な引っ越し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な事件",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な別れ",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の古い進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な進路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な家族",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な失物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な旅行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な仕事",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な引っ越し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な事件",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な別れ",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の古い進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な進路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な家族",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な失物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な旅行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な仕事",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な引っ越し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な事件",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な別れ",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の古い進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な進路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な家族",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な失物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な旅行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な仕事",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な引っ越し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な事件",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な別れ",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の古い進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な進路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な家族",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な失物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な旅行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な仕事",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な引っ越し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な事件",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な別れ",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の古い進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な進路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な家族",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な失物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な旅行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な仕事",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な引っ越し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な事件",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な別れ",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の古い進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な進路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な家族",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な失物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な旅行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な仕事",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な引っ越し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な事件",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な別れ",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の古い進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な進路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な家族",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な失物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な旅行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な仕事",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な引っ越し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な事件",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な別れ",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の古い進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な進路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な家族",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な失物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な旅行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な仕事",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な引っ越し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な事件",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な別れ",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の古い進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な進路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な家族",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な失物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な旅行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な仕事",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な引っ越し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な事件",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な別れ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の古い進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な進路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な家族",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な失物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な旅行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な仕事",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な引っ越し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な事件",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な別れ",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の古い進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な進路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な家族",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な失物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な旅行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な仕事",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な引っ越し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な事件",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な別れ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の古い進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な進路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な家族",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な失物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な旅行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な仕事",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な引っ越し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な事件",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な別れ",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の古い進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な進路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な家族",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な失物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な旅行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な仕事",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な引っ越し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な事件",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な別れ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の古い進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な別れ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な進路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な家族",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な失物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な旅行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な仕事",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な引っ越し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な事件",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な別れ",
+    "genre": "polar"
+  }
+]

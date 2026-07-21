@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "character",
+    "label": "キャラクターメーカー",
+    "shortLabel": "キャラクター",
+    "en": "CHARACTER MAKER",
+    "accent": "#8b5f9d",
+    "description": "性格、価値観、過去、秘密、葛藤、変化を組み合わせ、物語を動かす人物像を作ります。",
+    "resultMode": "memo",
+    "categories": [
+      {
+        "id": "archetype",
+        "en": "Role",
+        "label": "立場"
+      },
+      {
+        "id": "personality",
+        "en": "Personality",
+        "label": "性格"
+      },
+      {
+        "id": "value",
+        "en": "Value",
+        "label": "価値観"
+      },
+      {
+        "id": "desire",
+        "en": "Desire",
+        "label": "願い"
+      },
+      {
+        "id": "fear",
+        "en": "Fear",
+        "label": "恐れ"
+      },
+      {
+        "id": "strength",
+        "en": "Strength",
+        "label": "長所"
+      },
+      {
+        "id": "weakness",
+        "en": "Weakness",
+        "label": "弱点"
+      },
+      {
+        "id": "habit",
+        "en": "Habit",
+        "label": "癖"
+      },
+      {
+        "id": "speech",
+        "en": "Speech",
+        "label": "口調"
+      },
+      {
+        "id": "past",
+        "en": "Past",
+        "label": "過去"
+      },
+      {
+        "id": "secret",
+        "en": "Secret",
+        "label": "秘密"
+      },
+      {
+        "id": "relation",
+        "en": "Relation",
+        "label": "人間関係"
+      },
+      {
+        "id": "conflict",
+        "en": "Conflict",
+        "label": "葛藤"
+      },
+      {
+        "id": "change",
+        "en": "Change",
+        "label": "変化"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "archetype",
+          "personality",
+          "value",
+          "desire",
+          "fear",
+          "strength"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "archetype",
+          "personality",
+          "value",
+          "desire",
+          "fear",
+          "strength",
+          "weakness",
+          "habit"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "archetype",
+          "personality",
+          "value",
+          "desire",
+          "fear",
+          "strength",
+          "weakness",
+          "habit",
+          "speech",
+          "past"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "archetype",
+          "personality",
+          "value",
+          "desire",
+          "fear",
+          "strength",
+          "weakness",
+          "habit",
+          "speech",
+          "past",
+          "secret",
+          "relation",
+          "conflict",
+          "change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "world",
+    "label": "世界観メーカー",
+    "shortLabel": "世界観",
+    "en": "WORLD MAKER",
+    "accent": "#3d7d73",
+    "description": "地理、文化、制度、技術、信仰、禁忌、歴史、日常生活から舞台世界を設計します。",
+    "resultMode": "memo",
+    "categories": [
+      {
+        "id": "geography",
+        "en": "Geography",
+        "label": "地理"
+      },
+      {
+        "id": "climate",
+        "en": "Climate",
+        "label": "気候"
+      },
+      {
+        "id": "settlement",
+        "en": "Settlement",
+        "label": "集落"
+      },
+      {
+        "id": "culture",
+        "en": "Culture",
+        "label": "文化"
+      },
+      {
+        "id": "government",
+        "en": "Government",
+        "label": "統治"
+      },
+      {
+        "id": "livelihood",
+        "en": "Livelihood",
+        "label": "生業"
+      },
+      {
+        "id": "technology",
+        "en": "Technology",
+        "label": "技術"
+      },
+      {
+        "id": "belief",
+        "en": "Belief",
+        "label": "信仰"
+      },
+      {
+        "id": "food",
+        "en": "Food",
+        "label": "食文化"
+      },
+      {
+        "id": "transport",
+        "en": "Transport",
+        "label": "交通"
+      },
+      {
+        "id": "law",
+        "en": "Law",
+        "label": "法律"
+      },
+      {
+        "id": "taboo",
+        "en": "Taboo",
+        "label": "禁忌"
+      },
+      {
+        "id": "history",
+        "en": "History",
+        "label": "歴史"
+      },
+      {
+        "id": "daily_life",
+        "en": "Daily Life",
+        "label": "日常生活"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "geography",
+          "climate",
+          "settlement",
+          "culture",
+          "government",
+          "livelihood"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "geography",
+          "climate",
+          "settlement",
+          "culture",
+          "government",
+          "livelihood",
+          "technology",
+          "belief"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "geography",
+          "climate",
+          "settlement",
+          "culture",
+          "government",
+          "livelihood",
+          "technology",
+          "belief",
+          "food",
+          "transport"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "geography",
+          "climate",
+          "settlement",
+          "culture",
+          "government",
+          "livelihood",
+          "technology",
+          "belief",
+          "food",
+          "transport",
+          "law",
+          "taboo",
+          "history",
+          "daily_life"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plot",
+    "label": "プロットメーカー",
+    "shortLabel": "プロット",
+    "en": "PLOT MAKER",
+    "accent": "#b05c49",
+    "description": "導入、事件、転換点、危機、選択、決着、余韻まで物語の流れを組み立てます。",
+    "resultMode": "memo",
+    "categories": [
+      {
+        "id": "opening",
+        "en": "Opening",
+        "label": "導入"
+      },
+      {
+        "id": "protagonist",
+        "en": "Protagonist",
+        "label": "主人公"
+      },
+      {
+        "id": "desire",
+        "en": "Desire",
+        "label": "願い"
+      },
+      {
+        "id": "inciting",
+        "en": "Incident",
+        "label": "発端事件"
+      },
+      {
+        "id": "first_choice",
+        "en": "First Choice",
+        "label": "最初の選択"
+      },
+      {
+        "id": "obstacle",
+        "en": "Obstacle",
+        "label": "最初の障害"
+      },
+      {
+        "id": "ally",
+        "en": "Ally",
+        "label": "協力者"
+      },
+      {
+        "id": "opponent",
+        "en": "Opponent",
+        "label": "対立者"
+      },
+      {
+        "id": "midpoint",
+        "en": "Midpoint",
+        "label": "中間転換"
+      },
+      {
+        "id": "loss",
+        "en": "Loss",
+        "label": "喪失"
+      },
+      {
+        "id": "revelation",
+        "en": "Revelation",
+        "label": "真相"
+      },
+      {
+        "id": "final_choice",
+        "en": "Final Choice",
+        "label": "最後の選択"
+      },
+      {
+        "id": "climax",
+        "en": "Climax",
+        "label": "決着"
+      },
+      {
+        "id": "aftermath",
+        "en": "Aftermath",
+        "label": "余韻"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "opening",
+          "protagonist",
+          "desire",
+          "inciting",
+          "first_choice",
+          "obstacle"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "opening",
+          "protagonist",
+          "desire",
+          "inciting",
+          "first_choice",
+          "obstacle",
+          "ally",
+          "opponent"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "opening",
+          "protagonist",
+          "desire",
+          "inciting",
+          "first_choice",
+          "obstacle",
+          "ally",
+          "opponent",
+          "midpoint",
+          "loss"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "opening",
+          "protagonist",
+          "desire",
+          "inciting",
+          "first_choice",
+          "obstacle",
+          "ally",
+          "opponent",
+          "midpoint",
+          "loss",
+          "revelation",
+          "final_choice",
+          "climax",
+          "aftermath"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene",
+    "label": "シーンメーカー",
+    "shortLabel": "シーン",
+    "en": "SCENE MAKER",
+    "accent": "#47769b",
+    "description": "時間、場所、目的、感情、対立、行動、台詞、変化から一場面を具体化します。",
+    "resultMode": "memo",
+    "categories": [
+      {
+        "id": "time",
+        "en": "Time",
+        "label": "時間"
+      },
+      {
+        "id": "place",
+        "en": "Place",
+        "label": "場所"
+      },
+      {
+        "id": "participants",
+        "en": "People",
+        "label": "登場人物"
+      },
+      {
+        "id": "goal",
+        "en": "Goal",
+        "label": "場面の目的"
+      },
+      {
+        "id": "tension",
+        "en": "Tension",
+        "label": "対立"
+      },
+      {
+        "id": "emotion",
+        "en": "Emotion",
+        "label": "感情"
+      },
+      {
+        "id": "action",
+        "en": "Action",
+        "label": "行動"
+      },
+      {
+        "id": "dialogue",
+        "en": "Dialogue",
+        "label": "中心台詞"
+      },
+      {
+        "id": "interruption",
+        "en": "Interruption",
+        "label": "割り込み"
+      },
+      {
+        "id": "object",
+        "en": "Object",
+        "label": "小道具"
+      },
+      {
+        "id": "sensory",
+        "en": "Sense",
+        "label": "感覚描写"
+      },
+      {
+        "id": "reveal",
+        "en": "Reveal",
+        "label": "判明すること"
+      },
+      {
+        "id": "change",
+        "en": "Change",
+        "label": "場面後の変化"
+      },
+      {
+        "id": "exit",
+        "en": "Exit",
+        "label": "退場"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "time",
+          "place",
+          "participants",
+          "goal",
+          "tension",
+          "emotion"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "time",
+          "place",
+          "participants",
+          "goal",
+          "tension",
+          "emotion",
+          "action",
+          "dialogue"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "time",
+          "place",
+          "participants",
+          "goal",
+          "tension",
+          "emotion",
+          "action",
+          "dialogue",
+          "interruption",
+          "object"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "time",
+          "place",
+          "participants",
+          "goal",
+          "tension",
+          "emotion",
+          "action",
+          "dialogue",
+          "interruption",
+          "object",
+          "sensory",
+          "reveal",
+          "change",
+          "exit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "relationship",
+    "label": "関係性メーカー",
+    "shortLabel": "関係性",
+    "en": "RELATIONSHIP MAKER",
+    "accent": "#a45f72",
+    "description": "二人の出会い、共通点、対立、秘密、距離の変化、最終関係を組み立てます。",
+    "resultMode": "memo",
+    "categories": [
+      {
+        "id": "person_a",
+        "en": "Person A",
+        "label": "人物A"
+      },
+      {
+        "id": "person_b",
+        "en": "Person B",
+        "label": "人物B"
+      },
+      {
+        "id": "meeting",
+        "en": "Meeting",
+        "label": "出会い"
+      },
+      {
+        "id": "bond",
+        "en": "Bond",
+        "label": "つながり"
+      },
+      {
+        "id": "commonality",
+        "en": "Common",
+        "label": "共通点"
+      },
+      {
+        "id": "difference",
+        "en": "Difference",
+        "label": "相違点"
+      },
+      {
+        "id": "distance",
+        "en": "Distance",
+        "label": "初期距離"
+      },
+      {
+        "id": "trust",
+        "en": "Trust",
+        "label": "信頼の理由"
+      },
+      {
+        "id": "misunderstanding",
+        "en": "Misread",
+        "label": "誤解"
+      },
+      {
+        "id": "secret",
+        "en": "Secret",
+        "label": "共有秘密"
+      },
+      {
+        "id": "debt",
+        "en": "Debt",
+        "label": "貸し借り"
+      },
+      {
+        "id": "turning",
+        "en": "Turning",
+        "label": "転換点"
+      },
+      {
+        "id": "choice",
+        "en": "Choice",
+        "label": "関係の選択"
+      },
+      {
+        "id": "outcome",
+        "en": "Outcome",
+        "label": "最終関係"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "person_a",
+          "person_b",
+          "meeting",
+          "bond",
+          "commonality",
+          "difference"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "person_a",
+          "person_b",
+          "meeting",
+          "bond",
+          "commonality",
+          "difference",
+          "distance",
+          "trust"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "person_a",
+          "person_b",
+          "meeting",
+          "bond",
+          "commonality",
+          "difference",
+          "distance",
+          "trust",
+          "misunderstanding",
+          "secret"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "person_a",
+          "person_b",
+          "meeting",
+          "bond",
+          "commonality",
+          "difference",
+          "distance",
+          "trust",
+          "misunderstanding",
+          "secret",
+          "debt",
+          "turning",
+          "choice",
+          "outcome"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dialogue",
+    "label": "台詞・会話メーカー",
+    "shortLabel": "台詞・会話",
+    "en": "DIALOGUE MAKER",
+    "accent": "#6b739f",
+    "description": "話者、相手、話題、本音、建前、口調、沈黙、転換台詞から会話の芯を作ります。",
+    "resultMode": "memo",
+    "categories": [
+      {
+        "id": "speaker",
+        "en": "Speaker",
+        "label": "話者"
+      },
+      {
+        "id": "listener",
+        "en": "Listener",
+        "label": "相手"
+      },
+      {
+        "id": "setting",
+        "en": "Setting",
+        "label": "会話場所"
+      },
+      {
+        "id": "topic",
+        "en": "Topic",
+        "label": "話題"
+      },
+      {
+        "id": "surface",
+        "en": "Surface",
+        "label": "表向きの目的"
+      },
+      {
+        "id": "intent",
+        "en": "Intent",
+        "label": "本音"
+      },
+      {
+        "id": "mood",
+        "en": "Mood",
+        "label": "感情"
+      },
+      {
+        "id": "tone",
+        "en": "Tone",
+        "label": "口調"
+      },
+      {
+        "id": "opening",
+        "en": "Opening",
+        "label": "会話の始まり"
+      },
+      {
+        "id": "evasion",
+        "en": "Evasion",
+        "label": "はぐらかし"
+      },
+      {
+        "id": "question",
+        "en": "Question",
+        "label": "核心の質問"
+      },
+      {
+        "id": "silence",
+        "en": "Silence",
+        "label": "沈黙"
+      },
+      {
+        "id": "turning_line",
+        "en": "Turn Line",
+        "label": "転換台詞"
+      },
+      {
+        "id": "aftermath",
+        "en": "Aftermath",
+        "label": "会話後"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "speaker",
+          "listener",
+          "setting",
+          "topic",
+          "surface",
+          "intent"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "speaker",
+          "listener",
+          "setting",
+          "topic",
+          "surface",
+          "intent",
+          "mood",
+          "tone"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "speaker",
+          "listener",
+          "setting",
+          "topic",
+          "surface",
+          "intent",
+          "mood",
+          "tone",
+          "opening",
+          "evasion"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "speaker",
+          "listener",
+          "setting",
+          "topic",
+          "surface",
+          "intent",
+          "mood",
+          "tone",
+          "opening",
+          "evasion",
+          "question",
+          "silence",
+          "turning_line",
+          "aftermath"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mystery",
+    "label": "事件・謎メーカー",
+    "shortLabel": "事件・謎",
+    "en": "MYSTERY MAKER",
+    "accent": "#596b62",
+    "description": "事件、被害、手掛かり、容疑者、動機、偽情報、矛盾、真相、解決を設計します。",
+    "resultMode": "memo",
+    "categories": [
+      {
+        "id": "incident",
+        "en": "Incident",
+        "label": "事件"
+      },
+      {
+        "id": "victim",
+        "en": "Victim",
+        "label": "被害対象"
+      },
+      {
+        "id": "scene",
+        "en": "Scene",
+        "label": "現場"
+      },
+      {
+        "id": "missing",
+        "en": "Missing",
+        "label": "失われた物"
+      },
+      {
+        "id": "clue",
+        "en": "Clue",
+        "label": "手掛かり"
+      },
+      {
+        "id": "witness",
+        "en": "Witness",
+        "label": "目撃者"
+      },
+      {
+        "id": "suspect",
+        "en": "Suspect",
+        "label": "容疑者"
+      },
+      {
+        "id": "motive",
+        "en": "Motive",
+        "label": "動機"
+      },
+      {
+        "id": "alibi",
+        "en": "Alibi",
+        "label": "アリバイ"
+      },
+      {
+        "id": "false_clue",
+        "en": "False Clue",
+        "label": "偽手掛かり"
+      },
+      {
+        "id": "hidden_link",
+        "en": "Hidden Link",
+        "label": "隠れた関係"
+      },
+      {
+        "id": "contradiction",
+        "en": "Conflict",
+        "label": "矛盾"
+      },
+      {
+        "id": "truth",
+        "en": "Truth",
+        "label": "真相"
+      },
+      {
+        "id": "resolution",
+        "en": "Resolution",
+        "label": "解決方法"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "incident",
+          "victim",
+          "scene",
+          "missing",
+          "clue",
+          "witness"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "incident",
+          "victim",
+          "scene",
+          "missing",
+          "clue",
+          "witness",
+          "suspect",
+          "motive"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "incident",
+          "victim",
+          "scene",
+          "missing",
+          "clue",
+          "witness",
+          "suspect",
+          "motive",
+          "alibi",
+          "false_clue"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "incident",
+          "victim",
+          "scene",
+          "missing",
+          "clue",
+          "witness",
+          "suspect",
+          "motive",
+          "alibi",
+          "false_clue",
+          "hidden_link",
+          "contradiction",
+          "truth",
+          "resolution"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "title",
+    "label": "タイトルメーカー",
+    "shortLabel": "タイトル",
+    "en": "TITLE MAKER",
+    "accent": "#9b6d35",
+    "description": "題材、人物、場所、時間、色、天気、物、感情、象徴語を組み合わせて題名候補を作ります。",
+    "resultMode": "titles",
+    "categories": [
+      {
+        "id": "subject",
+        "en": "Subject",
+        "label": "題材"
+      },
+      {
+        "id": "person",
+        "en": "Person",
+        "label": "人物"
+      },
+      {
+        "id": "place",
+        "en": "Place",
+        "label": "場所"
+      },
+      {
+        "id": "time",
+        "en": "Time",
+        "label": "時間"
+      },
+      {
+        "id": "color",
+        "en": "Color",
+        "label": "色"
+      },
+      {
+        "id": "weather",
+        "en": "Weather",
+        "label": "天気"
+      },
+      {
+        "id": "object",
+        "en": "Object",
+        "label": "物"
+      },
+      {
+        "id": "action",
+        "en": "Action",
+        "label": "動き"
+      },
+      {
+        "id": "emotion",
+        "en": "Emotion",
+        "label": "感情"
+      },
+      {
+        "id": "contrast",
+        "en": "Contrast",
+        "label": "対比"
+      },
+      {
+        "id": "number",
+        "en": "Number",
+        "label": "数"
+      },
+      {
+        "id": "sound",
+        "en": "Sound",
+        "label": "音"
+      },
+      {
+        "id": "symbol",
+        "en": "Symbol",
+        "label": "象徴"
+      },
+      {
+        "id": "ending_word",
+        "en": "Ending",
+        "label": "結びの語"
+      }
+    ],
+    "formats": [
+      {
+        "id": "core",
+        "name": "基本構成",
+        "description": "中心となる6要素を組み合わせます。",
+        "categories": [
+          "subject",
+          "person",
+          "place",
+          "time",
+          "color",
+          "weather"
+        ]
+      },
+      {
+        "id": "focused",
+        "name": "発展構成",
+        "description": "8要素で人物や状況を一段深めます。",
+        "categories": [
+          "subject",
+          "person",
+          "place",
+          "time",
+          "color",
+          "weather",
+          "object",
+          "action"
+        ]
+      },
+      {
+        "id": "detailed",
+        "name": "詳細構成",
+        "description": "10要素で具体的な案へ広げます。",
+        "categories": [
+          "subject",
+          "person",
+          "place",
+          "time",
+          "color",
+          "weather",
+          "object",
+          "action",
+          "emotion",
+          "contrast"
+        ]
+      },
+      {
+        "id": "full",
+        "name": "フル構成",
+        "description": "収録した14要素をすべて使います。",
+        "categories": [
+          "subject",
+          "person",
+          "place",
+          "time",
+          "color",
+          "weather",
+          "object",
+          "action",
+          "emotion",
+          "contrast",
+          "number",
+          "sound",
+          "symbol",
+          "ending_word"
+        ]
+      }
+    ]
+  }
+]

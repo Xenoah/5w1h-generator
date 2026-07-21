@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしのかつての同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ同じ故郷",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ共通の友人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ古い約束",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ家族の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ仕事上の協力",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ同じ秘密",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ旅の同行",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ師弟の縁",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ競技仲間",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ隣人関係",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様のかつての同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ同じ故郷",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ共通の友人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ古い約束",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ家族の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ仕事上の協力",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ同じ秘密",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ旅の同行",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ師弟の縁",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ競技仲間",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ隣人関係",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期のかつての同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ同じ故郷",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ共通の友人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ古い約束",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ家族の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ仕事上の協力",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ同じ秘密",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ旅の同行",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ師弟の縁",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ競技仲間",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ隣人関係",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇のかつての同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ同じ故郷",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ共通の友人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ古い約束",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ家族の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ仕事上の協力",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ同じ秘密",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ旅の同行",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ師弟の縁",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ競技仲間",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ隣人関係",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚のかつての同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ同じ故郷",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ共通の友人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ古い約束",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ家族の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ仕事上の協力",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ同じ秘密",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ旅の同行",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ師弟の縁",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ競技仲間",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ隣人関係",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚のかつての同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ同じ故郷",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ共通の友人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ古い約束",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ家族の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ仕事上の協力",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ同じ秘密",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ旅の同行",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ師弟の縁",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ競技仲間",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ隣人関係",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きのかつての同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ同じ故郷",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ共通の友人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ古い約束",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ家族の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ仕事上の協力",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ同じ秘密",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ旅の同行",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ師弟の縁",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ競技仲間",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ隣人関係",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界のかつての同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ同じ故郷",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ共通の友人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ古い約束",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ家族の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ仕事上の協力",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ同じ秘密",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ旅の同行",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ師弟の縁",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ競技仲間",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ隣人関係",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来のかつての同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ同じ故郷",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ共通の友人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ古い約束",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ家族の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ仕事上の協力",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ同じ秘密",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ旅の同行",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ師弟の縁",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ競技仲間",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ隣人関係",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調のかつての同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ同じ故郷",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ共通の友人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ古い約束",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ家族の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ仕事上の協力",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ同じ秘密",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ旅の同行",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ師弟の縁",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ競技仲間",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ隣人関係",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇のかつての同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ同じ故郷",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ共通の友人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ古い約束",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ家族の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ仕事上の協力",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ同じ秘密",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ旅の同行",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ師弟の縁",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ競技仲間",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ隣人関係",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇のかつての同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ同じ故郷",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ共通の友人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ古い約束",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ家族の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ仕事上の協力",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ同じ秘密",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ旅の同行",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ師弟の縁",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ競技仲間",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ隣人関係",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路のかつての同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ同じ故郷",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ共通の友人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ古い約束",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ家族の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ仕事上の協力",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ同じ秘密",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ旅の同行",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ師弟の縁",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ競技仲間",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ隣人関係",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚のかつての同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ同じ故郷",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ共通の友人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ古い約束",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ家族の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ仕事上の協力",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ同じ秘密",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ旅の同行",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ師弟の縁",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ競技仲間",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ隣人関係",
+    "genre": "growth"
+  },
+  {
+    "text": "学園のかつての同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ同じ故郷",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ共通の友人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ古い約束",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ家族の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ仕事上の協力",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ同じ秘密",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ旅の同行",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ師弟の縁",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ競技仲間",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ隣人関係",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚のかつての同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ同じ故郷",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ共通の友人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ古い約束",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ家族の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ仕事上の協力",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ同じ秘密",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ旅の同行",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ師弟の縁",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ競技仲間",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ隣人関係",
+    "genre": "music"
+  },
+  {
+    "text": "食卓のかつての同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ同じ故郷",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ共通の友人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ古い約束",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ家族の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ仕事上の協力",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ同じ秘密",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ旅の同行",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ師弟の縁",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ競技仲間",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ隣人関係",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚のかつての同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ同じ故郷",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ共通の友人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ古い約束",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ家族の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ仕事上の協力",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ同じ秘密",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ旅の同行",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ師弟の縁",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ競技仲間",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ隣人関係",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場のかつての同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ同じ故郷",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ共通の友人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ古い約束",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ家族の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ仕事上の協力",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ同じ秘密",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ旅の同行",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ師弟の縁",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ競技仲間",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ隣人関係",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚のかつての同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ同じ故郷",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ共通の友人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ古い約束",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ家族の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ仕事上の協力",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ同じ秘密",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ旅の同行",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ師弟の縁",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ競技仲間",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ隣人関係",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下のかつての同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ同じ故郷",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ共通の友人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ古い約束",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ家族の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ仕事上の協力",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ同じ秘密",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ旅の同行",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ師弟の縁",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ競技仲間",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ隣人関係",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚のかつての同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ同じ故郷",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ共通の友人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ古い約束",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ家族の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ仕事上の協力",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ同じ秘密",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ旅の同行",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ師弟の縁",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ競技仲間",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ隣人関係",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚のかつての同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ同じ故郷",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ共通の友人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ古い約束",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ家族の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ仕事上の協力",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ同じ秘密",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ旅の同行",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ師弟の縁",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ競技仲間",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ隣人関係",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇のかつての同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ同じ故郷",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ共通の友人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ古い約束",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ家族の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ仕事上の協力",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ同じ秘密",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ旅の同行",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ師弟の縁",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ競技仲間",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ隣人関係",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇のかつての同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ同じ故郷",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ共通の友人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ古い約束",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ家族の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ仕事上の協力",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ同じ秘密",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ旅の同行",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ師弟の縁",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ競技仲間",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ隣人関係",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇のかつての同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ同じ故郷",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ共通の友人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ古い約束",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ家族の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ仕事上の協力",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ同じ秘密",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ旅の同行",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ師弟の縁",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ競技仲間",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ隣人関係",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚のかつての同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ同じ故郷",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ共通の友人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ古い約束",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ家族の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ仕事上の協力",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ同じ秘密",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ旅の同行",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ師弟の縁",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ競技仲間",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ隣人関係",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚のかつての同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ同じ故郷",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ共通の友人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ古い約束",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ家族の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ仕事上の協力",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ同じ秘密",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ旅の同行",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ師弟の縁",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ競技仲間",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ隣人関係",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚のかつての同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ同じ故郷",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ共通の友人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ古い約束",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ家族の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ仕事上の協力",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ同じ秘密",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ旅の同行",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ師弟の縁",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ競技仲間",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ隣人関係",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚のかつての同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく隣人関係",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ同じ故郷",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ共通の友人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ古い約束",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ家族の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ仕事上の協力",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ同じ秘密",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ旅の同行",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ師弟の縁",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ競技仲間",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ隣人関係",
+    "genre": "polar"
+  }
+]

@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしのひそかに天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのひそかに急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの急いで急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの丁寧に急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思い切って急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一人で急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの皆と急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの偶然に急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの繰り返し急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後に急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて天気の話に変える",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて質問で返す",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて笑ってごまかす",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて沈黙する",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて時計を見る",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて相手を褒める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて昔話を始める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて飲み物を勧める",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて聞こえないふりをする",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの初めて急用を思い出す",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様のひそかに天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のひそかに急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の急いで急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の丁寧に急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思い切って急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一人で急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の皆と急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の偶然に急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の繰り返し急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後に急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて天気の話に変える",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて質問で返す",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて笑ってごまかす",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて沈黙する",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて時計を見る",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて相手を褒める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて昔話を始める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて飲み物を勧める",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて聞こえないふりをする",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の初めて急用を思い出す",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期のひそかに天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のひそかに急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の急いで急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の丁寧に急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思い切って急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一人で急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の皆と急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の偶然に急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の繰り返し急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後に急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて天気の話に変える",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて質問で返す",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて笑ってごまかす",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて沈黙する",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて時計を見る",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて相手を褒める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて昔話を始める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて飲み物を勧める",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて聞こえないふりをする",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の初めて急用を思い出す",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇のひそかに天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のひそかに急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の急いで急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の丁寧に急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思い切って急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一人で急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の皆と急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の偶然に急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の繰り返し急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後に急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて天気の話に変える",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて質問で返す",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて笑ってごまかす",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて沈黙する",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて時計を見る",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて相手を褒める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて昔話を始める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて飲み物を勧める",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて聞こえないふりをする",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の初めて急用を思い出す",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚のひそかに天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のひそかに急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の急いで急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の丁寧に急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思い切って急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一人で急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の皆と急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の偶然に急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の繰り返し急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後に急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて天気の話に変える",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて質問で返す",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて笑ってごまかす",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて沈黙する",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて時計を見る",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて相手を褒める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて昔話を始める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて飲み物を勧める",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて聞こえないふりをする",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の初めて急用を思い出す",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚のひそかに天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のひそかに急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の急いで急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の丁寧に急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思い切って急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一人で急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の皆と急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の偶然に急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の繰り返し急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後に急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて天気の話に変える",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて質問で返す",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて笑ってごまかす",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて沈黙する",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて時計を見る",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて相手を褒める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて昔話を始める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて飲み物を勧める",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて聞こえないふりをする",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の初めて急用を思い出す",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きのひそかに天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのひそかに急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの急いで急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの丁寧に急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思い切って急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一人で急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの皆と急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの偶然に急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの繰り返し急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後に急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて天気の話に変える",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて質問で返す",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて笑ってごまかす",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて沈黙する",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて時計を見る",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて相手を褒める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて昔話を始める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて飲み物を勧める",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて聞こえないふりをする",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの初めて急用を思い出す",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界のひそかに天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のひそかに急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の急いで急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の丁寧に急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思い切って急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一人で急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の皆と急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の偶然に急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の繰り返し急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後に急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて天気の話に変える",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて質問で返す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて笑ってごまかす",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて沈黙する",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて時計を見る",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて相手を褒める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて昔話を始める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて飲み物を勧める",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて聞こえないふりをする",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の初めて急用を思い出す",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来のひそかに天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来のひそかに急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の急いで急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の丁寧に急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思い切って急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一人で急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の皆と急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の偶然に急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の繰り返し急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後に急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて天気の話に変える",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて質問で返す",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて笑ってごまかす",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて沈黙する",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて時計を見る",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて相手を褒める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて昔話を始める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて飲み物を勧める",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて聞こえないふりをする",
+    "genre": "future"
+  },
+  {
+    "text": "未来の初めて急用を思い出す",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調のひそかに天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のひそかに急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の急いで急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の丁寧に急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思い切って急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一人で急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の皆と急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の偶然に急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の繰り返し急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後に急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて天気の話に変える",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて質問で返す",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて笑ってごまかす",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて沈黙する",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて時計を見る",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて相手を褒める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて昔話を始める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて飲み物を勧める",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて聞こえないふりをする",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の初めて急用を思い出す",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇のひそかに天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のひそかに急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の急いで急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の丁寧に急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思い切って急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一人で急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の皆と急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の偶然に急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の繰り返し急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後に急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて天気の話に変える",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて質問で返す",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて笑ってごまかす",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて沈黙する",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて時計を見る",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて相手を褒める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて昔話を始める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて飲み物を勧める",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて聞こえないふりをする",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の初めて急用を思い出す",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇のひそかに天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のひそかに急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の急いで急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の丁寧に急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思い切って急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一人で急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の皆と急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の偶然に急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の繰り返し急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後に急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて天気の話に変える",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて質問で返す",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて笑ってごまかす",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて沈黙する",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて時計を見る",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて相手を褒める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて昔話を始める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて飲み物を勧める",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて聞こえないふりをする",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の初めて急用を思い出す",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路のひそかに天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のひそかに急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の急いで急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の丁寧に急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思い切って急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一人で急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の皆と急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の偶然に急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の繰り返し急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後に急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて天気の話に変える",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて質問で返す",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて笑ってごまかす",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて沈黙する",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて時計を見る",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて相手を褒める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて昔話を始める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて飲み物を勧める",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて聞こえないふりをする",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の初めて急用を思い出す",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚のひそかに天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のひそかに急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の急いで急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の丁寧に急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思い切って急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一人で急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の皆と急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の偶然に急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の繰り返し急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後に急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて天気の話に変える",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて質問で返す",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて笑ってごまかす",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて沈黙する",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて時計を見る",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて相手を褒める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて昔話を始める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて飲み物を勧める",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて聞こえないふりをする",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の初めて急用を思い出す",
+    "genre": "growth"
+  },
+  {
+    "text": "学園のひそかに天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園のひそかに急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の急いで急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の丁寧に急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思い切って急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一人で急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の皆と急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の偶然に急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の繰り返し急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後に急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて天気の話に変える",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて質問で返す",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて笑ってごまかす",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて沈黙する",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて時計を見る",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて相手を褒める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて昔話を始める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて飲み物を勧める",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて聞こえないふりをする",
+    "genre": "school"
+  },
+  {
+    "text": "学園の初めて急用を思い出す",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚のひそかに天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のひそかに急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の急いで急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の丁寧に急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思い切って急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一人で急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の皆と急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の偶然に急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の繰り返し急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後に急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて天気の話に変える",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて質問で返す",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて笑ってごまかす",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて沈黙する",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて時計を見る",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて相手を褒める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて昔話を始める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて飲み物を勧める",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて聞こえないふりをする",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の初めて急用を思い出す",
+    "genre": "music"
+  },
+  {
+    "text": "食卓のひそかに天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のひそかに急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の急いで急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の丁寧に急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思い切って急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一人で急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の皆と急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の偶然に急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の繰り返し急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後に急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて天気の話に変える",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて質問で返す",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて笑ってごまかす",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて沈黙する",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて時計を見る",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて相手を褒める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて昔話を始める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて飲み物を勧める",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて聞こえないふりをする",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の初めて急用を思い出す",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚のひそかに天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のひそかに急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の急いで急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の丁寧に急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思い切って急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一人で急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の皆と急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の偶然に急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の繰り返し急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後に急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて天気の話に変える",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて質問で返す",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて笑ってごまかす",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて沈黙する",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて時計を見る",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて相手を褒める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて昔話を始める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて飲み物を勧める",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて聞こえないふりをする",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の初めて急用を思い出す",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場のひそかに天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のひそかに急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の急いで急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の丁寧に急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思い切って急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一人で急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の皆と急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の偶然に急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の繰り返し急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後に急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて天気の話に変える",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて質問で返す",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて笑ってごまかす",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて沈黙する",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて時計を見る",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて相手を褒める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて昔話を始める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて飲み物を勧める",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて聞こえないふりをする",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の初めて急用を思い出す",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚のひそかに天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のひそかに急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の急いで急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の丁寧に急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思い切って急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一人で急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の皆と急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の偶然に急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の繰り返し急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後に急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて天気の話に変える",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて質問で返す",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて笑ってごまかす",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて沈黙する",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて時計を見る",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて相手を褒める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて昔話を始める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて飲み物を勧める",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて聞こえないふりをする",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の初めて急用を思い出す",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下のひそかに天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のひそかに急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の急いで急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の丁寧に急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思い切って急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一人で急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の皆と急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の偶然に急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の繰り返し急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後に急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて天気の話に変える",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて質問で返す",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて笑ってごまかす",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて沈黙する",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて時計を見る",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて相手を褒める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて昔話を始める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて飲み物を勧める",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて聞こえないふりをする",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の初めて急用を思い出す",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚のひそかに天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のひそかに急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の急いで急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の丁寧に急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思い切って急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一人で急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の皆と急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の偶然に急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の繰り返し急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後に急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて天気の話に変える",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて質問で返す",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて笑ってごまかす",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて沈黙する",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて時計を見る",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて相手を褒める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて昔話を始める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて飲み物を勧める",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて聞こえないふりをする",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の初めて急用を思い出す",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚のひそかに天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のひそかに急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の急いで急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の丁寧に急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思い切って急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一人で急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の皆と急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の偶然に急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の繰り返し急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後に急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて天気の話に変える",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて質問で返す",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて笑ってごまかす",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて沈黙する",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて時計を見る",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて相手を褒める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて昔話を始める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて飲み物を勧める",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて聞こえないふりをする",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の初めて急用を思い出す",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇のひそかに天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のひそかに急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の急いで急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の丁寧に急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思い切って急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一人で急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の皆と急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の偶然に急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の繰り返し急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後に急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて天気の話に変える",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて質問で返す",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて笑ってごまかす",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて沈黙する",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて時計を見る",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて相手を褒める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて昔話を始める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて飲み物を勧める",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて聞こえないふりをする",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の初めて急用を思い出す",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇のひそかに天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のひそかに急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の急いで急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の丁寧に急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思い切って急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一人で急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の皆と急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の偶然に急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の繰り返し急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後に急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて天気の話に変える",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて質問で返す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて笑ってごまかす",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて沈黙する",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて時計を見る",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて相手を褒める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて昔話を始める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて飲み物を勧める",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて聞こえないふりをする",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の初めて急用を思い出す",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇のひそかに天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のひそかに急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の急いで急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の丁寧に急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思い切って急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一人で急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の皆と急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の偶然に急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の繰り返し急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後に急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて天気の話に変える",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて質問で返す",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて笑ってごまかす",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて沈黙する",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて時計を見る",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて相手を褒める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて昔話を始める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて飲み物を勧める",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて聞こえないふりをする",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の初めて急用を思い出す",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚のひそかに天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のひそかに急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の急いで急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の丁寧に急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思い切って急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一人で急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の皆と急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の偶然に急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の繰り返し急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後に急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて天気の話に変える",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて質問で返す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて笑ってごまかす",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて沈黙する",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて時計を見る",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて相手を褒める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて昔話を始める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて飲み物を勧める",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて聞こえないふりをする",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の初めて急用を思い出す",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚のひそかに天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のひそかに急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の急いで急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の丁寧に急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思い切って急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一人で急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の皆と急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の偶然に急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の繰り返し急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後に急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて天気の話に変える",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて質問で返す",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて笑ってごまかす",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて沈黙する",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて時計を見る",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて相手を褒める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて昔話を始める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて飲み物を勧める",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて聞こえないふりをする",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の初めて急用を思い出す",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚のひそかに天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のひそかに急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の急いで急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の丁寧に急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思い切って急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一人で急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の皆と急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の偶然に急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の繰り返し急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後に急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて天気の話に変える",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて質問で返す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて笑ってごまかす",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて沈黙する",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて時計を見る",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて相手を褒める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて昔話を始める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて飲み物を勧める",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて聞こえないふりをする",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の初めて急用を思い出す",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚のひそかに天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のひそかに急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の急いで急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の丁寧に急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思い切って急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一人で急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の皆と急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の偶然に急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の繰り返し急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後に急用を思い出す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて天気の話に変える",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて質問で返す",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて笑ってごまかす",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて沈黙する",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて時計を見る",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて相手を褒める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて昔話を始める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて飲み物を勧める",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて聞こえないふりをする",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の初めて急用を思い出す",
+    "genre": "polar"
+  }
+]

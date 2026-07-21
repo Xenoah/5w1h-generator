@@ -127,6 +127,7 @@ button:disabled {
   background: rgba(244, 238, 226, 0.74);
   border: 1px solid var(--line);
   border-radius: 999px;
+  white-space: nowrap;
 }
 
 .mode-link {
@@ -1205,6 +1206,230 @@ footer {
   color: #286960;
 }
 
+.maker-hub-page,
+.maker-page {
+  --accent: var(--maker-accent, #75548d);
+  --accent-dark: var(--maker-accent, #75548d);
+  background:
+    radial-gradient(circle at 9% 8%, rgba(117, 84, 141, 0.16), transparent 28rem),
+    radial-gradient(circle at 91% 38%, rgba(65, 126, 115, 0.13), transparent 30rem),
+    var(--paper);
+}
+
+.maker-brand-mark {
+  background: var(--maker-accent, #75548d);
+  font-family: Georgia, serif;
+  font-style: normal;
+}
+
+.maker-hub-hero::before,
+.maker-hero::before {
+  top: 0.8rem;
+  left: -7%;
+  color: rgba(117, 84, 141, 0.045);
+  content: "8";
+}
+
+.maker-hub-hero::after,
+.maker-hero::after {
+  right: -5%;
+  color: rgba(61, 125, 115, 0.045);
+  content: "✦";
+  font-style: normal;
+}
+
+.maker-back-link {
+  display: inline-flex;
+  margin-bottom: 1.25rem;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+}
+
+.maker-back-link:hover {
+  color: var(--ink);
+}
+
+.maker-list {
+  width: min(1120px, calc(100% - 2.5rem));
+  margin: 0 auto;
+}
+
+.maker-list-heading {
+  margin-bottom: 1.25rem;
+}
+
+.maker-card-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.maker-choice-card {
+  --maker-color: #75548d;
+  position: relative;
+  display: flex;
+  min-height: 17rem;
+  padding: 1.2rem;
+  overflow: hidden;
+  flex-direction: column;
+  color: var(--ink);
+  background: color-mix(in srgb, var(--maker-color) 9%, #fffdf8);
+  border: 1px solid color-mix(in srgb, var(--maker-color) 26%, transparent);
+  border-radius: 1rem;
+  text-decoration: none;
+  transition: box-shadow 180ms ease, transform 180ms ease;
+}
+
+.maker-choice-card::after {
+  position: absolute;
+  right: -1rem;
+  bottom: -4.5rem;
+  color: color-mix(in srgb, var(--maker-color) 8%, transparent);
+  content: "?";
+  font-family: Georgia, serif;
+  font-size: 10rem;
+  font-style: italic;
+  line-height: 1;
+}
+
+.maker-choice-card:hover {
+  box-shadow: 0 14px 30px rgba(52, 45, 34, 0.12);
+  transform: translateY(-3px);
+}
+
+.maker-choice-number,
+.maker-choice-card small,
+.maker-choice-card h3,
+.maker-choice-card p,
+.maker-choice-action {
+  position: relative;
+  z-index: 1;
+}
+
+.maker-choice-number {
+  align-self: flex-end;
+  color: color-mix(in srgb, var(--maker-color) 82%, #222);
+  font-family: Georgia, serif;
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.maker-choice-card small {
+  margin-top: 1.5rem;
+  color: color-mix(in srgb, var(--maker-color) 85%, #222);
+  font-size: 0.58rem;
+  font-weight: 900;
+  letter-spacing: 0.18em;
+}
+
+.maker-choice-card h3 {
+  margin: 0.2rem 0 0;
+  font-family: var(--font-serif);
+  font-size: 1.35rem;
+}
+
+.maker-choice-card p {
+  margin: 0.8rem 0 1.2rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.maker-choice-action {
+  margin-top: auto;
+  color: color-mix(in srgb, var(--maker-color) 85%, #222);
+  font-size: 0.72rem;
+  font-weight: 900;
+}
+
+.maker-hub-about .about-mark,
+.maker-about .about-mark {
+  color: var(--maker-accent, #75548d);
+}
+
+.maker-genre-options {
+  max-height: min(23rem, 55vh);
+  background: #fffdf8;
+  border: 1px solid var(--line);
+  border-radius: 0.7rem;
+}
+
+.maker-genre-picker .facet-footer > p {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.maker-primary-button {
+  background: var(--maker-accent, #75548d);
+  border-color: var(--maker-accent, #75548d);
+}
+
+.maker-primary-button:not(:disabled):hover {
+  background: color-mix(in srgb, var(--maker-accent, #75548d) 82%, #111);
+  border-color: color-mix(in srgb, var(--maker-accent, #75548d) 82%, #111);
+  box-shadow: 0 12px 24px color-mix(in srgb, var(--maker-accent, #75548d) 22%, transparent);
+}
+
+.maker-result-panel {
+  background: color-mix(in srgb, var(--maker-accent, #75548d) 28%, #171813);
+}
+
+.maker-result-panel::after {
+  color: rgba(255, 255, 255, 0.035);
+  content: "✦";
+  font-style: normal;
+}
+
+.maker-result-panel .sentence-heading h3 {
+  color: color-mix(in srgb, var(--maker-accent, #75548d) 35%, #fff);
+}
+
+.maker-result-panel .result-word {
+  background: linear-gradient(transparent 8%, color-mix(in srgb, var(--maker-accent, #75548d) 78%, #8d4536) 8%, color-mix(in srgb, var(--maker-accent, #75548d) 62%, #633528) 92%, transparent 92%);
+}
+
+.maker-sentence {
+  font-size: clamp(1.05rem, 2.5vw, 1.5rem);
+}
+
+.maker-element-list {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.55rem;
+}
+
+.maker-element-chip {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  padding: 0.7rem 0.8rem;
+  gap: 0.05rem 0.55rem;
+  background: rgba(255, 253, 248, 0.72);
+  border: 1px solid var(--line);
+  border-radius: 0.65rem;
+}
+
+.maker-element-chip small {
+  grid-row: 1 / 3;
+  color: var(--muted);
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+
+.maker-element-chip strong {
+  overflow: hidden;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.maker-element-chip span {
+  color: var(--muted);
+  font-size: 0.64rem;
+}
+
 @keyframes loading {
   to { background-position: -220% 0; }
 }
@@ -1212,6 +1437,11 @@ footer {
 @media (max-width: 1040px) {
   .word-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .maker-card-grid,
+  .maker-element-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1249,6 +1479,14 @@ footer {
   .facet-groups {
     grid-template-columns: 1fr;
   }
+
+  .maker-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .maker-choice-card {
+    min-height: 13rem;
+  }
 }
 
 @media (max-width: 540px) {
@@ -1259,6 +1497,21 @@ footer {
   .site-header {
     width: calc(100% - 1.5rem);
     min-height: 3.8rem;
+    gap: 0.5rem;
+  }
+
+  .brand > span:last-child {
+    display: none;
+  }
+
+  .mode-nav {
+    margin-left: auto;
+  }
+
+  .mode-link {
+    min-height: 2rem;
+    padding: 0.28rem 0.52rem;
+    font-size: 0.64rem;
   }
 
   .header-note {
@@ -1487,6 +1740,23 @@ footer {
 
   .about p {
     font-size: 0.8rem;
+  }
+
+  .maker-list {
+    width: calc(100% - 1.25rem);
+  }
+
+  .maker-element-list {
+    grid-template-columns: 1fr;
+  }
+
+  .maker-choice-card {
+    min-height: 11.5rem;
+    padding: 1rem;
+  }
+
+  .maker-choice-card small {
+    margin-top: 0.5rem;
   }
 
   footer {

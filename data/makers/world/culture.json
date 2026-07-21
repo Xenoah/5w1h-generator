@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの古い贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な贈答文化",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な語り部の伝統",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な共同食堂",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な季節祭",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な仮面の儀礼",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な手仕事の習慣",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な歌による記録",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な家名制度",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な夜市の風習",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な旅人歓待",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の古い贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な贈答文化",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な語り部の伝統",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な共同食堂",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な季節祭",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な仮面の儀礼",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な手仕事の習慣",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な歌による記録",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な家名制度",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な夜市の風習",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な旅人歓待",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の古い贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な贈答文化",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な語り部の伝統",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な共同食堂",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な季節祭",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な仮面の儀礼",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な手仕事の習慣",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な歌による記録",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な家名制度",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な夜市の風習",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な旅人歓待",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の古い贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な贈答文化",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な語り部の伝統",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な共同食堂",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な季節祭",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な仮面の儀礼",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な手仕事の習慣",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な歌による記録",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な家名制度",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な夜市の風習",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な旅人歓待",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の古い贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な贈答文化",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な語り部の伝統",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な共同食堂",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な季節祭",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な仮面の儀礼",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な手仕事の習慣",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な歌による記録",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な家名制度",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な夜市の風習",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な旅人歓待",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の古い贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な贈答文化",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な語り部の伝統",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な共同食堂",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な季節祭",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な仮面の儀礼",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な手仕事の習慣",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な歌による記録",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な家名制度",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な夜市の風習",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な旅人歓待",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの古い贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な贈答文化",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な語り部の伝統",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な共同食堂",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な季節祭",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な仮面の儀礼",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な手仕事の習慣",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な歌による記録",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な家名制度",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な夜市の風習",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な旅人歓待",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の古い贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な贈答文化",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な語り部の伝統",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な共同食堂",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な季節祭",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な仮面の儀礼",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な手仕事の習慣",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な歌による記録",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な家名制度",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な夜市の風習",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な旅人歓待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の古い贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な贈答文化",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な語り部の伝統",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な共同食堂",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な季節祭",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な仮面の儀礼",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な手仕事の習慣",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な歌による記録",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な家名制度",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な夜市の風習",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な旅人歓待",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の古い贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な贈答文化",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な語り部の伝統",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な共同食堂",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な季節祭",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な仮面の儀礼",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な手仕事の習慣",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な歌による記録",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な家名制度",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な夜市の風習",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な旅人歓待",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の古い贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な贈答文化",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な語り部の伝統",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な共同食堂",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な季節祭",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な仮面の儀礼",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な手仕事の習慣",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な歌による記録",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な家名制度",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な夜市の風習",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な旅人歓待",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の古い贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な贈答文化",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な語り部の伝統",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な共同食堂",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な季節祭",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な仮面の儀礼",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な手仕事の習慣",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な歌による記録",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な家名制度",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な夜市の風習",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な旅人歓待",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の古い贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な贈答文化",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な語り部の伝統",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な共同食堂",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な季節祭",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な仮面の儀礼",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な手仕事の習慣",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な歌による記録",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な家名制度",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な夜市の風習",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な旅人歓待",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の古い贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な贈答文化",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な語り部の伝統",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な共同食堂",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な季節祭",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な仮面の儀礼",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な手仕事の習慣",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な歌による記録",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な家名制度",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な夜市の風習",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な旅人歓待",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の古い贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な贈答文化",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な語り部の伝統",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な共同食堂",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な季節祭",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な仮面の儀礼",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な手仕事の習慣",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な歌による記録",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な家名制度",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な夜市の風習",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な旅人歓待",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の古い贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な贈答文化",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な語り部の伝統",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な共同食堂",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な季節祭",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な仮面の儀礼",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な手仕事の習慣",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な歌による記録",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な家名制度",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な夜市の風習",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な旅人歓待",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の古い贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な贈答文化",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な語り部の伝統",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な共同食堂",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な季節祭",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な仮面の儀礼",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な手仕事の習慣",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な歌による記録",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な家名制度",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な夜市の風習",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な旅人歓待",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の古い贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な贈答文化",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な語り部の伝統",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な共同食堂",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な季節祭",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な仮面の儀礼",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な手仕事の習慣",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な歌による記録",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な家名制度",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な夜市の風習",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な旅人歓待",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の古い贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な贈答文化",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な語り部の伝統",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な共同食堂",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な季節祭",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な仮面の儀礼",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な手仕事の習慣",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な歌による記録",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な家名制度",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な夜市の風習",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な旅人歓待",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の古い贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な贈答文化",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な語り部の伝統",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な共同食堂",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な季節祭",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な仮面の儀礼",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な手仕事の習慣",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な歌による記録",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な家名制度",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な夜市の風習",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な旅人歓待",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の古い贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な贈答文化",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な語り部の伝統",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な共同食堂",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な季節祭",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な仮面の儀礼",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な手仕事の習慣",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な歌による記録",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な家名制度",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な夜市の風習",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な旅人歓待",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の古い贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な贈答文化",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な語り部の伝統",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な共同食堂",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な季節祭",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な仮面の儀礼",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な手仕事の習慣",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な歌による記録",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な家名制度",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な夜市の風習",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な旅人歓待",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の古い贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な贈答文化",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な語り部の伝統",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な共同食堂",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な季節祭",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な仮面の儀礼",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な手仕事の習慣",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な歌による記録",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な家名制度",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な夜市の風習",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な旅人歓待",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の古い贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な贈答文化",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な語り部の伝統",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な共同食堂",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な季節祭",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な仮面の儀礼",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な手仕事の習慣",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な歌による記録",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な家名制度",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な夜市の風習",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な旅人歓待",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の古い贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な贈答文化",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な語り部の伝統",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な共同食堂",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な季節祭",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な仮面の儀礼",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な手仕事の習慣",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な歌による記録",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な家名制度",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な夜市の風習",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な旅人歓待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の古い贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な贈答文化",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な語り部の伝統",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な共同食堂",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な季節祭",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な仮面の儀礼",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な手仕事の習慣",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な歌による記録",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な家名制度",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な夜市の風習",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な旅人歓待",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の古い贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な贈答文化",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な語り部の伝統",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な共同食堂",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な季節祭",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な仮面の儀礼",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な手仕事の習慣",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な歌による記録",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な家名制度",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な夜市の風習",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な旅人歓待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の古い贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な贈答文化",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な語り部の伝統",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な共同食堂",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な季節祭",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な仮面の儀礼",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な手仕事の習慣",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な歌による記録",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な家名制度",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な夜市の風習",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な旅人歓待",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の古い贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な贈答文化",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な語り部の伝統",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な共同食堂",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な季節祭",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な仮面の儀礼",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な手仕事の習慣",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な歌による記録",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な家名制度",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な夜市の風習",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な旅人歓待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の古い贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な旅人歓待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な贈答文化",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な語り部の伝統",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な共同食堂",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な季節祭",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な仮面の儀礼",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な手仕事の習慣",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な歌による記録",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な家名制度",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な夜市の風習",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な旅人歓待",
+    "genre": "polar"
+  }
+]

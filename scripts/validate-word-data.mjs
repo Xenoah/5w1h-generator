@@ -222,6 +222,76 @@ for (const category of storyCategoryIds) {
   }
 }
 
+const creativeMakers = JSON.parse(await readFile(path.join(root, 'data', 'makers.json'), 'utf8'));
+const creativeMakerErrors = [];
+if (!Array.isArray(creativeMakers)) {
+  creativeMakerErrors.push('root is not an array');
+} else {
+  if (creativeMakers.length !== 8) creativeMakerErrors.push(`count ${creativeMakers.length} != 8`);
+  const makerIds = creativeMakers.map((maker) => String(maker?.id ?? '').trim());
+  if (makerIds.some((id) => !id)) creativeMakerErrors.push('empty maker id');
+  if (new Set(makerIds).size !== makerIds.length) creativeMakerErrors.push('duplicate maker id');
+}
+console.log(`\n[makers] count=${Array.isArray(creativeMakers) ? creativeMakers.length : 0}`);
+if (creativeMakerErrors.length) {
+  failed = true;
+  console.error(`ERROR: ${creativeMakerErrors.join('; ')}`);
+}
+
+for (const maker of Array.isArray(creativeMakers) ? creativeMakers : []) {
+  const makerErrors = [];
+  const categoryIds = Array.isArray(maker.categories) ? maker.categories.map(({ id }) => id) : [];
+  if (categoryIds.length !== 14) makerErrors.push(`category count ${categoryIds.length} != 14`);
+  if (new Set(categoryIds).size !== categoryIds.length) makerErrors.push('duplicate category id');
+  if (!Array.isArray(maker.formats) || maker.formats.length !== 4) {
+    makerErrors.push('format count must be 4');
+  } else {
+    const expectedFormatSizes = [6, 8, 10, 14];
+    maker.formats.forEach((format, index) => {
+      if (!Array.isArray(format.categories) || format.categories.length !== expectedFormatSizes[index]) {
+        makerErrors.push(`${format.id || index} size must be ${expectedFormatSizes[index]}`);
+      }
+      if ((format.categories || []).some((id) => !categoryIds.includes(id))) makerErrors.push(`${format.id || index} has unknown category`);
+    });
+  }
+  if (makerErrors.length) {
+    failed = true;
+    console.error(`[maker:${maker.id}] ERROR: ${makerErrors.join('; ')}`);
+  }
+
+  for (const category of Array.isArray(maker.categories) ? maker.categories : []) {
+    const values = JSON.parse(await readFile(path.join(root, 'data', 'makers', maker.id, `${category.id}.json`), 'utf8'));
+    const errors = [];
+    if (!Array.isArray(values)) {
+      errors.push('root is not an array');
+    } else {
+      if (values.length !== expectedCount) errors.push(`count ${values.length} != ${expectedCount}`);
+      const texts = values.map((value) => typeof value?.text === 'string' ? value.text.trim() : '');
+      const genres = values.map((value) => String(value?.genre ?? '').trim());
+      const exactDuplicates = texts.length - new Set(texts).size;
+      const normalizedDuplicates = texts.length - new Set(texts.map(normalize)).size;
+      const longest = texts.reduce((max, value) => Math.max(max, [...value].length), 0);
+      if (texts.some((value) => !normalize(value))) errors.push('empty text');
+      if (genres.some((value) => !storyGenreIds.has(value))) errors.push('unknown genre');
+      if (exactDuplicates) errors.push(`${exactDuplicates} exact duplicates`);
+      if (normalizedDuplicates) errors.push(`${normalizedDuplicates} normalized duplicates`);
+      if (texts.some((value) => [...value].length > maxElementLength)) errors.push(`value exceeds ${maxElementLength} characters`);
+      for (const genreId of storyGenreIds) {
+        const count = genres.filter((value) => value === genreId).length;
+        if (count !== 100) errors.push(`${genreId} count ${count} != 100`);
+      }
+      if (maker.resultMode === 'titles' && values.some((value) => !normalize(String(value?.base ?? '')))) errors.push('empty title base');
+      const similarity = similarityReport(texts);
+      if (similarity.highCount > 0) errors.push(`${similarity.highCount} highly similar candidate pairs`);
+      console.log(`[maker:${maker.id}/${category.id}] count=${values.length}, maxLength=${longest}, exactDup=${exactDuplicates}, normalizedDup=${normalizedDuplicates}, jaccard>=0.80=${similarity.highCount}`);
+    }
+    if (errors.length) {
+      failed = true;
+      console.error(`ERROR: ${errors.join('; ')}`);
+    }
+  }
+}
+
 const storyHtml = await readFile(path.join(root, 'story.html'), 'utf8');
 const storyJs = await readFile(path.join(root, 'story.js'), 'utf8');
 const indexHtml = await readFile(path.join(root, 'index.html'), 'utf8');
@@ -241,5 +311,30 @@ if (storyUiErrors.length) {
   console.error(`ERROR: ${storyUiErrors.join('; ')}`);
 }
 
+const makerHtml = await readFile(path.join(root, 'maker.html'), 'utf8');
+const makerJs = await readFile(path.join(root, 'maker.js'), 'utf8');
+const makersHtml = await readFile(path.join(root, 'makers.html'), 'utf8');
+const stylesCss = await readFile(path.join(root, 'styles.css'), 'utf8');
+const makerUiErrors = [];
+const makerHtmlIds = [...makerHtml.matchAll(/\bid="([^"]+)"/g)].map((match) => match[1]);
+const makerJsIds = [...makerJs.matchAll(/document\.querySelector\("#([^"]+)"\)/g)].map((match) => match[1]);
+if (new Set(makerHtmlIds).size !== makerHtmlIds.length) makerUiErrors.push('duplicate maker HTML id');
+for (const id of makerJsIds) if (!makerHtmlIds.includes(id)) makerUiErrors.push(`missing maker HTML id #${id}`);
+if (!makerHtml.includes('src="./maker.js"')) makerUiErrors.push('maker.js is not linked');
+if (!makerHtml.includes('href="./styles.css"')) makerUiErrors.push('styles.css is not linked from maker.html');
+for (const maker of Array.isArray(creativeMakers) ? creativeMakers : []) {
+  if (!makersHtml.includes(`type=${maker.id}`)) makerUiErrors.push(`hub link missing for ${maker.id}`);
+}
+if (!indexHtml.includes('href="./makers.html"')) makerUiErrors.push('makers link is missing from index.html');
+if (!storyHtml.includes('href="./makers.html"')) makerUiErrors.push('makers link is missing from story.html');
+if (!stylesCss.includes('.maker-card-grid')) makerUiErrors.push('maker card grid styles are missing');
+if (!stylesCss.includes('.maker-element-list')) makerUiErrors.push('maker element list styles are missing');
+if (!stylesCss.includes('@media (max-width: 540px)')) makerUiErrors.push('mobile breakpoint is missing');
+console.log(`\n[maker:ui] htmlIds=${makerHtmlIds.length}, scriptIds=${makerJsIds.length}, hubLinks=${Array.isArray(creativeMakers) ? creativeMakers.length : 0}`);
+if (makerUiErrors.length) {
+  failed = true;
+  console.error(`ERROR: ${makerUiErrors.join('; ')}`);
+}
+
 if (failed) process.exitCode = 1;
-else console.log('\nAll word, facet, and story-data validation checks passed.');
+else console.log('\nAll word, facet, story, and creative-maker validation checks passed.');

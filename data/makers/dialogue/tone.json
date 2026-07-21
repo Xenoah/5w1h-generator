@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの古い丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な丁寧な口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な早口",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な小声",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な冗談交じり",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な冷たい言い方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な遠回しな表現",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な強い断定",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な素朴な言葉",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な古風な話し方",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な質問の多い口調",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の古い丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な丁寧な口調",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な早口",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な小声",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な冗談交じり",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な冷たい言い方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な遠回しな表現",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な強い断定",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な素朴な言葉",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な古風な話し方",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な質問の多い口調",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の古い丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な丁寧な口調",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な早口",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な小声",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な冗談交じり",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な冷たい言い方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な遠回しな表現",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な強い断定",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な素朴な言葉",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な古風な話し方",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な質問の多い口調",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の古い丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な丁寧な口調",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な早口",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な小声",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な冗談交じり",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な冷たい言い方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な遠回しな表現",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な強い断定",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な素朴な言葉",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な古風な話し方",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な質問の多い口調",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の古い丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な丁寧な口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な早口",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な小声",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な冗談交じり",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な冷たい言い方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な遠回しな表現",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な強い断定",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な素朴な言葉",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な古風な話し方",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な質問の多い口調",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の古い丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な丁寧な口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な早口",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な小声",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な冗談交じり",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な冷たい言い方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な遠回しな表現",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な強い断定",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な素朴な言葉",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な古風な話し方",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な質問の多い口調",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの古い丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な丁寧な口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な早口",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な小声",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な冗談交じり",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な冷たい言い方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な遠回しな表現",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な強い断定",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な素朴な言葉",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な古風な話し方",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な質問の多い口調",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の古い丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な丁寧な口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な早口",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な小声",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な冗談交じり",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な冷たい言い方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な遠回しな表現",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な強い断定",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な素朴な言葉",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な古風な話し方",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な質問の多い口調",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の古い丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な丁寧な口調",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な早口",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な小声",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な冗談交じり",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な冷たい言い方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な遠回しな表現",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な強い断定",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な素朴な言葉",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な古風な話し方",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な質問の多い口調",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の古い丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な丁寧な口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な早口",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な小声",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な冗談交じり",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な冷たい言い方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な遠回しな表現",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な強い断定",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な素朴な言葉",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な古風な話し方",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な質問の多い口調",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の古い丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な丁寧な口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な早口",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な小声",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な冗談交じり",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な冷たい言い方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な遠回しな表現",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な強い断定",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な素朴な言葉",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な古風な話し方",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な質問の多い口調",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の古い丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な丁寧な口調",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な早口",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な小声",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な冗談交じり",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な冷たい言い方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な遠回しな表現",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な強い断定",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な素朴な言葉",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な古風な話し方",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な質問の多い口調",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の古い丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な丁寧な口調",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な早口",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な小声",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な冗談交じり",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な冷たい言い方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な遠回しな表現",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な強い断定",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な素朴な言葉",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な古風な話し方",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な質問の多い口調",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の古い丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な丁寧な口調",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な早口",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な小声",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な冗談交じり",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な冷たい言い方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な遠回しな表現",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な強い断定",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な素朴な言葉",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な古風な話し方",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な質問の多い口調",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の古い丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な丁寧な口調",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な早口",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な小声",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な冗談交じり",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な冷たい言い方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な遠回しな表現",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な強い断定",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な素朴な言葉",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な古風な話し方",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な質問の多い口調",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の古い丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な丁寧な口調",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な早口",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な小声",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な冗談交じり",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な冷たい言い方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な遠回しな表現",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な強い断定",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な素朴な言葉",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な古風な話し方",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な質問の多い口調",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の古い丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な丁寧な口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な早口",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な小声",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な冗談交じり",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な冷たい言い方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な遠回しな表現",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な強い断定",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な素朴な言葉",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な古風な話し方",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な質問の多い口調",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の古い丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な丁寧な口調",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な早口",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な小声",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な冗談交じり",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な冷たい言い方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な遠回しな表現",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な強い断定",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な素朴な言葉",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な古風な話し方",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な質問の多い口調",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の古い丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な丁寧な口調",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な早口",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な小声",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な冗談交じり",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な冷たい言い方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な遠回しな表現",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な強い断定",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な素朴な言葉",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な古風な話し方",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な質問の多い口調",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の古い丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な丁寧な口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な早口",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な小声",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な冗談交じり",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な冷たい言い方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な遠回しな表現",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な強い断定",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な素朴な言葉",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な古風な話し方",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な質問の多い口調",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の古い丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な丁寧な口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な早口",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な小声",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な冗談交じり",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な冷たい言い方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な遠回しな表現",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な強い断定",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な素朴な言葉",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な古風な話し方",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な質問の多い口調",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の古い丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な丁寧な口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な早口",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な小声",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な冗談交じり",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な冷たい言い方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な遠回しな表現",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な強い断定",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な素朴な言葉",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な古風な話し方",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な質問の多い口調",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の古い丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な丁寧な口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な早口",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な小声",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な冗談交じり",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な冷たい言い方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な遠回しな表現",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な強い断定",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な素朴な言葉",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な古風な話し方",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な質問の多い口調",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の古い丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な丁寧な口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な早口",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な小声",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な冗談交じり",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な冷たい言い方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な遠回しな表現",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な強い断定",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な素朴な言葉",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な古風な話し方",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な質問の多い口調",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の古い丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な丁寧な口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な早口",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な小声",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な冗談交じり",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な冷たい言い方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な遠回しな表現",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な強い断定",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な素朴な言葉",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な古風な話し方",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な質問の多い口調",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の古い丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な丁寧な口調",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な早口",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な小声",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な冗談交じり",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な冷たい言い方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な遠回しな表現",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な強い断定",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な素朴な言葉",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な古風な話し方",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な質問の多い口調",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の古い丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な丁寧な口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な早口",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な小声",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な冗談交じり",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な冷たい言い方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な遠回しな表現",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な強い断定",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な素朴な言葉",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な古風な話し方",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な質問の多い口調",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の古い丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な丁寧な口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な早口",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な小声",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な冗談交じり",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な冷たい言い方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な遠回しな表現",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な強い断定",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な素朴な言葉",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な古風な話し方",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な質問の多い口調",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の古い丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な丁寧な口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な早口",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な小声",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な冗談交じり",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な冷たい言い方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な遠回しな表現",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な強い断定",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な素朴な言葉",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な古風な話し方",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な質問の多い口調",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の古い丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な質問の多い口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な丁寧な口調",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な早口",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な小声",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な冗談交じり",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な冷たい言い方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な遠回しな表現",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な強い断定",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な素朴な言葉",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な古風な話し方",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な質問の多い口調",
+    "genre": "polar"
+  }
+]

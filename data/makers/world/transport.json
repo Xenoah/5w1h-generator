@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの古い渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な渡し舟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な山岳鉄道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な乗合馬車",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な帆走船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な地下水路",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な滑空艇",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な徒歩街道",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な移動橋",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な荷運び動物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な風を使う車",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の古い渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な渡し舟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な山岳鉄道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な乗合馬車",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な帆走船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な地下水路",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な滑空艇",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な徒歩街道",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な移動橋",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な荷運び動物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な風を使う車",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の古い渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な渡し舟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な山岳鉄道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な乗合馬車",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な帆走船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な地下水路",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な滑空艇",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な徒歩街道",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な移動橋",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な荷運び動物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な風を使う車",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の古い渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な渡し舟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な山岳鉄道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な乗合馬車",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な帆走船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な地下水路",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な滑空艇",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な徒歩街道",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な移動橋",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な荷運び動物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な風を使う車",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の古い渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な渡し舟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な山岳鉄道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な乗合馬車",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な帆走船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な地下水路",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な滑空艇",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な徒歩街道",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な移動橋",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な荷運び動物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な風を使う車",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の古い渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な渡し舟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な山岳鉄道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な乗合馬車",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な帆走船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な地下水路",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な滑空艇",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な徒歩街道",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な移動橋",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な荷運び動物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な風を使う車",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの古い渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な渡し舟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な山岳鉄道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な乗合馬車",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な帆走船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な地下水路",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な滑空艇",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な徒歩街道",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な移動橋",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な荷運び動物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な風を使う車",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の古い渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な渡し舟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な山岳鉄道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な乗合馬車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な帆走船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な地下水路",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な滑空艇",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な徒歩街道",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な移動橋",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な荷運び動物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な風を使う車",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の古い渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な渡し舟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な山岳鉄道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な乗合馬車",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な帆走船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な地下水路",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な滑空艇",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な徒歩街道",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な移動橋",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な荷運び動物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な風を使う車",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の古い渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な渡し舟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な山岳鉄道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な乗合馬車",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な帆走船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な地下水路",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な滑空艇",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な徒歩街道",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な移動橋",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な荷運び動物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な風を使う車",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の古い渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な渡し舟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な山岳鉄道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な乗合馬車",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な帆走船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な地下水路",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な滑空艇",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な徒歩街道",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な移動橋",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な荷運び動物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な風を使う車",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の古い渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な渡し舟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な山岳鉄道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な乗合馬車",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な帆走船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な地下水路",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な滑空艇",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な徒歩街道",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な移動橋",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な荷運び動物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な風を使う車",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の古い渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な渡し舟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な山岳鉄道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な乗合馬車",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な帆走船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な地下水路",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な滑空艇",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な徒歩街道",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な移動橋",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な荷運び動物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な風を使う車",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の古い渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な渡し舟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な山岳鉄道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な乗合馬車",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な帆走船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な地下水路",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な滑空艇",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な徒歩街道",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な移動橋",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な荷運び動物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な風を使う車",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の古い渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な渡し舟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な山岳鉄道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な乗合馬車",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な帆走船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な地下水路",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な滑空艇",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な徒歩街道",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な移動橋",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な荷運び動物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な風を使う車",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の古い渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な渡し舟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な山岳鉄道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な乗合馬車",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な帆走船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な地下水路",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な滑空艇",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な徒歩街道",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な移動橋",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な荷運び動物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な風を使う車",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の古い渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な渡し舟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な山岳鉄道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な乗合馬車",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な帆走船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な地下水路",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な滑空艇",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な徒歩街道",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な移動橋",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な荷運び動物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な風を使う車",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の古い渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な渡し舟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な山岳鉄道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な乗合馬車",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な帆走船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な地下水路",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な滑空艇",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な徒歩街道",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な移動橋",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な荷運び動物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な風を使う車",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の古い渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な渡し舟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な山岳鉄道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な乗合馬車",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な帆走船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な地下水路",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な滑空艇",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な徒歩街道",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な移動橋",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な荷運び動物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な風を使う車",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の古い渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な渡し舟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な山岳鉄道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な乗合馬車",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な帆走船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な地下水路",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な滑空艇",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な徒歩街道",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な移動橋",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な荷運び動物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な風を使う車",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の古い渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な渡し舟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な山岳鉄道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な乗合馬車",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な帆走船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な地下水路",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な滑空艇",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な徒歩街道",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な移動橋",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な荷運び動物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な風を使う車",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の古い渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な渡し舟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な山岳鉄道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な乗合馬車",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な帆走船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な地下水路",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な滑空艇",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な徒歩街道",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な移動橋",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な荷運び動物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な風を使う車",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の古い渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な渡し舟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な山岳鉄道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な乗合馬車",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な帆走船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な地下水路",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な滑空艇",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な徒歩街道",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な移動橋",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な荷運び動物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な風を使う車",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の古い渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な渡し舟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な山岳鉄道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な乗合馬車",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な帆走船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な地下水路",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な滑空艇",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な徒歩街道",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な移動橋",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な荷運び動物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な風を使う車",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の古い渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な渡し舟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な山岳鉄道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な乗合馬車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な帆走船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な地下水路",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な滑空艇",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な徒歩街道",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な移動橋",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な荷運び動物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な風を使う車",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の古い渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な渡し舟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な山岳鉄道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な乗合馬車",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な帆走船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な地下水路",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な滑空艇",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な徒歩街道",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な移動橋",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な荷運び動物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な風を使う車",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の古い渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な渡し舟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な山岳鉄道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な乗合馬車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な帆走船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な地下水路",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な滑空艇",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な徒歩街道",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な移動橋",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な荷運び動物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な風を使う車",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の古い渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な渡し舟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な山岳鉄道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な乗合馬車",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な帆走船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な地下水路",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な滑空艇",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な徒歩街道",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な移動橋",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な荷運び動物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な風を使う車",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の古い渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な渡し舟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な山岳鉄道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な乗合馬車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な帆走船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な地下水路",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な滑空艇",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な徒歩街道",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な移動橋",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な荷運び動物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な風を使う車",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の古い渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な風を使う車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な渡し舟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な山岳鉄道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な乗合馬車",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な帆走船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な地下水路",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な滑空艇",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な徒歩街道",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な移動橋",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な荷運び動物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な風を使う車",
+    "genre": "polar"
+  }
+]

@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの深い喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの深い懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの消えない懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの意外な懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠された懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの揺るがない懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一時の懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新たな懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの長年の懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない喜び",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない怒り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない悲しみ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない戸惑い",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない安心",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない焦り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない嫉妬",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない期待",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない罪悪感",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの言えない懐かしさ",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の深い喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の深い懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の消えない懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の意外な懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠された懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の揺るがない懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一時の懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新たな懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の長年の懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない喜び",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない怒り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない悲しみ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない戸惑い",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない安心",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない焦り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない嫉妬",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない期待",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない罪悪感",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の言えない懐かしさ",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の深い喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の深い懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の消えない懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の意外な懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠された懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の揺るがない懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一時の懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新たな懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の長年の懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない喜び",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない怒り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない悲しみ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない戸惑い",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない安心",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない焦り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない嫉妬",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない期待",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない罪悪感",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の言えない懐かしさ",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の深い喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の深い懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の消えない懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の意外な懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠された懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の揺るがない懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一時の懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新たな懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の長年の懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない喜び",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない怒り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない悲しみ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない戸惑い",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない安心",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない焦り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない嫉妬",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない期待",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない罪悪感",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の言えない懐かしさ",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の深い喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の深い懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の消えない懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の意外な懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠された懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の揺るがない懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一時の懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新たな懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の長年の懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない喜び",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない怒り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない悲しみ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない戸惑い",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない安心",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない焦り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない嫉妬",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない期待",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない罪悪感",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の言えない懐かしさ",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の深い喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の深い懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の消えない懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の意外な懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠された懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の揺るがない懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一時の懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新たな懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の長年の懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない喜び",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない怒り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない悲しみ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない戸惑い",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない安心",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない焦り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない嫉妬",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない期待",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない罪悪感",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の言えない懐かしさ",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの深い喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの深い懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの消えない懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの意外な懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠された懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの揺るがない懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一時の懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新たな懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの長年の懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない喜び",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない怒り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない悲しみ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない戸惑い",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない安心",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない焦り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない嫉妬",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない期待",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない罪悪感",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの言えない懐かしさ",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の深い喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の深い懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の消えない懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の意外な懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠された懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の揺るがない懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一時の懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新たな懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の長年の懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない喜び",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない怒り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない悲しみ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない戸惑い",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない安心",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない焦り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない嫉妬",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない期待",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない罪悪感",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の言えない懐かしさ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の深い喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の深い懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の消えない懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の意外な懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠された懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の揺るがない懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一時の懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新たな懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の長年の懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない喜び",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない怒り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない悲しみ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない戸惑い",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない安心",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない焦り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない嫉妬",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない期待",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない罪悪感",
+    "genre": "future"
+  },
+  {
+    "text": "未来の言えない懐かしさ",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の深い喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の深い懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の消えない懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の意外な懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠された懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の揺るがない懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一時の懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新たな懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の長年の懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない喜び",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない怒り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない悲しみ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない戸惑い",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない安心",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない焦り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない嫉妬",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない期待",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない罪悪感",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の言えない懐かしさ",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の深い喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の深い懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の消えない懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の意外な懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠された懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の揺るがない懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一時の懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新たな懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の長年の懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない喜び",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない怒り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない悲しみ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない戸惑い",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない安心",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない焦り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない嫉妬",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない期待",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない罪悪感",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の言えない懐かしさ",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の深い喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の深い懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の消えない懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の意外な懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠された懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の揺るがない懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一時の懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新たな懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の長年の懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない喜び",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない怒り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない悲しみ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない戸惑い",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない安心",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない焦り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない嫉妬",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない期待",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない罪悪感",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の言えない懐かしさ",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の深い喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の深い懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の消えない懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の意外な懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠された懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の揺るがない懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一時の懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新たな懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の長年の懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない喜び",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない怒り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない悲しみ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない戸惑い",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない安心",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない焦り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない嫉妬",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない期待",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない罪悪感",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の言えない懐かしさ",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の深い喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の深い懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の消えない懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の意外な懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠された懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の揺るがない懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一時の懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新たな懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の長年の懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない喜び",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない怒り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない悲しみ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない戸惑い",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない安心",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない焦り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない嫉妬",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない期待",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない罪悪感",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の言えない懐かしさ",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の深い喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の深い懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の消えない懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の意外な懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠された懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の揺るがない懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一時の懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新たな懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の長年の懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない喜び",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない怒り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない悲しみ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない戸惑い",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない安心",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない焦り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない嫉妬",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない期待",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない罪悪感",
+    "genre": "school"
+  },
+  {
+    "text": "学園の言えない懐かしさ",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の深い喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の深い懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の消えない懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の意外な懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠された懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の揺るがない懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一時の懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新たな懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の長年の懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない喜び",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない怒り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない悲しみ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない戸惑い",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない安心",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない焦り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない嫉妬",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない期待",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない罪悪感",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の言えない懐かしさ",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の深い喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の深い懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の消えない懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の意外な懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠された懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の揺るがない懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一時の懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新たな懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の長年の懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない喜び",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない怒り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない悲しみ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない戸惑い",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない安心",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない焦り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない嫉妬",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない期待",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない罪悪感",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の言えない懐かしさ",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の深い喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の深い懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の消えない懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の意外な懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠された懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の揺るがない懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一時の懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新たな懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の長年の懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない喜び",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない怒り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない悲しみ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない戸惑い",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない安心",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない焦り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない嫉妬",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない期待",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない罪悪感",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の言えない懐かしさ",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の深い喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の深い懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の消えない懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の意外な懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠された懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の揺るがない懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一時の懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新たな懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の長年の懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない喜び",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない怒り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない悲しみ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない戸惑い",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない安心",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない焦り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない嫉妬",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない期待",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない罪悪感",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の言えない懐かしさ",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の深い喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の深い懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の消えない懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の意外な懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠された懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の揺るがない懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一時の懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新たな懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の長年の懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない喜び",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない怒り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない悲しみ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない戸惑い",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない安心",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない焦り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない嫉妬",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない期待",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない罪悪感",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の言えない懐かしさ",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の深い喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の深い懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の消えない懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の意外な懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠された懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の揺るがない懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一時の懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新たな懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の長年の懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない喜び",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない怒り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない悲しみ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない戸惑い",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない安心",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない焦り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない嫉妬",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない期待",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない罪悪感",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の言えない懐かしさ",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の深い喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の深い懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の消えない懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の意外な懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠された懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の揺るがない懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一時の懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新たな懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の長年の懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない喜び",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない怒り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない悲しみ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない戸惑い",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない安心",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない焦り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない嫉妬",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない期待",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない罪悪感",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の言えない懐かしさ",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の深い喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の深い懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の消えない懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の意外な懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠された懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の揺るがない懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一時の懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新たな懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の長年の懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない喜び",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない怒り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない悲しみ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない戸惑い",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない安心",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない焦り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない嫉妬",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない期待",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない罪悪感",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の言えない懐かしさ",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の深い喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の深い懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の消えない懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の意外な懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠された懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の揺るがない懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一時の懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新たな懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の長年の懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない喜び",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない怒り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない悲しみ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない戸惑い",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない安心",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない焦り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない嫉妬",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない期待",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない罪悪感",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の言えない懐かしさ",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の深い喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の深い懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の消えない懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の意外な懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠された懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の揺るがない懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一時の懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新たな懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の長年の懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない喜び",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない怒り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない悲しみ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない戸惑い",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない安心",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない焦り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない嫉妬",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない期待",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない罪悪感",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の言えない懐かしさ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の深い喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の深い懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の消えない懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の意外な懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠された懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の揺るがない懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一時の懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新たな懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の長年の懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない喜び",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない怒り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない悲しみ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない戸惑い",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない安心",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない焦り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない嫉妬",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない期待",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない罪悪感",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の言えない懐かしさ",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の深い喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の深い懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の消えない懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の意外な懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠された懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の揺るがない懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一時の懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新たな懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の長年の懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない喜び",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない怒り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない悲しみ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない戸惑い",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない安心",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない焦り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない嫉妬",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない期待",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない罪悪感",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の言えない懐かしさ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の深い喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の深い懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の消えない懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の意外な懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠された懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の揺るがない懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一時の懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新たな懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の長年の懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない喜び",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない怒り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない悲しみ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない戸惑い",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない安心",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない焦り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない嫉妬",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない期待",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない罪悪感",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の言えない懐かしさ",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の深い喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の深い懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の消えない懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の意外な懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠された懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の揺るがない懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一時の懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新たな懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の長年の懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない喜び",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない怒り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない悲しみ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない戸惑い",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない安心",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない焦り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない嫉妬",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない期待",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない罪悪感",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の言えない懐かしさ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の深い喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の深い懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の消えない懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の意外な懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠された懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の揺るがない懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一時の懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新たな懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の長年の懐かしさ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない喜び",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない怒り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない悲しみ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない戸惑い",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない安心",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない焦り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない嫉妬",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない期待",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない罪悪感",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の言えない懐かしさ",
+    "genre": "polar"
+  }
+]

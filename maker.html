@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f4eee2">
+    <meta name="description" content="14要素×各3,000件と30ジャンルから創作案を作るランダムメーカー。">
+    <title>創作メーカー | IDEA MAKERS</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./maker.js" defer></script>
+  </head>
+  <body class="maker-page">
+    <a class="skip-link" href="#maker-generator">メーカーへ移動</a>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./makers.html" aria-label="創作メーカー一覧">
+          <span class="brand-mark maker-brand-mark" aria-hidden="true">✦</span><span>IDEA MAKERS</span>
+        </a>
+        <nav class="mode-nav" aria-label="メーカーを切り替える">
+          <a class="mode-link" href="./">5W1H</a>
+          <a class="mode-link" href="./story.html">物語テーマ</a>
+          <a class="mode-link is-active" href="./makers.html" aria-current="page">創作ツール</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero maker-hero" aria-labelledby="page-title">
+          <a class="maker-back-link" href="./makers.html">← 8つの創作メーカー</a>
+          <p class="eyebrow" id="maker-eyebrow">CREATIVE MAKER</p>
+          <h1 id="page-title">創作の要素を<br><span>組み立てよう。</span></h1>
+          <p class="lead" id="maker-lead">データを読み込んでいます。</p>
+        </section>
+
+        <section id="maker-generator" class="generator maker-generator" aria-labelledby="maker-generator-title" aria-busy="true">
+          <div class="section-heading">
+            <div><p class="section-kicker">YOUR CREATIVE SEED</p><h2 id="maker-generator-title">今回の組み合わせ</h2></div>
+            <p class="data-summary" id="maker-data-summary">候補を準備しています…</p>
+          </div>
+
+          <div class="format-picker">
+            <div class="format-control">
+              <label for="maker-format-select">構成の深さ</label>
+              <select id="maker-format-select" disabled aria-describedby="maker-format-description"></select>
+            </div>
+            <div class="format-copy"><strong id="maker-format-title">基本構成</strong><p id="maker-format-description">中心となる6要素を組み合わせます。</p></div>
+          </div>
+
+          <section class="facet-picker maker-genre-picker" aria-labelledby="maker-genre-title">
+            <details class="facet-master">
+              <summary class="facet-master-summary">
+                <span><small>MIXABLE GENRES</small><strong id="maker-genre-title">ジャンルを選ぶ</strong></span>
+                <span id="maker-genre-count">0選択</span>
+              </summary>
+              <div class="facet-body">
+                <div class="facet-heading"><div><p class="facet-kicker">GENRE MIX</p><h3>複数ジャンルをミックス</h3></div><p>未選択なら全ジャンル、複数選択なら選択内から要素ごとにランダム選出します。</p></div>
+                <div class="facet-options maker-genre-options" id="maker-genre-options"></div>
+                <div class="facet-footer"><p id="maker-genre-summary">ジャンルを準備しています…</p><button class="facet-clear-button" id="maker-genre-clear" type="button" disabled>選択をクリア</button></div>
+              </div>
+            </details>
+          </section>
+
+          <div class="error-panel" id="maker-error-panel" role="alert" hidden>
+            <div class="error-icon" aria-hidden="true">!</div><div><h3>候補を読み込めませんでした</h3><p id="maker-error-message">通信状態を確認してください。</p><button class="button button-secondary" id="maker-retry-button" type="button">もう一度読み込む</button></div>
+          </div>
+
+          <div class="word-grid maker-grid" id="maker-grid" aria-live="polite"></div>
+          <div class="main-actions"><button class="button button-primary maker-primary-button" id="maker-reroll-all" type="button" disabled><span class="dice" aria-hidden="true">✦</span>すべて引き直す</button></div>
+
+          <section class="sentence-panel maker-result-panel" aria-labelledby="maker-result-title">
+            <div class="sentence-heading"><h3 id="maker-result-title">できあがった組み合わせ</h3><span id="maker-result-format">基本構成・6要素</span></div>
+            <p class="sentence maker-sentence" id="maker-result-output">候補を読み込んでいます。</p>
+            <button class="copy-button" id="maker-copy-button" type="button" disabled><span aria-hidden="true">▣</span><span id="maker-copy-label">組み合わせをコピー</span></button>
+          </section>
+          <p class="status" id="maker-status" role="status" aria-live="polite"></p>
+        </section>
+
+        <section class="format-guide" aria-labelledby="maker-guide-title">
+          <div class="guide-heading"><p class="section-kicker">ELEMENT GUIDE</p><h2 id="maker-guide-title">収録している14要素</h2></div>
+          <div class="maker-element-list" id="maker-element-list"></div>
+        </section>
+
+        <aside class="about maker-about" aria-labelledby="maker-about-title">
+          <div class="about-mark" aria-hidden="true">42K</div>
+          <div><h2 id="maker-about-title">14要素を、同じ密度で</h2><p id="maker-about-copy">各要素3,000件、合計42,000件。30ジャンルを自由に重ねられます。</p></div>
+        </aside>
+      </main>
+      <footer><p id="maker-footer">IDEA MAKER · RANDOMNESS OPENS A DOOR</p></footer>
+    </div>
+    <noscript><p class="noscript-message">このメーカーを使うにはJavaScriptを有効にしてください。</p></noscript>
+  </body>
+</html>

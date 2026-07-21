@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの古い農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの古い保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの大きな保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの鮮やかな保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの隠れた保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの特別な保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な農耕",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な漁業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な採鉱",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な交易",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な織物作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な薬草採集",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な造船",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な牧畜",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な観測業",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不思議な保存食作り",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の古い農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の古い保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の大きな保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の鮮やかな保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の隠れた保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の特別な保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な農耕",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な漁業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な採鉱",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な交易",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な織物作り",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な薬草採集",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な造船",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な牧畜",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な観測業",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不思議な保存食作り",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の古い農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の古い保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の大きな保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の鮮やかな保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の隠れた保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の特別な保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な農耕",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な漁業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な採鉱",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な交易",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な織物作り",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な薬草採集",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な造船",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な牧畜",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な観測業",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不思議な保存食作り",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の古い農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の古い保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の大きな保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の鮮やかな保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の隠れた保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の特別な保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な農耕",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な漁業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な採鉱",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な交易",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な織物作り",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な薬草採集",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な造船",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な牧畜",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な観測業",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不思議な保存食作り",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の古い農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の古い保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の大きな保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の鮮やかな保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の隠れた保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の特別な保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な農耕",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な漁業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な採鉱",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な交易",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な織物作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な薬草採集",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な造船",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な牧畜",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な観測業",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不思議な保存食作り",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の古い農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の古い保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の大きな保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の鮮やかな保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の隠れた保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の特別な保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な農耕",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な漁業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な採鉱",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な交易",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な織物作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な薬草採集",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な造船",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な牧畜",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な観測業",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不思議な保存食作り",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの古い農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの古い保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの大きな保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの鮮やかな保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの隠れた保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの特別な保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な農耕",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な漁業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な採鉱",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な交易",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な織物作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な薬草採集",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な造船",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な牧畜",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な観測業",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不思議な保存食作り",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の古い農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の古い保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の大きな保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の鮮やかな保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の隠れた保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の特別な保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な農耕",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な漁業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な採鉱",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な交易",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な織物作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な薬草採集",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な造船",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な牧畜",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な観測業",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不思議な保存食作り",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の古い農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の古い保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の大きな保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の鮮やかな保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の隠れた保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の特別な保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な農耕",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な漁業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な採鉱",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な交易",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な織物作り",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な薬草採集",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な造船",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な牧畜",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な観測業",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不思議な保存食作り",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の古い農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の古い保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の大きな保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の鮮やかな保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の隠れた保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の特別な保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な農耕",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な漁業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な採鉱",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な交易",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な織物作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な薬草採集",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な造船",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な牧畜",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な観測業",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不思議な保存食作り",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の古い農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の古い保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の大きな保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の鮮やかな保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の隠れた保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の特別な保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な農耕",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な漁業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な採鉱",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な交易",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な織物作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な薬草採集",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な造船",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な牧畜",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な観測業",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不思議な保存食作り",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の古い農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の古い保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の大きな保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の鮮やかな保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の隠れた保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の特別な保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な農耕",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な漁業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な採鉱",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な交易",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な織物作り",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な薬草採集",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な造船",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な牧畜",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な観測業",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不思議な保存食作り",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の古い農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の古い保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の大きな保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の鮮やかな保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の隠れた保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の特別な保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な農耕",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な漁業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な採鉱",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な交易",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な織物作り",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な薬草採集",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な造船",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な牧畜",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な観測業",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不思議な保存食作り",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の古い農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の古い保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の大きな保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の鮮やかな保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の隠れた保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の特別な保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な農耕",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な漁業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な採鉱",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な交易",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な織物作り",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な薬草採集",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な造船",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な牧畜",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な観測業",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不思議な保存食作り",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の古い農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の古い保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の大きな保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の鮮やかな保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の隠れた保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の特別な保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な農耕",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な漁業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な採鉱",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な交易",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な織物作り",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な薬草採集",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な造船",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な牧畜",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な観測業",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不思議な保存食作り",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の古い農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の古い保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の大きな保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の鮮やかな保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の隠れた保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の特別な保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な農耕",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な漁業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な採鉱",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な交易",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な織物作り",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な薬草採集",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な造船",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な牧畜",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な観測業",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不思議な保存食作り",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の古い農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の古い保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の大きな保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の鮮やかな保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の隠れた保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の特別な保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な農耕",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な漁業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な採鉱",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な交易",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な織物作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な薬草採集",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な造船",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な牧畜",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な観測業",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不思議な保存食作り",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の古い農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の古い保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の大きな保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の鮮やかな保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の隠れた保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の特別な保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な農耕",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な漁業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な採鉱",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な交易",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な織物作り",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な薬草採集",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な造船",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な牧畜",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な観測業",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不思議な保存食作り",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の古い農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の古い保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の大きな保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の鮮やかな保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の隠れた保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の特別な保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な農耕",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な漁業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な採鉱",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な交易",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な織物作り",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な薬草採集",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な造船",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な牧畜",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な観測業",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不思議な保存食作り",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の古い農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の古い保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の大きな保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の鮮やかな保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の隠れた保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の特別な保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な農耕",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な漁業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な採鉱",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な交易",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な織物作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な薬草採集",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な造船",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な牧畜",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な観測業",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不思議な保存食作り",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の古い農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の古い保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の大きな保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の鮮やかな保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の隠れた保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の特別な保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な農耕",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な漁業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な採鉱",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な交易",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な織物作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な薬草採集",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な造船",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な牧畜",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な観測業",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不思議な保存食作り",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の古い農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の古い保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の大きな保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の鮮やかな保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の隠れた保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の特別な保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な農耕",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な漁業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な採鉱",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な交易",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な織物作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な薬草採集",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な造船",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な牧畜",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な観測業",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不思議な保存食作り",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の古い農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の古い保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の大きな保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の鮮やかな保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の隠れた保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の特別な保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な農耕",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な漁業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な採鉱",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な交易",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な織物作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な薬草採集",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な造船",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な牧畜",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な観測業",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不思議な保存食作り",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の古い農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の古い保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の大きな保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の鮮やかな保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の隠れた保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の特別な保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な農耕",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な漁業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な採鉱",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な交易",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な織物作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な薬草採集",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な造船",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な牧畜",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な観測業",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不思議な保存食作り",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の古い農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の古い保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の大きな保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の鮮やかな保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の隠れた保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の特別な保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な農耕",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な漁業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な採鉱",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な交易",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な織物作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な薬草採集",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な造船",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な牧畜",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な観測業",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不思議な保存食作り",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の古い農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の古い保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の大きな保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の鮮やかな保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の隠れた保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の特別な保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な農耕",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な漁業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な採鉱",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な交易",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な織物作り",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な薬草採集",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な造船",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な牧畜",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な観測業",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不思議な保存食作り",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の古い農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の古い保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の大きな保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の鮮やかな保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の隠れた保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の特別な保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な農耕",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な漁業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な採鉱",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な交易",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な織物作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な薬草採集",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な造船",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な牧畜",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な観測業",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不思議な保存食作り",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の古い農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の古い保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の大きな保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の鮮やかな保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の隠れた保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の特別な保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な農耕",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な漁業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な採鉱",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な交易",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な織物作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な薬草採集",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な造船",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な牧畜",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な観測業",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不思議な保存食作り",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の古い農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の古い保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の大きな保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の鮮やかな保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の隠れた保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の特別な保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な農耕",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な漁業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な採鉱",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な交易",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な織物作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な薬草採集",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な造船",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な牧畜",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な観測業",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不思議な保存食作り",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の古い農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の古い保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の大きな保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の鮮やかな保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の隠れた保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の特別な保存食作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な農耕",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な漁業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な採鉱",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な交易",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な織物作り",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な薬草採集",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な造船",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な牧畜",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な観測業",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不思議な保存食作り",
+    "genre": "polar"
+  }
+]

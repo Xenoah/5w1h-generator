@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしのかつての親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしのかつての教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの現在の教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不安定な教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの対等な教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの一方的な教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの複雑な教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの切れない教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの変わりゆく教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ親子二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ旧友同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ初対面の二人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ師弟",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ兄弟姉妹",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ隣人同士",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ競争相手",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ旅人と案内人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ店員と客",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの思わぬ教師と学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様のかつての親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様のかつての教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の現在の教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不安定な教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の対等な教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の一方的な教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の複雑な教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の切れない教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の変わりゆく教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ親子二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ旧友同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ初対面の二人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ師弟",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ兄弟姉妹",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ隣人同士",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ競争相手",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ旅人と案内人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ店員と客",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の思わぬ教師と学生",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期のかつての親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期のかつての教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の現在の教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不安定な教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の対等な教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の一方的な教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の複雑な教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の切れない教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の変わりゆく教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ親子二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ旧友同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ初対面の二人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ師弟",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ兄弟姉妹",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ隣人同士",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ競争相手",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ旅人と案内人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ店員と客",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の思わぬ教師と学生",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇のかつての親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇のかつての教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の現在の教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不安定な教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の対等な教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の一方的な教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の複雑な教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の切れない教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の変わりゆく教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ親子二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ旧友同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ初対面の二人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ師弟",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ兄弟姉妹",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ隣人同士",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ競争相手",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ旅人と案内人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ店員と客",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の思わぬ教師と学生",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚のかつての親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚のかつての教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の現在の教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不安定な教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の対等な教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の一方的な教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の複雑な教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の切れない教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の変わりゆく教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ親子二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ旧友同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ初対面の二人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ師弟",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ兄弟姉妹",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ隣人同士",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ競争相手",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ旅人と案内人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ店員と客",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の思わぬ教師と学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚のかつての親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚のかつての教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の現在の教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不安定な教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の対等な教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の一方的な教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の複雑な教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の切れない教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の変わりゆく教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ親子二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ旧友同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ初対面の二人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ師弟",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ兄弟姉妹",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ隣人同士",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ競争相手",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ旅人と案内人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ店員と客",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の思わぬ教師と学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きのかつての親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きのかつての教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの現在の教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不安定な教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの対等な教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの一方的な教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの複雑な教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの切れない教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの変わりゆく教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ親子二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ旧友同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ初対面の二人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ師弟",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ兄弟姉妹",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ隣人同士",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ競争相手",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ旅人と案内人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ店員と客",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの思わぬ教師と学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界のかつての親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界のかつての教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の現在の教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不安定な教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の対等な教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の一方的な教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の複雑な教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の切れない教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の変わりゆく教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ親子二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ旧友同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ初対面の二人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ師弟",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ兄弟姉妹",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ隣人同士",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ競争相手",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ旅人と案内人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ店員と客",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の思わぬ教師と学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来のかつての親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来のかつての教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の現在の教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不安定な教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の対等な教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の一方的な教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の複雑な教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の切れない教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の変わりゆく教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ親子二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ旧友同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ初対面の二人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ師弟",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ兄弟姉妹",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ隣人同士",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ競争相手",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ旅人と案内人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ店員と客",
+    "genre": "future"
+  },
+  {
+    "text": "未来の思わぬ教師と学生",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調のかつての親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調のかつての教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の現在の教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不安定な教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の対等な教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の一方的な教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の複雑な教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の切れない教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の変わりゆく教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ親子二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ旧友同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ初対面の二人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ師弟",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ兄弟姉妹",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ隣人同士",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ競争相手",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ旅人と案内人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ店員と客",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の思わぬ教師と学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇のかつての親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇のかつての教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の現在の教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不安定な教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の対等な教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の一方的な教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の複雑な教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の切れない教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の変わりゆく教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ親子二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ旧友同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ初対面の二人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ師弟",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ兄弟姉妹",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ隣人同士",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ競争相手",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ旅人と案内人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ店員と客",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の思わぬ教師と学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇のかつての親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇のかつての教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の現在の教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不安定な教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の対等な教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の一方的な教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の複雑な教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の切れない教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の変わりゆく教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ親子二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ旧友同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ初対面の二人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ師弟",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ兄弟姉妹",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ隣人同士",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ競争相手",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ旅人と案内人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ店員と客",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の思わぬ教師と学生",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路のかつての親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路のかつての教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の現在の教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不安定な教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の対等な教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の一方的な教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の複雑な教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の切れない教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の変わりゆく教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ親子二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ旧友同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ初対面の二人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ師弟",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ兄弟姉妹",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ隣人同士",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ競争相手",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ旅人と案内人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ店員と客",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の思わぬ教師と学生",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚のかつての親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚のかつての教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の現在の教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不安定な教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の対等な教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の一方的な教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の複雑な教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の切れない教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の変わりゆく教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ親子二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ旧友同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ初対面の二人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ師弟",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ兄弟姉妹",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ隣人同士",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ競争相手",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ旅人と案内人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ店員と客",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の思わぬ教師と学生",
+    "genre": "growth"
+  },
+  {
+    "text": "学園のかつての親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園のかつての教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の現在の教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不安定な教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の対等な教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の一方的な教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の複雑な教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の切れない教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の変わりゆく教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ親子二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ旧友同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ初対面の二人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ師弟",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ兄弟姉妹",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ隣人同士",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ競争相手",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ旅人と案内人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ店員と客",
+    "genre": "school"
+  },
+  {
+    "text": "学園の思わぬ教師と学生",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚のかつての親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚のかつての教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の現在の教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不安定な教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の対等な教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の一方的な教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の複雑な教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の切れない教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の変わりゆく教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ親子二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ旧友同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ初対面の二人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ師弟",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ兄弟姉妹",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ隣人同士",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ競争相手",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ旅人と案内人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ店員と客",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の思わぬ教師と学生",
+    "genre": "music"
+  },
+  {
+    "text": "食卓のかつての親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓のかつての教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の現在の教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不安定な教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の対等な教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の一方的な教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の複雑な教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の切れない教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の変わりゆく教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ親子二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ旧友同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ初対面の二人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ師弟",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ兄弟姉妹",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ隣人同士",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ競争相手",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ旅人と案内人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ店員と客",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の思わぬ教師と学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚のかつての親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚のかつての教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の現在の教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不安定な教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の対等な教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の一方的な教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の複雑な教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の切れない教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の変わりゆく教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ親子二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ旧友同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ初対面の二人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ師弟",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ兄弟姉妹",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ隣人同士",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ競争相手",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ旅人と案内人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ店員と客",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の思わぬ教師と学生",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場のかつての親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場のかつての教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の現在の教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不安定な教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の対等な教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の一方的な教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の複雑な教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の切れない教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の変わりゆく教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ親子二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ旧友同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ初対面の二人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ師弟",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ兄弟姉妹",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ隣人同士",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ競争相手",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ旅人と案内人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ店員と客",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の思わぬ教師と学生",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚のかつての親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚のかつての教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の現在の教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不安定な教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の対等な教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の一方的な教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の複雑な教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の切れない教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の変わりゆく教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ親子二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ旧友同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ初対面の二人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ師弟",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ兄弟姉妹",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ隣人同士",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ競争相手",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ旅人と案内人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ店員と客",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の思わぬ教師と学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下のかつての親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下のかつての教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の現在の教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不安定な教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の対等な教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の一方的な教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の複雑な教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の切れない教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の変わりゆく教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ親子二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ旧友同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ初対面の二人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ師弟",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ兄弟姉妹",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ隣人同士",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ競争相手",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ旅人と案内人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ店員と客",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の思わぬ教師と学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚のかつての親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚のかつての教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の現在の教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不安定な教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の対等な教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の一方的な教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の複雑な教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の切れない教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の変わりゆく教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ親子二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ旧友同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ初対面の二人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ師弟",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ兄弟姉妹",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ隣人同士",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ競争相手",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ旅人と案内人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ店員と客",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の思わぬ教師と学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚のかつての親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚のかつての教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の現在の教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不安定な教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の対等な教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の一方的な教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の複雑な教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の切れない教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の変わりゆく教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ親子二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ旧友同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ初対面の二人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ師弟",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ兄弟姉妹",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ隣人同士",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ競争相手",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ旅人と案内人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ店員と客",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の思わぬ教師と学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇のかつての親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇のかつての教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の現在の教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不安定な教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の対等な教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の一方的な教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の複雑な教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の切れない教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の変わりゆく教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ親子二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ旧友同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ初対面の二人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ師弟",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ兄弟姉妹",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ隣人同士",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ競争相手",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ旅人と案内人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ店員と客",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の思わぬ教師と学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇のかつての親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇のかつての教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の現在の教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不安定な教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の対等な教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の一方的な教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の複雑な教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の切れない教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の変わりゆく教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ親子二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ旧友同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ初対面の二人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ師弟",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ兄弟姉妹",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ隣人同士",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ競争相手",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ旅人と案内人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ店員と客",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の思わぬ教師と学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇のかつての親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇のかつての教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の現在の教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不安定な教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の対等な教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の一方的な教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の複雑な教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の切れない教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の変わりゆく教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ親子二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ旧友同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ初対面の二人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ師弟",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ兄弟姉妹",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ隣人同士",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ競争相手",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ旅人と案内人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ店員と客",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の思わぬ教師と学生",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚のかつての親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚のかつての教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の現在の教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不安定な教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の対等な教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の一方的な教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の複雑な教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の切れない教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の変わりゆく教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ親子二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ旧友同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ初対面の二人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ師弟",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ兄弟姉妹",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ隣人同士",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ競争相手",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ旅人と案内人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ店員と客",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の思わぬ教師と学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚のかつての親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚のかつての教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の現在の教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不安定な教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の対等な教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の一方的な教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の複雑な教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の切れない教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の変わりゆく教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ親子二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ旧友同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ初対面の二人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ師弟",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ兄弟姉妹",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ隣人同士",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ競争相手",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ旅人と案内人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ店員と客",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の思わぬ教師と学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚のかつての親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚のかつての教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の現在の教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不安定な教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の対等な教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の一方的な教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の複雑な教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の切れない教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の変わりゆく教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ親子二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ旧友同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ初対面の二人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ師弟",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ兄弟姉妹",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ隣人同士",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ競争相手",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ旅人と案内人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ店員と客",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の思わぬ教師と学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚のかつての親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚のかつての教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の現在の教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不安定な教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の対等な教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の一方的な教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の複雑な教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の切れない教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の変わりゆく教師と学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ親子二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ旧友同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ初対面の二人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ師弟",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ兄弟姉妹",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ隣人同士",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ競争相手",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ旅人と案内人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ店員と客",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の思わぬ教師と学生",
+    "genre": "polar"
+  }
+]

@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの若い学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの若い年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの穏やかな年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの無口な年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの勇敢な年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの不器用な年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの陽気な年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの慎重な年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの頑固な年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの親切な年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた学生",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた旅人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた店員",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた教師",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた料理人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた職人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた配達人",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた研究者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた保護者",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの謎めいた年配者",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の若い学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の若い年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の穏やかな年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の無口な年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の勇敢な年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の不器用な年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の陽気な年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の慎重な年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の頑固な年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の親切な年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた学生",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた旅人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた店員",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた教師",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた料理人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた職人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた配達人",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた研究者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた保護者",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の謎めいた年配者",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の若い学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の若い年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の穏やかな年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の無口な年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の勇敢な年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の不器用な年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の陽気な年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の慎重な年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の頑固な年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の親切な年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた学生",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた旅人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた店員",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた教師",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた料理人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた職人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた配達人",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた研究者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた保護者",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の謎めいた年配者",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の若い学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の若い年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の穏やかな年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の無口な年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の勇敢な年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の不器用な年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の陽気な年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の慎重な年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の頑固な年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の親切な年配者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた学生",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた旅人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた店員",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた教師",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた料理人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた職人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた配達人",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた研究者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた保護者",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の謎めいた年配者",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の若い学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の若い年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の穏やかな年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の無口な年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の勇敢な年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の不器用な年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の陽気な年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の慎重な年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の頑固な年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の親切な年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた学生",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた旅人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた店員",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた教師",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた料理人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた職人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた配達人",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた研究者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた保護者",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の謎めいた年配者",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の若い学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の若い年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の穏やかな年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の無口な年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の勇敢な年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の不器用な年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の陽気な年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の慎重な年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の頑固な年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の親切な年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた学生",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた旅人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた店員",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた教師",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた料理人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた職人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた配達人",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた研究者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた保護者",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の謎めいた年配者",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの若い学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの若い年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの穏やかな年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの無口な年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの勇敢な年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの不器用な年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの陽気な年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの慎重な年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの頑固な年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの親切な年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた学生",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた旅人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた店員",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた教師",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた料理人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた職人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた配達人",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた研究者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた保護者",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの謎めいた年配者",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の若い学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の若い年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の穏やかな年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の無口な年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の勇敢な年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の不器用な年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の陽気な年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の慎重な年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の頑固な年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の親切な年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた学生",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた旅人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた店員",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた教師",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた料理人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた職人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた配達人",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた研究者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた保護者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の謎めいた年配者",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の若い学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の若い年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の穏やかな年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の無口な年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の勇敢な年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の不器用な年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の陽気な年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の慎重な年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の頑固な年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の親切な年配者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた学生",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた旅人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた店員",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた教師",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた料理人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた職人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた配達人",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた研究者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた保護者",
+    "genre": "future"
+  },
+  {
+    "text": "未来の謎めいた年配者",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の若い学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の若い年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の穏やかな年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の無口な年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の勇敢な年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の不器用な年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の陽気な年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の慎重な年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の頑固な年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の親切な年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた学生",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた旅人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた店員",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた教師",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた料理人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた職人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた配達人",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた研究者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた保護者",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の謎めいた年配者",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の若い学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の若い年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の穏やかな年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の無口な年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の勇敢な年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の不器用な年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の陽気な年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の慎重な年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の頑固な年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の親切な年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた学生",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた旅人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた店員",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた教師",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた料理人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた職人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた配達人",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた研究者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた保護者",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の謎めいた年配者",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の若い学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の若い年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の穏やかな年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の無口な年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の勇敢な年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の不器用な年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の陽気な年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の慎重な年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の頑固な年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の親切な年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた学生",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた旅人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた店員",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた教師",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた料理人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた職人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた配達人",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた研究者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた保護者",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の謎めいた年配者",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の若い学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の若い年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の穏やかな年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の無口な年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の勇敢な年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の不器用な年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の陽気な年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の慎重な年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の頑固な年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の親切な年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた学生",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた旅人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた店員",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた教師",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた料理人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた職人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた配達人",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた研究者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた保護者",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の謎めいた年配者",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の若い学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の若い年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の穏やかな年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の無口な年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の勇敢な年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の不器用な年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の陽気な年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の慎重な年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の頑固な年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の親切な年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた学生",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた旅人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた店員",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた教師",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた料理人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた職人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた配達人",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた研究者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた保護者",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の謎めいた年配者",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の若い学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の若い年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の穏やかな年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の無口な年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の勇敢な年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の不器用な年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の陽気な年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の慎重な年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の頑固な年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の親切な年配者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた学生",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた旅人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた店員",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた教師",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた料理人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた職人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた配達人",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた研究者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた保護者",
+    "genre": "school"
+  },
+  {
+    "text": "学園の謎めいた年配者",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の若い学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の若い年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の穏やかな年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の無口な年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の勇敢な年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の不器用な年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の陽気な年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の慎重な年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の頑固な年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の親切な年配者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた学生",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた旅人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた店員",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた教師",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた料理人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた職人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた配達人",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた研究者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた保護者",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の謎めいた年配者",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の若い学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の若い年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の穏やかな年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の無口な年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の勇敢な年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の不器用な年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の陽気な年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の慎重な年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の頑固な年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の親切な年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた学生",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた旅人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた店員",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた教師",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた料理人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた職人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた配達人",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた研究者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた保護者",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の謎めいた年配者",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の若い学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の若い年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の穏やかな年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の無口な年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の勇敢な年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の不器用な年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の陽気な年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の慎重な年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の頑固な年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の親切な年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた学生",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた旅人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた店員",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた教師",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた料理人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた職人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた配達人",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた研究者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた保護者",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の謎めいた年配者",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の若い学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の若い年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の穏やかな年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の無口な年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の勇敢な年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の不器用な年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の陽気な年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の慎重な年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の頑固な年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の親切な年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた学生",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた旅人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた店員",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた教師",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた料理人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた職人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた配達人",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた研究者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた保護者",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の謎めいた年配者",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の若い学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の若い年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の穏やかな年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の無口な年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の勇敢な年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の不器用な年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の陽気な年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の慎重な年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の頑固な年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の親切な年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた学生",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた旅人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた店員",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた教師",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた料理人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた職人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた配達人",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた研究者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた保護者",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の謎めいた年配者",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の若い学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の若い年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の穏やかな年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の無口な年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の勇敢な年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の不器用な年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の陽気な年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の慎重な年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の頑固な年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の親切な年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた学生",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた旅人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた店員",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた教師",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた料理人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた職人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた配達人",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた研究者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた保護者",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の謎めいた年配者",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の若い学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の若い年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の穏やかな年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の無口な年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の勇敢な年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の不器用な年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の陽気な年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の慎重な年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の頑固な年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の親切な年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた学生",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた旅人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた店員",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた教師",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた料理人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた職人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた配達人",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた研究者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた保護者",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の謎めいた年配者",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の若い学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の若い年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の穏やかな年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の無口な年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の勇敢な年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の不器用な年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の陽気な年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の慎重な年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の頑固な年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の親切な年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた学生",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた旅人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた店員",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた教師",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた料理人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた職人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた配達人",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた研究者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた保護者",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の謎めいた年配者",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の若い学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の若い年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の穏やかな年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の無口な年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の勇敢な年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の不器用な年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の陽気な年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の慎重な年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の頑固な年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の親切な年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた学生",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた旅人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた店員",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた教師",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた料理人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた職人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた配達人",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた研究者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた保護者",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の謎めいた年配者",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の若い学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の若い年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の穏やかな年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の無口な年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の勇敢な年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の不器用な年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の陽気な年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の慎重な年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の頑固な年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の親切な年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた学生",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた旅人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた店員",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた教師",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた料理人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた職人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた配達人",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた研究者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた保護者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の謎めいた年配者",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の若い学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の若い年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の穏やかな年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の無口な年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の勇敢な年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の不器用な年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の陽気な年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の慎重な年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の頑固な年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の親切な年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた学生",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた旅人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた店員",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた教師",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた料理人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた職人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた配達人",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた研究者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた保護者",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の謎めいた年配者",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の若い学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の若い年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の穏やかな年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の無口な年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の勇敢な年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の不器用な年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の陽気な年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の慎重な年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の頑固な年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の親切な年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた学生",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた旅人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた店員",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた教師",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた料理人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた職人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた配達人",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた研究者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた保護者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の謎めいた年配者",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の若い学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の若い年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の穏やかな年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の無口な年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の勇敢な年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の不器用な年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の陽気な年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の慎重な年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の頑固な年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の親切な年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた学生",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた旅人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた店員",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた教師",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた料理人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた職人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた配達人",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた研究者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた保護者",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の謎めいた年配者",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の若い学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の若い年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の穏やかな年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の無口な年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の勇敢な年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の不器用な年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の陽気な年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の慎重な年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の頑固な年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の親切な年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた学生",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた旅人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた店員",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた教師",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた料理人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた職人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた配達人",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた研究者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた保護者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の謎めいた年配者",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の若い学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の若い年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の穏やかな年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の無口な年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の勇敢な年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の不器用な年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の陽気な年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の慎重な年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の頑固な年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の親切な年配者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた学生",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた旅人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた店員",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた教師",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた料理人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた職人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた配達人",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた研究者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた保護者",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の謎めいた年配者",
+    "genre": "polar"
+  }
+]

@@ -1,0 +1,12002 @@
+[
+  {
+    "text": "暮らしの失われた突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの失われた子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの最後の子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの小さな子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの青い子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの夜の子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの遠い子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの秘密の子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの静かな子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの新しい子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた突然の電話",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた停電",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた第三者の登場",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた大きな物音",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた雨の降り出し",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた発車の合図",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた警報",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた落とし物",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた予定外の知らせ",
+    "genre": "everyday"
+  },
+  {
+    "text": "暮らしの忘れられた子どもの質問",
+    "genre": "everyday"
+  },
+  {
+    "text": "恋模様の失われた突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の失われた子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の最後の子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の小さな子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の青い子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の夜の子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の遠い子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の秘密の子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の静かな子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の新しい子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた突然の電話",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた停電",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた第三者の登場",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた大きな物音",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた雨の降り出し",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた発車の合図",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた警報",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた落とし物",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた予定外の知らせ",
+    "genre": "romance"
+  },
+  {
+    "text": "恋模様の忘れられた子どもの質問",
+    "genre": "romance"
+  },
+  {
+    "text": "青春期の失われた突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の失われた子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の最後の子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の小さな子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の青い子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の夜の子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の遠い子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の秘密の子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の静かな子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の新しい子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた突然の電話",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた停電",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた第三者の登場",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた大きな物音",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた雨の降り出し",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた発車の合図",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた警報",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた落とし物",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた予定外の知らせ",
+    "genre": "youth"
+  },
+  {
+    "text": "青春期の忘れられた子どもの質問",
+    "genre": "youth"
+  },
+  {
+    "text": "家族劇の失われた突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の失われた子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の最後の子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の小さな子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の青い子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の夜の子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の遠い子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の秘密の子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の静かな子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の新しい子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた突然の電話",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた停電",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた第三者の登場",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた大きな物音",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた雨の降り出し",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた発車の合図",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた警報",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた落とし物",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた予定外の知らせ",
+    "genre": "family"
+  },
+  {
+    "text": "家族劇の忘れられた子どもの質問",
+    "genre": "family"
+  },
+  {
+    "text": "友情譚の失われた突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の失われた子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の最後の子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の小さな子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の青い子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の夜の子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の遠い子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の秘密の子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の静かな子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の新しい子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた突然の電話",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた停電",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた第三者の登場",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた大きな物音",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた雨の降り出し",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた発車の合図",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた警報",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた落とし物",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた予定外の知らせ",
+    "genre": "friendship"
+  },
+  {
+    "text": "友情譚の忘れられた子どもの質問",
+    "genre": "friendship"
+  },
+  {
+    "text": "冒険譚の失われた突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の失われた子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の最後の子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の小さな子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の青い子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の夜の子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の遠い子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の秘密の子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の静かな子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の新しい子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた突然の電話",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた停電",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた第三者の登場",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた大きな物音",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた雨の降り出し",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた発車の合図",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた警報",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた落とし物",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた予定外の知らせ",
+    "genre": "adventure"
+  },
+  {
+    "text": "冒険譚の忘れられた子どもの質問",
+    "genre": "adventure"
+  },
+  {
+    "text": "謎解きの失われた突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの失われた子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの最後の子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの小さな子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの青い子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの夜の子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの遠い子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの秘密の子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの静かな子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの新しい子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた突然の電話",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた停電",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた第三者の登場",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた大きな物音",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた雨の降り出し",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた発車の合図",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた警報",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた落とし物",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた予定外の知らせ",
+    "genre": "mystery"
+  },
+  {
+    "text": "謎解きの忘れられた子どもの質問",
+    "genre": "mystery"
+  },
+  {
+    "text": "幻想界の失われた突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の失われた子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の最後の子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の小さな子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の青い子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の夜の子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の遠い子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の秘密の子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の静かな子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の新しい子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた突然の電話",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた停電",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた第三者の登場",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた大きな物音",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた雨の降り出し",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた発車の合図",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた警報",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた落とし物",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた予定外の知らせ",
+    "genre": "fantasy"
+  },
+  {
+    "text": "幻想界の忘れられた子どもの質問",
+    "genre": "fantasy"
+  },
+  {
+    "text": "未来の失われた突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の失われた子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の最後の子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の小さな子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の青い子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の夜の子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の遠い子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の秘密の子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の静かな子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の新しい子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた突然の電話",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた停電",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた第三者の登場",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた大きな物音",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた雨の降り出し",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた発車の合図",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた警報",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた落とし物",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた予定外の知らせ",
+    "genre": "future"
+  },
+  {
+    "text": "未来の忘れられた子どもの質問",
+    "genre": "future"
+  },
+  {
+    "text": "喜劇調の失われた突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の失われた子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の最後の子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の小さな子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の青い子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の夜の子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の遠い子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の秘密の子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の静かな子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の新しい子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた突然の電話",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた停電",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた第三者の登場",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた大きな物音",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた雨の降り出し",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた発車の合図",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた警報",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた落とし物",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた予定外の知らせ",
+    "genre": "comedy"
+  },
+  {
+    "text": "喜劇調の忘れられた子どもの質問",
+    "genre": "comedy"
+  },
+  {
+    "text": "緊迫劇の失われた突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の失われた子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の最後の子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の小さな子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の青い子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の夜の子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の遠い子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の秘密の子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の静かな子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の新しい子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた突然の電話",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた停電",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた第三者の登場",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた大きな物音",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた雨の降り出し",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた発車の合図",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた警報",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた落とし物",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた予定外の知らせ",
+    "genre": "suspense"
+  },
+  {
+    "text": "緊迫劇の忘れられた子どもの質問",
+    "genre": "suspense"
+  },
+  {
+    "text": "時代劇の失われた突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の失われた子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の最後の子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の小さな子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の青い子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の夜の子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の遠い子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の秘密の子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の静かな子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の新しい子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた突然の電話",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた停電",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた第三者の登場",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた大きな物音",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた雨の降り出し",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた発車の合図",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた警報",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた落とし物",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた予定外の知らせ",
+    "genre": "historical"
+  },
+  {
+    "text": "時代劇の忘れられた子どもの質問",
+    "genre": "historical"
+  },
+  {
+    "text": "旅路の失われた突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の失われた子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の最後の子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の小さな子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の青い子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の夜の子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の遠い子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の秘密の子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の静かな子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の新しい子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた突然の電話",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた停電",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた第三者の登場",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた大きな物音",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた雨の降り出し",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた発車の合図",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた警報",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた落とし物",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた予定外の知らせ",
+    "genre": "travel"
+  },
+  {
+    "text": "旅路の忘れられた子どもの質問",
+    "genre": "travel"
+  },
+  {
+    "text": "成長譚の失われた突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の失われた子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の最後の子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の小さな子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の青い子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の夜の子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の遠い子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の秘密の子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の静かな子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の新しい子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた突然の電話",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた停電",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた第三者の登場",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた大きな物音",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた雨の降り出し",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた発車の合図",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた警報",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた落とし物",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた予定外の知らせ",
+    "genre": "growth"
+  },
+  {
+    "text": "成長譚の忘れられた子どもの質問",
+    "genre": "growth"
+  },
+  {
+    "text": "学園の失われた突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の失われた子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の最後の子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の小さな子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の青い子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の夜の子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の遠い子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の秘密の子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の静かな子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の新しい子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた突然の電話",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた停電",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた第三者の登場",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた大きな物音",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた雨の降り出し",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた発車の合図",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた警報",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた落とし物",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた予定外の知らせ",
+    "genre": "school"
+  },
+  {
+    "text": "学園の忘れられた子どもの質問",
+    "genre": "school"
+  },
+  {
+    "text": "音楽譚の失われた突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の失われた子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の最後の子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の小さな子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の青い子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の夜の子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の遠い子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の秘密の子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の静かな子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の新しい子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた突然の電話",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた停電",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた第三者の登場",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた大きな物音",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた雨の降り出し",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた発車の合図",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた警報",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた落とし物",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた予定外の知らせ",
+    "genre": "music"
+  },
+  {
+    "text": "音楽譚の忘れられた子どもの質問",
+    "genre": "music"
+  },
+  {
+    "text": "食卓の失われた突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の失われた子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の最後の子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の小さな子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の青い子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の夜の子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の遠い子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の秘密の子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の静かな子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の新しい子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた突然の電話",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた停電",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた第三者の登場",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた大きな物音",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた雨の降り出し",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた発車の合図",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた警報",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた落とし物",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた予定外の知らせ",
+    "genre": "cooking"
+  },
+  {
+    "text": "食卓の忘れられた子どもの質問",
+    "genre": "cooking"
+  },
+  {
+    "text": "動物譚の失われた突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の失われた子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の最後の子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の小さな子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の青い子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の夜の子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の遠い子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の秘密の子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の静かな子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の新しい子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた突然の電話",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた停電",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた第三者の登場",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた大きな物音",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた雨の降り出し",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた発車の合図",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた警報",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた落とし物",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた予定外の知らせ",
+    "genre": "animals"
+  },
+  {
+    "text": "動物譚の忘れられた子どもの質問",
+    "genre": "animals"
+  },
+  {
+    "text": "競技場の失われた突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の失われた子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の最後の子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の小さな子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の青い子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の夜の子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の遠い子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の秘密の子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の静かな子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の新しい子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた突然の電話",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた停電",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた第三者の登場",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた大きな物音",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた雨の降り出し",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた発車の合図",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた警報",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた落とし物",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた予定外の知らせ",
+    "genre": "sports"
+  },
+  {
+    "text": "競技場の忘れられた子どもの質問",
+    "genre": "sports"
+  },
+  {
+    "text": "海洋譚の失われた突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の失われた子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の最後の子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の小さな子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の青い子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の夜の子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の遠い子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の秘密の子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の静かな子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の新しい子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた突然の電話",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた停電",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた第三者の登場",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた大きな物音",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた雨の降り出し",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた発車の合図",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた警報",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた落とし物",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた予定外の知らせ",
+    "genre": "ocean"
+  },
+  {
+    "text": "海洋譚の忘れられた子どもの質問",
+    "genre": "ocean"
+  },
+  {
+    "text": "災害下の失われた突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の失われた子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の最後の子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の小さな子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の青い子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の夜の子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の遠い子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の秘密の子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の静かな子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の新しい子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた突然の電話",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた停電",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた第三者の登場",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた大きな物音",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた雨の降り出し",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた発車の合図",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた警報",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた落とし物",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた予定外の知らせ",
+    "genre": "disaster"
+  },
+  {
+    "text": "災害下の忘れられた子どもの質問",
+    "genre": "disaster"
+  },
+  {
+    "text": "和風奇譚の失われた突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の失われた子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の最後の子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の小さな子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の青い子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の夜の子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の遠い子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の秘密の子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の静かな子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の新しい子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた突然の電話",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた停電",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた第三者の登場",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた大きな物音",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた雨の降り出し",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた発車の合図",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた警報",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた落とし物",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた予定外の知らせ",
+    "genre": "japanese"
+  },
+  {
+    "text": "和風奇譚の忘れられた子どもの質問",
+    "genre": "japanese"
+  },
+  {
+    "text": "民俗譚の失われた突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の失われた子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の最後の子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の小さな子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の青い子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の夜の子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の遠い子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の秘密の子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の静かな子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の新しい子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた突然の電話",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた停電",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた第三者の登場",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた大きな物音",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた雨の降り出し",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた発車の合図",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた警報",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた落とし物",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた予定外の知らせ",
+    "genre": "folklore"
+  },
+  {
+    "text": "民俗譚の忘れられた子どもの質問",
+    "genre": "folklore"
+  },
+  {
+    "text": "心理劇の失われた突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の失われた子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の最後の子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の小さな子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の青い子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の夜の子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の遠い子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の秘密の子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の静かな子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の新しい子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた突然の電話",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた停電",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた第三者の登場",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた大きな物音",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた雨の降り出し",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた発車の合図",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた警報",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた落とし物",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた予定外の知らせ",
+    "genre": "psychology"
+  },
+  {
+    "text": "心理劇の忘れられた子どもの質問",
+    "genre": "psychology"
+  },
+  {
+    "text": "法廷劇の失われた突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の失われた子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の最後の子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の小さな子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の青い子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の夜の子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の遠い子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の秘密の子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の静かな子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の新しい子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた突然の電話",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた停電",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた第三者の登場",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた大きな物音",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた雨の降り出し",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた発車の合図",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた警報",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた落とし物",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた予定外の知らせ",
+    "genre": "courtroom"
+  },
+  {
+    "text": "法廷劇の忘れられた子どもの質問",
+    "genre": "courtroom"
+  },
+  {
+    "text": "医療劇の失われた突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の失われた子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の最後の子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の小さな子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の青い子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の夜の子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の遠い子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の秘密の子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の静かな子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の新しい子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた突然の電話",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた停電",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた第三者の登場",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた大きな物音",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた雨の降り出し",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた発車の合図",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた警報",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた落とし物",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた予定外の知らせ",
+    "genre": "medical"
+  },
+  {
+    "text": "医療劇の忘れられた子どもの質問",
+    "genre": "medical"
+  },
+  {
+    "text": "考古譚の失われた突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の失われた子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の最後の子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の小さな子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の青い子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の夜の子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の遠い子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の秘密の子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の静かな子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の新しい子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた突然の電話",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた停電",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた第三者の登場",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた大きな物音",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた雨の降り出し",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた発車の合図",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた警報",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた落とし物",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた予定外の知らせ",
+    "genre": "archaeology"
+  },
+  {
+    "text": "考古譚の忘れられた子どもの質問",
+    "genre": "archaeology"
+  },
+  {
+    "text": "郷土譚の失われた突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の失われた子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の最後の子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の小さな子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の青い子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の夜の子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の遠い子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の秘密の子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の静かな子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の新しい子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた突然の電話",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた停電",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた第三者の登場",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた大きな物音",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた雨の降り出し",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた発車の合図",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた警報",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた落とし物",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた予定外の知らせ",
+    "genre": "local-history"
+  },
+  {
+    "text": "郷土譚の忘れられた子どもの質問",
+    "genre": "local-history"
+  },
+  {
+    "text": "深海譚の失われた突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の失われた子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の最後の子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の小さな子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の青い子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の夜の子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の遠い子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の秘密の子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の静かな子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の新しい子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた突然の電話",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた停電",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた第三者の登場",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた大きな物音",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた雨の降り出し",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた発車の合図",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた警報",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた落とし物",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた予定外の知らせ",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "深海譚の忘れられた子どもの質問",
+    "genre": "deep-sea"
+  },
+  {
+    "text": "極地譚の失われた突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の失われた子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の最後の子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の小さな子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の青い子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の夜の子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の遠い子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の秘密の子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の静かな子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の新しい子どもの質問",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた突然の電話",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた停電",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた第三者の登場",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた大きな物音",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた雨の降り出し",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた発車の合図",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた警報",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた落とし物",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた予定外の知らせ",
+    "genre": "polar"
+  },
+  {
+    "text": "極地譚の忘れられた子どもの質問",
+    "genre": "polar"
+  }
+]
